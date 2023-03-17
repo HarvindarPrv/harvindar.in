@@ -1,0 +1,362 @@
+@media screen and (max-width: 1110px) {
+    .container{
+        transition: all 0.5s;
+        padding: 0px 5% 1px 5%;
+    }
+}
+
+@media screen and (max-width: 989px) {
+    .container{
+        transition: all 0.5s;
+        padding: 0px 5% 1px 5%;
+    }
+
+    /* here resposive of float menu */
+
+    .floating-menu{
+        --float-menu-right-space: 5%;
+        top: 117px;
+    }
+
+    /* here resposive of float menu */
+
+    /* Here making 1 section resposive that is intro section */
+    
+    .logo img{
+        display: initial;
+    }
+
+    .menu .options{
+        display: none;
+    }
+
+    .mobile-menu{
+        display: initial;
+    }
+
+    .intro{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        padding: 53px 0px;
+    }
+
+    .intro-image {
+        display: none;
+    }
+
+    .intro-start {
+        font-size: 1.3rem;
+    }
+
+    .author-name {
+        font-size: 2.1rem;
+    }
+
+    .designation {
+        font-size: 1.2rem;
+    }
+
+    .intro .social-media{
+        flex-direction: column;
+    }
+
+    .lets-talk-button{
+        display: inline-flex;
+        width: 128px;
+        height: 54px;
+    }
+
+    .intro .social-media #social a{
+        font-size: 1.7rem;
+    }
+
+    /* intro section style ends */
+
+    /* about me section style start's here */
+
+    .about-me-text h1{
+        font-size: 2.1rem;
+    }
+
+    .about-me-text p{
+        max-width: none;
+    }
+
+    .about-me-heading {
+        padding: 78px 0px 0px 0px;
+    }
+
+    .about-me-tags {
+        padding: 40px 0px 54px 0px;
+    }
+
+    .about-me-tags p{
+        padding: 4px 14px;
+        font-size: 0.9rem;
+    }
+
+    .about-me-cards {
+        padding: 49px 0px 85px 0px;
+    }
+
+    /* about me section style end's here */
+
+    /* Services Section Style Start From Here */
+
+    .services-heading{
+        padding-top: 65px;
+    }
+
+    .services-heading h1 {
+        font-size: 1.7rem;
+    }
+
+    .services-heading p {
+        font-size: 1.1rem;
+        margin-bottom: 5px;
+    }
+
+    .services-carousel-button {
+        font-size: 1rem;
+        width: 40px;
+        height: 40px;
+    }
+
+    .services-carousel {
+        margin: 30px 0px 52px 0px;
+    }
+
+    .services-carousel .card:hover {
+        box-shadow: none;
+    }
+
+    /* Services Section Style End Here */
+
+    /* Here style of project section start's */
+
+    #projects {
+        background-color: rgba(var(--primary-bg-1), 100%);
+        padding-bottom: 40px;
+    }
+
+    .portfolio-heading{
+        padding: 90px 0px 0px 0px;
+    }
+
+    .portfolio-heading h1{
+        font-size: 2.1rem;
+    }
+
+    #projects .project-buttons{
+        padding: 39px 0px;
+        font-size: 0.8rem;
+    }
+
+    .project-btn{
+        padding: 17px 20px;
+        text-align: center;
+    }
+
+    .portfolio-heading p {
+        max-width: 95%;
+    }
+
+    .stack-widget-content-navigator {
+        padding: 0px 19px;
+        height: 42px;
+        font-size: 0.9rem;
+    }
+
+    /* here style of project section end's */
+
+    /* my skills style start's here */
+
+    .skills-heading {
+        padding: 90px 0px 0px 0px;
+    }
+
+    .skills-heading h1 {
+        font-size: 2.1rem;
+    }
+
+    .skills-heading p {
+        max-width: 95%;
+    }
+
+    .skillsContainer {
+        margin: 0px 0px 59px 0px;
+    }
+
+    /* my skills style end's here */
+
+    /* My experience start from here */
+
+    .experiences-heading {
+        padding: 90px 0px 0px 0px;
+    }
+
+    .experiences-heading h1 {
+        font-size: 2.1rem;
+    }
+
+    .experiences-heading p {
+        max-width: 95%;
+    }
+
+    .timeline {
+        padding: 63px 0px 86px 0px;
+    }
+
+    .timeline .timelineCards {
+        min-height: 555px;
+        position: relative;
+        width: 100%;
+    }
+
+    .timelineContainerButtons {
+        margin-top: 52px;
+    }
+
+    /* My experience end's here */
+
+    /* a message to user styles start's from here */
+
+    .message .message-content {
+        font-size: 2.1rem;
+    }
+
+    /* a message to user styles end's here */
+
+    /* Here Style Start's for image viewer */
+
+    .imageViewer .imageContainer .slide .text{
+        font-size: 0.8rem;
+        font-weight: 300;
+    }
+
+    /* Here Style end's for image viewer */
+
+    /* readMore style start's from here */
+
+    .readMoreViewerPage .readMoreContent h1{
+        font-size: 1.6rem;
+    }
+
+    .readMoreViewerPage .readMoreContent h2{
+        font-size: 1.4rem;
+    }
+
+    .readMoreViewerPage .readMoreContent h3{
+        font-size: 1.1rem;
+    }
+
+    .readMoreViewerPage .readMoreContent h4{
+        font-size: 1rem;
+    }
+
+    .codeSnippet pre {
+        font-size: 0.8rem;
+    }
+
+    .codeSnippetcontent::-webkit-scrollbar {
+        height: 6px;
+    }
+
+    /* readMore style end's here */
+}
+
+@media screen and (max-width: 550px) {
+    /* a message to user styles start's from here */
+    
+    .message .message-content {
+        font-size: 1.5rem;
+    }
+
+    .message .message-discription {
+        font-size: 1rem;
+    }
+    
+    .message .message-container {
+        padding-top: 75px;
+        padding-bottom: 192px;
+    }
+
+    .footer-content .social-links {
+        justify-content: center;
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+
+    .footer-content .portfoliolinks .goToTop {
+        position: absolute;
+        right: 19px;
+        top: 84px;
+    }
+
+    /* a message to user styles end's here */
+
+    /* Here style goes for bubble animation */
+    .bubbleEffect .bubbles .bubble {
+        transform: translate(-50%, 100%) scale(0.5) !important;
+    }
+    /* Here style goes for bubble animation end here */
+
+    /* read more style start's from here */
+
+    .readMorePadding{
+        padding: 0px 1rem 0px 1rem;
+    }
+
+    .readMoreContent {
+        padding-top: 1.5rem;
+    }
+
+    .readMoreHeaderText .projectHeading h2{
+        font-size: 0.9rem;
+    }
+
+    .readMoreHeaderText .projectHeading p {
+        font-size: 0.8rem;
+    }
+
+    /* read more style end's from here */
+
+    /* Here style sheet for about section */
+    .about-me-text p{
+        font-size: 0.9rem;
+    }
+    
+    
+    /* Here style sheet for portfolio section */
+    .portfolio-heading p{
+        font-size: 0.9rem;
+    }
+    
+    /* Here style sheet for skills section */
+    .skills-heading p{
+        font-size: 0.9rem;
+    }
+    
+    /* Here style sheet for experiences section */
+    .experiences-heading p{
+        font-size: 0.9rem;
+    }
+    
+    /* Here style sheet for about section */
+    .about-me-text p{
+        font-size: 0.9rem;
+    }
+    
+
+
+}
+
+@media screen and (min-width: 990px) {
+    /* Here Manu Menu Style Start's */
+    .mobile-menu-optins{
+        top: -100% !important;
+        transition: all 1s cubic-bezier(0.54, 0.27, 0.74, 1.08) 1s;
+    }
+    /* Here Manu Menu Style End's */
+}

@@ -1,0 +1,1029 @@
+{
+    "website-info" : {
+        "author": "Harvindar Singh",
+        "version": "0.0.1",
+        "active-theme": "default"
+    },
+
+    "themes": {
+        "default": {
+            "common-color": "255, 255, 255",
+            "common-color-2": "255, 255, 255",
+            "logo-font-color": "8, 195, 145",
+            "primary-font-color": "8, 195, 145",
+            "primary-bg-1": "33, 40, 48",
+            "primary-bg-1-2": "33, 40, 48",
+            "primary-bg-2": "23, 28, 35",
+            "read-more-viewer-bg": "33, 39, 47",
+            "highlight-color": "255, 215, 0",
+
+            "readMoreViewer-bg-1": "44, 48, 58",
+            "readMoreViewer-bg-2": "30, 31, 38",
+            "readMoreViewer-bg-3": "68, 72, 87",
+            "readMoreViewer-bg-shadow": "0, 0, 0",
+            "readMoreViewer-link": "0, 255, 184",
+            "readMoreViewer-tag": "118, 218, 255"
+        },
+
+        "lightRed": {
+            "logo-font-color": "41, 45, 62",
+            "primary-font-color": "235, 69, 95",
+            "primary-bg-1": "255, 255, 255",
+            "primary-bg-1-2": "41, 45, 62",
+            "primary-bg-2": "228, 231, 231",
+            "common-color": "41, 45, 62",
+            "common-color-2": "255, 255, 255",
+            "read-more-viewer-bg": "255, 255, 255",
+            "highlight-color": "255, 215, 0",
+
+            "readMoreViewer-bg-1": "255, 255, 255",
+            "readMoreViewer-bg-2": "247, 247, 247",
+            "readMoreViewer-bg-3": "228, 231, 231",
+            "readMoreViewer-bg-shadow": "189, 189, 189",
+            "readMoreViewer-link": "41, 45, 62",
+            "readMoreViewer-tag": "249, 0, 39"
+
+        },
+
+        "lightBlue": {
+            "logo-font-color": "251, 188, 4",
+            "primary-font-color": "66, 133, 244",
+            "primary-bg-1": "255, 255, 255",
+            "primary-bg-2": "248, 249, 251",
+            "common-color": "32, 33, 37",
+            "read-more-viewer-bg": "0, 0, 0"
+        }
+    },
+
+    "activatedSections":{
+        "introduction": true,
+        "aboutMe": true,
+        "services": false,
+        "projects": true,
+        "skills": true,
+        "messageToUser": true,
+        "footer": true
+    },
+
+    "themeMenu": {
+        "themeButton": [
+            {
+                "theme": "lightRed",
+                "icon": "fa-solid fa-sun"
+            },
+            {
+                "theme": "default",
+                "icon": "fa-solid fa-moon"
+            }
+        ],
+
+        "quickLinks": [
+            {
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/",
+                "icon": "fa-brands fa-linkedin"
+            },
+            {
+                "link": "https://www.youtube.com/@Brightgoal",
+                "icon": "fa-brands fa-youtube"
+            },
+            {
+                "link": "https://wa.me/+919695806109",
+                "icon": "fa-brands fa-whatsapp"
+            }
+        ],
+
+        "authorIcon": "data/msg-to-user/author.png"
+    },
+
+    "mainMenu": {
+        "authorName": "Harvindar Singh",
+        "logoText" : "Harry",
+        "logo": {
+            "default": "data/introduction/profile.png",
+            "lightRed": "data/introduction/profile_red_bg.png"
+        },
+        "footerMesaage": "Made with ❤️ by Harvindar Singh",
+        "menuOptions": [
+            {
+                "name": "Blog",
+                "link": "https://www.brightgoal.in"
+            },
+            {
+                "name": "Chat",
+                "link": "https://wa.me/+919695806109"
+            },
+            {
+                "name": "Resume",
+                "link": "./data/files/resume.pdf"
+            }
+        ]
+    },
+
+    "author-info": {
+        "name": "Harvindar Singh",
+        "mobile": "+919695806109",
+        "country": "india",
+        "email": "harvindar994@gmail.com",
+        "designation": "Software Developer | UI/UX Designer | Frontend Developer",
+        "description": "I am a professional with a diverse skill set in the technology industry. I have experience as a Software Developer, UI/UX Designer, and Frontend Developer, and I am passionate about using my knowledge to create innovative digital products.",
+        "sayHiEmail": "harvindar.personal@gmail.com",
+        "subject": "Let's Connect",
+        "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]",
+        "profile_images": {
+            
+            "default": "data/introduction/profile.png",
+            "lightRed": "data/introduction/profile_red_bg.png"
+        },
+        
+        "social_media": [
+            {
+                "name": "GitHub",
+                "link": "https://github.com/Harvindar994",
+                "icon": "fa-brands fa-github",
+                "target": "blank"
+            },
+            {
+                "name": "Discord",
+                "link": "https://discordapp.com/channels/@me/harvindar994#9596/",
+                "icon": "fa-brands fa-discord",
+                "target": "blank"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/",
+                "icon": "fa-brands fa-linkedin",
+                "target": "blank"
+            },
+            {
+                "name": "Youtube",
+                "link": "https://www.youtube.com/@Brightgoal",
+                "icon": "fa-brands fa-youtube",
+                "target": "blank"
+            },
+            {
+                "name": "WhatsApp",
+                "link": "https://wa.me/+919695806109",
+                "icon": "fa-brands fa-whatsapp",
+                "target": "blank"
+            }
+        ]
+    },
+
+    "aboutMe":{
+        "description": "My approach to work involves a deep understanding of key concepts, which fuels my relentless pursuit of knowledge and innovation. With this mindset, I am always ready to take on new challenges and learn new technologies to solve problems efficiently and without hesitation.",
+        
+        "//Warning": "while you are defining tag you can use <i> tag but inorder to give value to the tag use single-quots not double-quotes ",
+        "tags" : [
+            "3 <i class='fa-solid fa-star'></i> CodeChef",
+            "Built Large Desktop <i class='fa-solid fa-desktop'></i> App's For Clients for real world use",
+            "Built this portfolio using html, vanilla css and javascript <span class='highlight'>#NoLibrary.</span>",
+            "Built low-level app's in C language <span class='highlight'>#NoLibrary.</span>",
+            "Can start working with any language in just a Week.",
+            "Not Just Word's 😊 you can see work down below."
+        ],
+        "cards": [
+            {
+                "icon": "fa-brands fa-app-store-ios",
+                "name": "Software Developer",
+                "description": "I'm a Python developer and can develop, test, and enhances software for different industries. I solve complex problems on the web, and desktop apps."
+            },
+            {
+                "icon": "fa-solid fa-wand-magic-sparkles",
+                "name": "UI/UX Designer",
+                "description": "specialize in creating intuitive digital interfaces for websites and mobile apps. Skilled in design principles and user behavior for creating visually appealing, navigable designs."
+            },
+            {
+                "icon": "fa-solid fa-desktop",
+                "name": "Frontend Developer",
+                "description": "I'm a Front-End Engineer and can craft stunning and high-performing products with a delightful user experience. "
+            }
+        ]
+    },
+
+    "services": [
+        {
+            "icon": "fa-brands fa-uikit",
+            "name": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
+        },
+        {
+            "icon": "fa-solid fa-wand-magic-sparkles",
+            "name": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
+        },
+        {
+            "icon": "fa-brands fa-uikit",
+            "name": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
+        },
+        {
+            "icon": "fa-brands fa-uikit",
+            "name": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
+        },
+        {
+            "icon": "fa-brands fa-uikit",
+            "name": "UI/UX Designer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
+        }
+    ],
+
+    "protfolio": {
+        "heading": "My Work",
+        "description": "Best way to truly master something? It's simple - build it yourself! Rather than getting lost in endless amounts of theoretical information that you may never use, take a more hands-on approach. Just like how you can't become a skilled driver by just reading about it, you need to get behind the wheel and experience it for yourself. So, don't just read about it - dive in and build your way to success!",
+        "options": {
+            "activeCardHoverEffect": false
+        },
+        "projects": [
+            {
+                "name": "All Work",
+                "projects": [
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Library ERP System",
+                        "dateTime": "Aug 19, 2022",
+                        "description": "Revolutionize the college library game with Python and PyQt5 - the ultimate powerhouse solution for a seamless experience of book tracking, inventory management and more!",
+                        "thumbnailImage": "./data/projects/project-1/Login Screen.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "//showUpFormate can be": [{"image": "image-url", "text": "text"}],
+                        "showUp": "./data/projects/project-1/Preview.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {
+
+                            "icon": "./data/skills/python.png",
+                            "title": "Library ERP System",
+                            "titleLine": "Built on python",
+                            "sharingLink": {
+                                "title": "harvindar.in",
+                                "text": "Library ERP System",
+                                "url": "./data/projects/project-1/Preview.mp4"
+                            },
+                            "usedTech": ["Python", "PyQt5", "Poppler", "MySQL", "SQL Lite", "Jason"],
+                            "images": [
+                                "./data/projects/project-1/Dashboard.jpg",
+                                "./data/projects/project-1/Login Screen.jpg",
+                                "./data/projects/project-1/Singup Screen.jpg",
+                                "./data/projects/project-1/Database Setup Screen.jpg",
+                                "./data/projects/project-1/Privacy Policy.png",
+                                "./data/projects/project-1/Forget Password Screen.jpg",
+                                "./data/projects/project-1/Library Settings.jpg",
+                                "./data/projects/project-1/Issue and Submit Book.jpg",
+                                "./data/projects/project-1/Print ID Cards For Students.jpg",
+                                "./data/projects/project-1/Print Qr Code For Book.jpg",
+                                "./data/projects/project-1/Search Books.jpg",
+                                "./data/projects/project-1/Search Student.jpg",
+                                "./data/projects/project-1/Update Book.jpg",
+                                "./data/projects/project-1/Update Student.jpg",
+                                "./data/projects/project-1/About Page 2.png",
+                                "./data/projects/project-1/About Page.png",
+                                "./data/projects/project-1/Add Books.jpg",
+                                "./data/projects/project-1/Add Student.jpg",
+                                "./data/projects/project-1/Book Issue .jpg"
+                            ],
+                            "imageTitle": "Built in",
+                            "imageSortDescription": "Aug 19, 2022",
+                            "content": [
+                                {
+                                    "type": "h4",
+                                    "html": "<span class='primary'>Description</span>"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "12px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "This software designed to manage a complete library of a college using Python and PyQt5 is an efficient and effective solution to streamline the library management process. The software enables users to manage all aspects of the library, including cataloging, searching, borrowing, and returning books."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "One of the key features of this software is its user-friendly interface. The GUI developed using PyQt5 provides a simple and intuitive interface that is easy to navigate for users of all skill levels. The interface displays various options, such as search books by title, author, ISBN number, and category, among others."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Another essential feature of the software is its ability to track book borrowing and returning. The software allows library staff to check out books to users and record their details, including the borrower's name, contact details, and due date. Similarly, when the books are returned, the software marks them as returned and removes them from the borrower's account."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Furthermore, the software enables library staff to manage book inventory efficiently. Users can add new books to the library catalog, edit existing books, and delete books that are no longer in circulation."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Overall, This software provides a comprehensive solution to manage a complete college library. Its intuitive interface, book tracking, and inventory management capabilities make it a valuable tool for librarians and users alike."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "url here",
+                                    "text": "Click here to Download",
+                                    "class": "important"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Flappy Bird",
+                        "dateTime": "15 Months Ago",
+                        "description": "I crafted every inch of this game from scratch, leveraging the fundamental capabilities of Pygame for an electrifying end result!",
+                        "thumbnailImage": "./data/projects/project-3/1 (2).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-3/video.mp4",
+
+                        "github": "https://github.com/Harvindar994/FlappyBird",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Ludo",
+                        "dateTime": "15 Months Ago",
+                        "description": "Unleashed a whole new level of gaming magic with my custom-coded creation using Pygame module in Python!",
+                        "thumbnailImage": "./data/projects/project-2/1 (4).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-2/video.mp4",
+
+                        "github": "https://github.com/Harvindar994/Ludo-in-Python",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "MR Studio Clone",
+                        "dateTime": "2 Months Ago",
+                        "description": "I replicated the mr-studio page using only CSS and HTML - impressive, huh?",
+                        "thumbnailImage": "./data/projects/project-5/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-5/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "Music Player",
+                        "dateTime": "2 Months Ago",
+                        "description": "Developed this music player using Html, CSS, and pure JavaScript! <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-9/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-9/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "TinDog Clone",
+                        "dateTime": "2 Months Ago",
+                        "description": "Crafted this amazing replica of TinDog using the trio of Html, CSS, and pure Javascript! <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-6/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-6/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "Leica M6",
+                        "dateTime": "1 Months Ago",
+                        "description": "Developed this Leica M6-inspired clone using HTML, CSS, and pure JavaScript. <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-7/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-7/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "Glassy Dashboard",
+                        "dateTime": "1 Months Ago",
+                        "description": "Created this trendy Glassy Dashboard with the flavor of Glassy Designs, using Html, CSS, and vanilla javascript. <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-8/1.png",
+                        
+                        "showUpType": "images",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-8/1.png",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/blender.png",
+                        "name": "Brightgoal Logo Animation",
+                        "dateTime": "1 Months Ago",
+                        "description": "Check out this awesome 3D animation I made using Blender for my YouTube channel intro!",
+                        "thumbnailImage": "./data/projects/project-10/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-10/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Video Converter",
+                        "dateTime": "5 Months Ago",
+                        "description": "Transformed my programming skills into a powerful video converter with Python and PyQt5 that extracts audio to MP3.",
+                        "thumbnailImage": "./data/projects/project-4/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-4/Video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Snake Game",
+                        "dateTime": "1 Year Ago",
+                        "description": "Check this out - I built this game from scratch with Python's Pygame module! Every single line of code was written by me, but I used Pygame for its basic functionalities.",
+                        "thumbnailImage": "./data/projects/project-11/1 (3).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-11/Video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/blender.png",
+                        "name": "Sword Animation",
+                        "dateTime": "6 month Ago",
+                        "description": "I dabbled in the world of 3D animation by creating a stunning masterpiece using Blender. It was my way of exploring ray tracing, color, lighting, and particles, and boy did I learn a lot!",
+                        "thumbnailImage": "./data/projects/project-12/5.PNG",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-12/Video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {
+                            "icon": "./data/skills/blender.png",
+                            "title": "Sword Animation",
+                            "titleLine": "Built using Blender",
+                            "sharingLink": {
+                                "title": "harvindar.in",
+                                "text": "Sword Animation",
+                                "url": "./data/projects/project-12/video.mp4"
+                            },
+                            "usedTech": ["Blender"],
+                            "images": [
+                                "./data/projects/project-12/sword4.png",
+                                "./data/projects/project-12/sword5.png",
+                                "./data/projects/project-12/sword6.png",
+                                "./data/projects/project-12/sword7.png",
+                                "./data/projects/project-12/sword8.png",
+                                "./data/projects/project-12/sword9.png",
+                                "./data/projects/project-12/sword10.png",
+                                "./data/projects/project-12/1.PNG",
+                                "./data/projects/project-12/2.png",
+                                "./data/projects/project-12/4.PNG",
+                                "./data/projects/project-12/5.PNG",
+                                "./data/projects/project-12/6.png",
+                                "./data/projects/project-12/sword.png",
+                                "./data/projects/project-12/sword1.png",
+                                "./data/projects/project-12/sword2.png",
+                                "./data/projects/project-12/sword3.png"
+                            ],
+                            "imageTitle": "Built Time",
+                            "imageSortDescription": "6 Month ago",
+                            "content": [
+                                {
+                                    "type": "h4",
+                                    "html": "<span class='primary'>Description</span>"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "The sword animation that I have created using Blender and incorporating lightning, ray-tracing, and particle system sounds impressive. With the use of ray tracing, I was able to create realistic lighting and shadows that added a polished and professional look to my animation. The addition of lightning effects added to the drama and intensity of the action. The particle system was used to simulate debris or sparks as the sword moved or struck an object, making the animation more dynamic and realistic. Overall, the combination of techniques used in this animation created a visually stunning and impressive piece of work. Well done!"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Personal Project",
+                "projects": [
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Flappy Bird",
+                        "dateTime": "15 Months Ago",
+                        "description": "I developed this game using the Pygame module in Python, but I coded everything from scratch instead of relying on Pygame's built-in functions. I only used Pygame for its basic functionality.",
+                        "thumbnailImage": "./data/projects/project-3/1 (2).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-3/video.mp4",
+
+                        "github": "https://github.com/Harvindar994/FlappyBird",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    }
+                ]
+            },
+            {
+                "name": "Professional Projects",
+                "projects": [
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Air Drop",
+                        "dateTime": "15 Months Ago",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
+                        "thumbnailImage": "./data/projects/4.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {}
+                    }
+                ]
+            }
+        ]
+    },
+
+    "skills": {
+        "description": "Learning and success go hand in hand, and the graph is exponential! Once you've mastered the basics, tackling advanced concepts is a breeze. No trouble, no stress - just pure progress.",
+        "description1": "Listen up, folks - the graph of learning and success is exponential! And here's a little secret: once you've got the basics and core concepts of something down pat, learning the advanced stuff will be a piece of cake. No more struggling or feeling overwhelmed - with a solid foundation in place, you'll be able to take on even the most complex concepts with ease. So, don't shy away from those advanced topics - go ahead and give them a shot! You might just surprise yourself with how much you can handle. After all, when it comes to learning and success, the sky's the limit!",
+        "skills": [
+            {
+                "icon": "./data/skills/c language.png",
+                "name": "C Language ",
+                "percentage": 98
+            },
+            {
+                "icon": "./data/skills/java.png",
+                "name": "Java",
+                "percentage": 50
+            },
+            {
+                "icon": "./data/skills/c-sharp.png",
+                "name": "C Sharp",
+                "percentage": 55
+            },
+            {
+                "icon": "./data/skills/net.png",
+                "name": ".NET Core",
+                "percentage": 70
+            },
+            {
+                "icon": "./data/skills/net asp-mvc.png",
+                "name": ".NET MVC",
+                "percentage": 50
+            },
+            {
+                "icon": "./data/skills/python.png",
+                "name": "Python",
+                "percentage": 90
+            },
+            {
+                "icon": "./data/skills/djnago.svg",
+                "name": "DJango",
+                "percentage": 65
+            },
+            {
+                "icon": "./data/skills/reactJs.png",
+                "name": "ReactJS",
+                "percentage": 5
+            },
+            {
+                "icon": "./data/skills/javascript.png",
+                "name": "JavaScript",
+                "percentage": 65
+            },
+            {
+                "icon": "./data/skills/css.png",
+                "name": "CSS",
+                "percentage": 75
+            },
+            {
+                "icon": "./data/skills/Tailwind.png",
+                "name": "Tailwind",
+                "percentage": 2
+            },
+            {
+                "icon": "./data/skills/html.png",
+                "name": "HTML 5",
+                "percentage": 80
+            },
+            {
+                "icon": "./data/skills/mongodb.png",
+                "name": "MongoDB",
+                "percentage": 55
+            },
+            {
+                "icon": "./data/skills/mysql.png",
+                "name": "SQL",
+                "percentage": 50
+            },
+            {
+                "icon": "./data/skills/github.png",
+                "name": "GitHub",
+                "percentage": 70
+            },
+            {
+                "icon": "./data/skills/blender.png",
+                "name": "Blender",
+                "percentage": 35
+            },
+            {
+                "icon": "./data/skills/photoshop.webp",
+                "name": "PhotoShop",
+                "percentage": 45
+            },
+            {
+                "icon": "./data/skills/figma.png",
+                "name": "Figma",
+                "percentage": 60
+            },
+            {
+                "icon": "./data/skills/qt.png",
+                "name": "PyQT",
+                "percentage": 90
+            }
+        ]
+    },
+
+    "experiences": {
+        "description": "Having experience in different companies is like having a treasure chest of diverse knowledge and skills, ready to be unlocked and used to conquer any challenge that comes your way.",
+        "experience": [
+            {
+                "logo": "./data/experience/royalEnfield1.png",
+                "name": "Royal Enfield",
+                "description": "<span class='imp mb-10'>Profile : Workshop Manager</span><br> Have 1 year of experience working as a workshop manager in royal enfield.",
+                "date": "2020"
+            },
+            {
+                "logo": "./data/experience/robogenius.png",
+                "name": "Robogenius",
+                "description": "<span class='imp mb-10'>Profile : Python Trainee</span><br> Have 1 year of experience teaching python and Django in Robogenius.",
+                "date": "2021"
+            },
+            {
+                "logo": "./data/experience/wipro.png",
+                "name": "Wipro",
+                "description": "<span class='imp mb-10'>Profile : Application Engineer</span><br>Working in Wipro as an Application engineer from 4 July 2022 till now.",
+                "date": "2022"
+            }
+        ]
+    },
+
+    "messageToUser": {
+        "name": "ɧãrvindar",
+        "sayName": "Harvindar Singh",
+        "voiceType": 2,
+        "speakVolume": 1,
+        "speakRate": 1,
+        "speakPitch": 2,
+        "image": "./data/msg-to-user/author.png",
+        "sayHiEmail": "harvindar.personal@gmail.com",
+        "subject": "Let's Connect",
+        "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]"
+    },
+
+    "footer": {
+        "brand":{
+            "logo": {
+                "default": "data/introduction/aurhorWhite.png",
+                "lightRed": "data/introduction/aurhorWhite.png"
+            },
+
+            "name": "Harry",
+            "description1":"Meet me, a programming enthusiast with a strong foundation in fundamental programming concepts, who has successfully built large-scale applications using various programming languages.",
+            "description":"Hello there! I'm an avid programming enthusiast with a rock-solid foundation in fundamental programming concepts. I take pride in my ability to create complex and innovative applications using a variety of programming languages."
+        },
+
+        "contactDetails":{
+            "address": "Uttar Pradesh, India 'Got a question? Drop me a line on my personal email!'",
+            "contacts": [
+                {
+                    "icon": "fa-solid fa-envelope",
+                    "text": "harvindar.personal@gmail.com"
+                },
+                {
+                    "icon": "fa-solid fa-globe",
+                    "text": "www.brightgoal.in"
+                },
+                {
+                    "icon": "fa-solid fa-phone",
+                    "text": "+91 9695806109"
+                }
+            ]
+        },
+
+        "quickLinks": [
+            {
+                "name": "Youtube",
+                "link": "https://www.youtube.com/@Brightgoal"
+            },
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com/brightgoal.in/"
+            },
+            {
+                "name": "WhatsApp",
+                "link": "https://wa.me/+919695806109"
+            },
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/"
+            },
+            {
+                "name": "Brightgoal",
+                "link": "https://www.brightgoal.in"
+            }
+        ],
+
+        "socialLinks": {
+            "copyright": "©️ Brightgoal UI. All rights reserved.",
+            "links": [
+                {
+                    "icon": "fa-brands fa-twitter",
+                    "link": "https://twitter.com/BrightGoal_in"
+                },
+                {
+                    "icon": "fa-brands fa-linkedin",
+                    "link": "https://www.linkedin.com/in/harvindar-singh-653326212/"
+                },
+                {
+                    "icon": "fa-brands fa-facebook",
+                    "link": "https://www.facebook.com/Brightgoal.in"
+                },
+                {
+                    "icon": "fa-brands fa-github",
+                    "link": "https://github.com/Harvindar994"
+                },
+                {
+                    "icon": "fa-brands fa-dribbble",
+                    "link": "https://dribbble.com/harvindar992"
+                }
+            ]
+        }
+    }
+}
