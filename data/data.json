@@ -113,6 +113,10 @@
                 "link": "https://wa.me/+919695806109"
             },
             {
+                "name": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>Email</span>",
+                "link": "#"
+            },
+            {
                 "name": "Resume",
                 "link": "./data/files/resume.pdf"
             }
@@ -473,7 +477,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-4/video.mp4 ",
+                        "showUp": "./data/projects/project-4/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -488,7 +492,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-11/video.mp4 ",
+                        "showUp": "./data/projects/project-11/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -503,7 +507,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-12/video.mp4 ",
+                        "showUp": "./data/projects/project-12/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -514,7 +518,7 @@
                             "sharingLink": {
                                 "title": "harvindar.in",
                                 "text": "Sword Animation",
-                                "url": "./data/projects/project-12/video.mp4 "
+                                "url": "./data/projects/project-12/video.mp4"
                             },
                             "usedTech": ["Blender"],
                             "images": [
@@ -964,15 +968,15 @@
             "contacts": [
                 {
                     "icon": "fa-solid fa-envelope",
-                    "text": "harvindar.personal@gmail.com"
+                    "text": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>harvindar.personal@gmail.com</span>"
                 },
                 {
                     "icon": "fa-solid fa-globe",
-                    "text": "www.brightgoal.in"
+                    "text": "<span class='copy-link' title='Visit now !!!' msg='Url copied to Clipboard ✨' value='www.brightgoal.in'>www.brightgoal.in</span>"
                 },
                 {
                     "icon": "fa-solid fa-phone",
-                    "text": "+91 9695806109"
+                    "text": "<span class='copy-link' title='Call Me 🤙' msg='Number copied to Clipboard ✨' value='+919695806109'>+91 9695806109</span>"
                 }
             ]
         },
