@@ -609,6 +609,7 @@ main{
     height: 116px;
 
     /* Animation */
+    --notificationScale: 1;
     --notificationCloseAnimationDuration: 2s;
     animation-name: notificationCloseAnimation;
     animation-duration: var(--notificationCloseAnimationDuration);
@@ -633,13 +634,14 @@ main{
         top: 0%;
         left: 0%;
         opacity: 1;
-        transform: scale(1);
+        transform: scale(var(--notificationScale));
     }
 
     100% {
         top: -100%;
         left: 0%;
         opacity: 0;
+        transform: scale(var(--notificationScale));
     }
 }
 

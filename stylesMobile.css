@@ -350,9 +350,14 @@
     
     /* Here style for notifications */
 
+    .notifyContainer{
+        --notificationScale: 0.9;
+    }
+
     .notifications{
-        right: 4px;
+        right: 50%;
         bottom: 4px;
+        transform: translateX(50%);
     }
 
     /* Here style for notifications end*/
