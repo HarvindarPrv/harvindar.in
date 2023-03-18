@@ -44,6 +44,10 @@ a{
     color: rgba(var(--common-color), 100%);
 }
 
+.copy-link {
+    cursor: copy;
+}
+
 .disableLink{
     cursor: not-allowed;
     opacity: 0.5;
@@ -584,7 +588,6 @@ main{
 /* here style sheet start's for notifications */
 
 .notifications{
-    display: none;
     position: fixed;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -603,13 +606,14 @@ main{
     position: absolute;
     width: 100%;
     backdrop-filter: saturate(130%) blur(20px);
+    height: 116px;
 
     /* Animation */
-    --notificationCloseAnimationDuration: 1.5s;
+    --notificationCloseAnimationDuration: 2s;
     animation-name: notificationCloseAnimation;
     animation-duration: var(--notificationCloseAnimationDuration);
     animation-iteration-count: 1;
-    animation-timing-function: ease-out;
+    animation-timing-function: linear;
     animation-fill-mode: forwards;
     animation-delay: 0s;
     animation-direction: alternate;
@@ -621,13 +625,15 @@ main{
     0% {
         top: 0%;
         left: 0%;
-        opacity: 1;
+        opacity: 0.4;
+        transform: scale(0.5);
     }
 
-    25% {
+    15% {
         top: 0%;
         left: 0%;
         opacity: 1;
+        transform: scale(1);
     }
 
     100% {
@@ -642,7 +648,7 @@ main{
 .notification {
     position: relative;
     overflow: hidden;
-    height: 116px;
+    height: 100%;
     padding: 16px;
     border-radius: 16px;
     background-color: rgba(var(--primary-bg-2), 22%);
@@ -2022,7 +2028,7 @@ main{
 }
 
 .readMoreViewerPage .copy-link{
-    cursor: pointer;
+    cursor: copy;
 }
 
 .readMoreViewerPage .tag{

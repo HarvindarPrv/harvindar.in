@@ -348,7 +348,14 @@
         font-size: 0.9rem;
     }
     
+    /* Here style for notifications */
 
+    .notifications{
+        right: 4px;
+        bottom: 4px;
+    }
+
+    /* Here style for notifications end*/
 
 }
 
