@@ -340,6 +340,10 @@
                                     "size": "10px"
                                 },
                                 {
+                                    "type" : "h4",
+                                    "html": "<span class='primary'>Note: Don't not use for commercial purpose.</span>"
+                                },
+                                {
                                     "type": "link",
                                     "url": "url here",
                                     "text": "Click here to Download",
@@ -822,39 +826,14 @@
                 "percentage": 98
             },
             {
-                "icon": "./data/skills/java.png",
-                "name": "Java",
-                "percentage": 50
-            },
-            {
-                "icon": "./data/skills/c-sharp.png",
-                "name": "C Sharp",
-                "percentage": 55
-            },
-            {
-                "icon": "./data/skills/net.png",
-                "name": ".NET Core",
-                "percentage": 70
-            },
-            {
-                "icon": "./data/skills/net asp-mvc.png",
-                "name": ".NET MVC",
-                "percentage": 50
-            },
-            {
                 "icon": "./data/skills/python.png",
                 "name": "Python",
                 "percentage": 90
             },
             {
-                "icon": "./data/skills/djnago.svg",
-                "name": "DJango",
-                "percentage": 65
-            },
-            {
                 "icon": "./data/skills/reactJs.png",
                 "name": "ReactJS",
-                "percentage": 5
+                "percentage": 70
             },
             {
                 "icon": "./data/skills/javascript.png",
@@ -869,12 +848,27 @@
             {
                 "icon": "./data/skills/Tailwind.png",
                 "name": "Tailwind",
-                "percentage": 2
+                "percentage": 30
             },
             {
                 "icon": "./data/skills/html.png",
                 "name": "HTML 5",
                 "percentage": 80
+            },
+            {
+                "icon": "./data/skills/java.png",
+                "name": "Java",
+                "percentage": 50
+            },
+            {
+                "icon": "./data/skills/c-sharp.png",
+                "name": "C Sharp",
+                "percentage": 55
+            },
+            {
+                "icon": "./data/skills/djnago.svg",
+                "name": "DJango",
+                "percentage": 65
             },
             {
                 "icon": "./data/skills/mongodb.png",
