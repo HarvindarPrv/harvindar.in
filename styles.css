@@ -4,6 +4,10 @@ rgb(12, 171, 168)
 rgb(191, 36, 78)
 rgb(45, 75, 115)
 
+clip-path: polygon(0% 100%, 100% 50%, 0% 0%, 12% 42%, 50% 50%, 12% 58%);
+width: 71px;
+color: white;
+
 */
 
 :root {
@@ -32,11 +36,11 @@ html{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    -moz-user-select: none;
+    /* -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    -o-user-select: none;
+    -o-user-select: none; */
 }
 
 a{
@@ -2385,7 +2389,7 @@ h4 span {
     justify-content: center;
     align-items: center;
     color: rgba(var(--common-color-2), 100%);
-    clip-path: polygon(0% 46%, 25% 45%, 40% 0%, 100% 0%, 100% 100%, 40% 100%, 25% 54%, 0% 54%)s;
+    clip-path: polygon(0% 46%, 25% 45%, 40% 0%, 100% 0%, 100% 100%, 40% 100%, 25% 54%, 0% 54%);
     /* clip-path: polygon(25% 54%, 40% 0%, 100% 0%, 100% 100%, 40% 100%, 25% 46%, 0% 46%, 0% 54%); */
 }
 
