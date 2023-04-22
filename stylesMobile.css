@@ -264,9 +264,17 @@
     }
 
     /* readMore style end's here */
+
+    /* stylesheet of contact us start here */
+
+    .overlay {
+        padding: 100px 45px;
+    }
+
+    /* style sheet of contact us end's here */
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 792px) {
     /* a message to user styles start's from here */
     
     .message .message-content {
@@ -361,6 +369,52 @@
     }
 
     /* Here style for notifications end*/
+
+    /* style sheet of contact us from start here */
+
+    .overlay{
+        flex-direction: column;
+        padding: 32px 0px 32px 0px;
+        margin: 0px 10px 0px 10px;
+        height: auto;
+        text-align: center;
+    }
+
+    .from-social-button-container{
+        justify-content: center;
+    }
+
+    .form-button-container{
+        margin-top: 15px;
+    }
+
+    .overlay__title {
+        font-size: 1.25rem;
+        line-height: 1.65rem;
+        margin-bottom: 1rem;
+    }
+
+    .overlay__description {
+        font-size: 0.875rem;
+        line-height: 1.275rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .overlay__inner{
+        width: 87%;
+    }
+
+    .form{
+        width: 87%;
+    }
+
+    #contactUsCloseButton{
+        width: 35px;
+        height: 35px;
+        top: 3%;
+    }
+
+    /* style sheet of contact us from end here */
 
 }
 

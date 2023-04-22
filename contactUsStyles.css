@@ -1,0 +1,384 @@
+:root {
+    --dark-color: hsl(var(--hue), 100%, 9%);
+    --light-color: hsl(var(--hue), 95%, 98%);
+    --base: hsl(var(--hue), 95%, 50%);
+    --complimentary1: hsl(var(--hue-complimentary1), 95%, 50%);
+    --complimentary2: hsl(var(--hue-complimentary2), 95%, 50%);
+
+    --font-family: "Poppins", system-ui;
+
+    --bg-gradient: linear-gradient(to bottom,
+            hsl(var(--hue), 95%, 99%),
+            hsl(var(--hue), 95%, 84%));
+}
+
+.contactUs {
+    position: fixed;
+    /* background-color: #08c391; */
+    /* inset: 0; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 2rem; */
+    font-family: var(--font-family);
+    color: var(--dark-color);
+    /* background: var(--bg-gradient); */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    z-index: 2;
+    backdrop-filter: blur(19px);
+    /* display: none; */
+
+    top: -100%;
+    opacity: 0;
+}
+
+#contactUsCloseButton{
+    background-color: transparent;
+    color: rgba(var(--common-color), 100%);
+    position: absolute;
+    right: 5%;
+    top: 6%;
+    width: 45px;
+    height: 45px;
+    box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
+    border-radius: 100%;
+    border: 1px solid rgba(var(--common-color), 41%);
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#contactUsCloseButton:hover{
+    border: 1px solid rgba(var(--common-color), 100%);
+}
+
+.orb-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+strong {
+    font-weight: 600;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    max-width: 1140px;
+    max-height: 640px;
+    padding: 8rem 6rem;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
+    border-radius: 2rem;
+    border: 1px solid rgba(var(--common-color), 0.125);
+    gap: 30px;
+    margin: 0px 10px 0px 10px;
+    transform: scale(0);
+}
+
+/* contact us animation start here */
+
+.contactUsActive {
+    --contactUs-animation-duration: 0.5s;
+    animation-name: contactUsAnimation;
+    animation-duration: var(--contactUs-animation-duration);
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    animation-direction: alternate;
+}
+
+.contactUsActive .overlay{
+    animation-name: contactUsOverlayAnimation;
+    animation-duration: 0.3s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    animation-direction: alternate;
+}
+
+@keyframes contactUsAnimation {
+    0%{
+        top: 0%;
+        opacity: 0;
+    }
+    /* 25%{
+        top: 0%;
+        opacity: 1;
+    } */
+    100%{
+        top: 0%;
+        opacity: 1;
+    }
+}
+
+@keyframes contactUsOverlayAnimation{
+    0%{
+        transform: scale(0%);
+    }
+    100%{
+        transform: scale(100%);
+    }
+}
+
+.contactUsDeactivate {
+    animation-name: contactUsDeactivateAnimation;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    animation-direction: alternate;
+}
+
+.contactUsDeactivate .overlay {
+    animation-name: contactUsOverlayDeactivateAnimation;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    animation-direction: alternate;
+}
+
+@keyframes contactUsDeactivateAnimation {
+    0% {
+        top: 0%;
+        opacity: 1;
+    }
+
+    99%{
+        top: 0%;
+        opacity: 0;
+    }
+
+    100% {
+        top: -100%;
+        opacity: 0;
+    }
+}
+
+@keyframes contactUsOverlayDeactivateAnimation {
+    0% {
+        transform: scale(100%);
+    }
+
+    100% {
+        transform: scale(0%);
+    }
+}
+
+/* contact us animation end's here */
+
+.overlay__inner {
+    width: 50%;
+}
+
+/* contact us animation start here */
+
+.overlay__title {
+    font-size: 1.875rem;
+    line-height: 2.75rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    margin-bottom: 2rem;
+    color: rgba(var(--primary-font-color), 255);
+}
+
+.text-gradient {
+    background-image: linear-gradient(45deg, var(--base) 25%, var(--complimentary2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    background-image: -webkit-linear-gradient(105deg, rgba(var(--primary-font-color), 100%) 32%, rgba(var(--common-color), 100%));
+}
+
+.overlay__description {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    margin-bottom: 3rem;
+    color: rgba(var(--common-color), 255);
+}
+
+.overlay__btns {
+    width: 100%;
+    max-width: 30rem;
+    display: flex;
+}
+
+.overlay__btn {
+    /* width: 50%; */
+    padding: 0px 27px;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: rgba(var(--primary-bg-1), 255);
+    background: rgba(var(--common-color), 255);
+    border: none;
+    border-radius: 0.5rem;
+    transition: transform 150ms ease;
+    outline-color: hsl(var(--hue), 95%, 50%);
+}
+
+.overlay__btn:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.overlay__btn--transparent {
+    background: transparent;
+    color: rgba(var(--common-color), 255);
+    border: 2px solid rgba(var(--common-color), 255);
+    border-width: 2px;
+    margin-right: 0.75rem;
+}
+
+.overlay__btn-emoji {
+    margin-left: 0.375rem;
+}
+
+.contactUs a {
+    text-decoration: none;
+    color: var(--dark-color);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Not too many browser support this yet but it's good to add! */
+/* @media (prefers-contrast: high) {
+    .orb-canvas {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .overlay {
+        padding: 8rem 4rem;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+    .overlay {
+        padding: 4rem;
+        height: auto;
+    }
+
+    .overlay__title {
+        font-size: 1.25rem;
+        line-height: 2rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .overlay__description {
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .overlay {
+        padding: 1.5rem;
+    }
+
+    .overlay__btns {
+        flex-wrap: wrap;
+    }
+
+    .overlay__btn {
+        width: 100%;
+        font-size: 0.75rem;
+        margin-right: 0;
+    }
+
+    .overlay__btn:first-child {
+        margin-bottom: 1rem;
+    }
+} */
+
+/* Here from design start's */
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+    height: 100%;
+}
+
+.form input,
+textarea {
+    resize: none;
+    border: 1px solid rgba(var(--common-color), 36%);
+    font-size: 0.8rem;
+    font-weight: 400;
+    font-family: inherit;
+    border-radius: 5px;
+    padding: 10px 8px;
+    background-color: rgba(var(--common-color-2), 18%);
+    outline: none;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color: rgba(var(--common-color), 255);
+}
+
+.form textarea {
+    height: -webkit-fill-available;
+    /* min-height: 100px; */
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.form-button-container {
+    display: flex;
+    justify-content: end;
+    gap: 0px;
+}
+
+.from-social-button-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 18px;
+}
+
+.form-social-button {
+    font-size: 1rem;
+    background-color: transparent;
+    border: none;
+    border: 1px solid;
+    width: 37px;
+    height: 37px;
+    border-radius: 100%;
+    color: rgba(var(--common-color), 255);
+    transition: 0.5s all;
+}
+
+.form-social-button a{
+    color: rgba(var(--common-color), 255);
+}
+
+.form-social-button:hover {
+    background-color: #00042e;
+    color: white;
+    transform: scale(1.2);
+}

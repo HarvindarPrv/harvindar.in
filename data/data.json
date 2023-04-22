@@ -79,7 +79,7 @@
 
         "quickLinks": [
             {
-                "link": "https://www.linkedin.com/in/harvindar-in/",
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/",
                 "icon": "fa-brands fa-linkedin"
             },
             {
@@ -113,7 +113,7 @@
                 "link": "https://wa.me/+919695806109"
             },
             {
-                "name": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.in@gmail.com'>Email</span>",
+                "name": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>Email</span>",
                 "link": "#"
             },
             {
@@ -123,14 +123,47 @@
         ]
     },
 
+    "contactUs": {
+        "heading": "Hey, would you like to learn how to create a generative UI just like this?",
+        "description": "In this tutorial we will be creating a generative “orb” animation using pixi.js, picking some lovely random colors and pulling it all together in a nice frosty UI. <strong>We're gonna talk accessibility, too.</strong>",
+        "socialMedia": [
+            {
+                "icon": "fa-brands fa-whatsapp",
+                "url": "#"
+            },
+            {
+                "icon": "fa-brands fa-youtube",
+                "url": "#"
+            },
+            {
+                "icon": "fa-brands fa-instagram",
+                "url": "#"
+            },
+            {
+                "icon": "fa-brands fa-linkedin",
+                "url": "#"
+            },
+            {
+                "icon": "fa-solid fa-earth-americas",
+                "url": "#"
+            }
+        ],
+        
+        "emailJs": {
+            "publicKey": "-ytJV0ti49FcIIy-b",
+            "serviceId": "service_fkt05go",
+            "TemplateId": "template_8hey322"
+        }
+    },
+
     "author-info": {
         "name": "Harvindar Singh",
         "mobile": "+919695806109",
         "country": "india",
-        "email": "harvindar.in@gmail.com",
+        "email": "harvindar994@gmail.com",
         "designation": "Software Developer | UI/UX Designer | Frontend Developer",
         "description": "I am a professional with a diverse skill set in the technology industry. I have experience as a Software Developer, UI/UX Designer, and Frontend Developer, and I am passionate about using my knowledge to create innovative digital products.",
-        "sayHiEmail": "harvindar.in@gmail.com",
+        "sayHiEmail": "harvindar.personal@gmail.com",
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]",
         "profile_images": {
@@ -154,7 +187,7 @@
             },
             {
                 "name": "Linkedin",
-                "link": "https://www.linkedin.com/in/harvindar-in/",
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/",
                 "icon": "fa-brands fa-linkedin",
                 "target": "blank"
             },
@@ -342,11 +375,25 @@
                                 {
                                     "type" : "h4",
                                     "html": "<span class='primary'>Note: Don't not use for commercial purpose.</span>"
+                                },          
+                                {
+                                    "type": "link",
+                                    "url": "https://www.mediafire.com/file/droh93h0apqf4gw/Exectuable_File_For_Windows_7%252C8%252C10%252C11.rar/file",
+                                    "text": "Click here to Download",
+                                    "class": "important"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "20px"
+                                },
+                                {
+                                    "type" : "h5",
+                                    "html": "<span class='primary'>visit for more info</span>"
                                 },
                                 {
                                     "type": "link",
-                                    "url": "url here",
-                                    "text": "Click here to Download",
+                                    "url": "https://www.brightgoal.in",
+                                    "text": "brightgoal.in",
                                     "class": "important"
                                 }
                             ]
@@ -481,7 +528,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-4/video.mp4",
+                        "showUp": "./data/projects/project-4/Video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -496,7 +543,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-11/video.mp4",
+                        "showUp": "./data/projects/project-11/Video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -511,7 +558,7 @@
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "./data/projects/project-12/video.mp4",
+                        "showUp": "./data/projects/project-12/Video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
@@ -826,14 +873,39 @@
                 "percentage": 98
             },
             {
+                "icon": "./data/skills/java.png",
+                "name": "Java",
+                "percentage": 50
+            },
+            {
+                "icon": "./data/skills/c-sharp.png",
+                "name": "C Sharp",
+                "percentage": 55
+            },
+            {
+                "icon": "./data/skills/net.png",
+                "name": ".NET Core",
+                "percentage": 70
+            },
+            {
+                "icon": "./data/skills/net asp-mvc.png",
+                "name": ".NET MVC",
+                "percentage": 50
+            },
+            {
                 "icon": "./data/skills/python.png",
                 "name": "Python",
                 "percentage": 90
             },
             {
+                "icon": "./data/skills/djnago.svg",
+                "name": "DJango",
+                "percentage": 65
+            },
+            {
                 "icon": "./data/skills/reactJs.png",
                 "name": "ReactJS",
-                "percentage": 70
+                "percentage": 5
             },
             {
                 "icon": "./data/skills/javascript.png",
@@ -848,27 +920,12 @@
             {
                 "icon": "./data/skills/Tailwind.png",
                 "name": "Tailwind",
-                "percentage": 30
+                "percentage": 2
             },
             {
                 "icon": "./data/skills/html.png",
                 "name": "HTML 5",
                 "percentage": 80
-            },
-            {
-                "icon": "./data/skills/java.png",
-                "name": "Java",
-                "percentage": 50
-            },
-            {
-                "icon": "./data/skills/c-sharp.png",
-                "name": "C Sharp",
-                "percentage": 55
-            },
-            {
-                "icon": "./data/skills/djnago.svg",
-                "name": "DJango",
-                "percentage": 65
             },
             {
                 "icon": "./data/skills/mongodb.png",
@@ -940,7 +997,7 @@
         "speakRate": 1,
         "speakPitch": 2,
         "image": "./data/msg-to-user/author.png",
-        "sayHiEmail": "harvindar.in@gmail.com",
+        "sayHiEmail": "harvindar.personal@gmail.com",
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]"
     },
@@ -962,7 +1019,7 @@
             "contacts": [
                 {
                     "icon": "fa-solid fa-envelope",
-                    "text": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.in@gmail.com'>harvindar.in@gmail.com</span>"
+                    "text": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>harvindar.personal@gmail.com</span>"
                 },
                 {
                     "icon": "fa-solid fa-globe",
@@ -990,7 +1047,7 @@
             },
             {
                 "name": "linkedin",
-                "link": "https://www.linkedin.com/in/harvindar-in/"
+                "link": "https://www.linkedin.com/in/harvindar-singh-653326212/"
             },
             {
                 "name": "Brightgoal",
@@ -1007,7 +1064,7 @@
                 },
                 {
                     "icon": "fa-brands fa-linkedin",
-                    "link": "https://www.linkedin.com/in/harvindar-in/"
+                    "link": "https://www.linkedin.com/in/harvindar-singh-653326212/"
                 },
                 {
                     "icon": "fa-brands fa-facebook",

@@ -1,1 +1,2270 @@
-(function (_0x4d304c, _0x514437) { var _0x480a3b = _0x1ddb, _0x510db6 = _0x4d304c(); while (!![]) { try { var _0x703c56 = parseInt(_0x480a3b(0x1a2)) / 0x1 + -parseInt(_0x480a3b(0x1cf)) / 0x2 + parseInt(_0x480a3b(0x82)) / 0x3 * (-parseInt(_0x480a3b(0x1c9)) / 0x4) + -parseInt(_0x480a3b(0x172)) / 0x5 * (parseInt(_0x480a3b(0x10a)) / 0x6) + -parseInt(_0x480a3b(0x1b1)) / 0x7 * (-parseInt(_0x480a3b(0xdf)) / 0x8) + -parseInt(_0x480a3b(0x80)) / 0x9 * (parseInt(_0x480a3b(0x1c6)) / 0xa) + parseInt(_0x480a3b(0x1a3)) / 0xb; if (_0x703c56 === _0x514437) break; else _0x510db6['push'](_0x510db6['shift']()); } catch (_0x568d25) { _0x510db6['push'](_0x510db6['shift']()); } } }(_0x2a56, 0xb0cc5)); function _0x2a56() { var _0x3c955c = ['renderContent', 'links', '.services-carousel', '#contentHolder', 'contacts', '.about-me-tags', 'mainMenu', 'description', '.skillCardsContainer', 'playVideo', 'timelineContentbottom', 'mousedown', '8640246jrBCCx', 'shareVideo', '\x22\x20alt=\x22\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22companyName\x22>', 'floating-menu-button', 'services', 'visible_element_count', '%);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20viewBox=\x220\x200\x20560\x2020\x22\x20class=\x22water_wave\x20water_wave_back\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<use\x20xlink:href=\x22#wave\x22></use>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20viewBox=\x220\x200\x20560\x2020\x22\x20class=\x22water_wave\x20water_wave_front\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<use\x20xlink:href=\x22#wave\x22></use>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'mobileMenu', 'setAttribute', '__init__', '.projectCardReadMoreButton', 'innerWidth', 'activeThemeButton', 'onThemeChnage', 'shareButton', 'speechSynthesis', 'readMoreFeatureImageCarouselLeft', 'split', 'brand', 'onload', 'themes', 'touchend', 'parentContainer', 'lang', '#project-page-buttons', 'skillCard', 'profile_images', '#mobileMenu', 'readMoreViewerActive', 'readMoreViewer', '#messageToUserAuthorImage', 'reload', '#videoViewerPlayer', '.timeline', 'readMoreFeatureImage', 'slide', 'timelineContentTop', '.designation', 'forEach', '.videoPlayButton', 'add', 'close', '.loader', 'name', 'tag', 'left', 'createSlide', '%,\x20-50%)', 'stop', 'Didn\x27t\x20recived\x20any\x20call\x20function\x20to\x20show\x20image.', 'videoViewerOverlay', '\x22><i\x20class=\x22fa-brands\x20fa-github\x22></i>\x20GitHub</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22projectCardReadMoreButton\x22>Read\x20More</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>', 'date', 'slice', '</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'onNextPressed', 'transform', 'position', 'profile', '.skillsRightButton', '#imageViewerSlidesContainer', 'stackWidget', 'themeMenu', 'parentContainerMapping', 'imageViewCallBack', '#readMoreFeatureImageContainer', 'mobile-menu-optins-active', 'json', '.leftButtonContainer', 'videoLoaded', 'elements', 'title', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22card-icon\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22', 'right', 'getElement', 'speakVolume', 'display', 'getContainerHeight', 'subject', 'totalImages', '</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'percentage', '<span>', 'vertically_center', 'button\x20project-btn', 'logo', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text\x22>', 'top_bottom_gap', 'projectCard\x20projectCardSlideEffact', 'currentTarget', '#readMoreContentArea', 'end', 'previousButton', '.readMoreViewerCloseButton', 'closeButton', 'show', 'removeAllSlides', 'rate', 'button', 'rightButton', 'mobileMenuHideButton', '#readMoreImageDescription', 'getRangeOfCurrentPage', 'start', '5HJYsdL', 'notifications', 'removePerFromNumbers', 'messageToUser', 'quickLinks', '#readMoreFeatureImageCarouselButton', '\x22></i>', 'protfolio', 'cards', 'zoom-in', '#mainMenuLogo', 'relative', '.projectThumbnail', 'volume', 'slide_max_height', '#readMoreFeatureImageCarouselRight', 'maxPlayerWidth', '.notifications', 'project-active-btn', 'writeText', 'notifyContainer', 'image', 'msg', '.readMoreViewer', '<div\x20class=\x22image\x22><i\x20class=\x22fa-regular\x20fa-image\x22></i></div>', 'readMoreFeatureImageContainer', 'imageTitle', 'viewImages', 'addEventListener', 'children', 'target=\x22_blank\x22\x20href\x20=\x20\x22', 'window', 'style', 'code', 'services_jason', '#contentNavigators', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27notification\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<header>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22ntitle\x22>Messages</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x27timestamp\x27>Now</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</header>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27content\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x27sender\x27>', 'resize', 'isLoaderRunning', '#footerQuickLinks', 'setTheme', 'absolute', 'addPage', 'animationend', 'readMoreFeatureImageCarouselRight', 'contentHolder', 'length', 'sharingLink', '1442576uFlZDa', '19417035HWqhXx', 'images', 'brandName', '\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20class=\x22card-heading\x22>', 'heading', 'showUpType', 'animationName', 'text', 'imageSortDescription', 'theme', '</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x27more\x27>', 'size', 'navigationLeft', '&body=', '21742QcEVGD', '_blank', 'createElement', 'page', '?subject=', '.progressBarDot', 'indexOf', 'sayName', 'socialLinks', 'progressBar', 'progress', '#portfolioHeading', 'transition', '.lets-talk-button', 'removeChild', 'projectPageButtonsContainer', 'querySelector', 'index', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22timelineContent\x20', 'classList', 'firesTouchEvents', '2115340vwvZgW', 'notification', 'pronounceName', '1452KOIjjv', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22', 'flex', '<i\x20class=\x22', 'hidden', 'codeSnippet', '204544bvTAbj', '.copy-link', 'getVoices', 'brandDescription', 'isNavigatorButtonVisible', 'navigationButtons', 'cursor', 'projectCards', 'onPreviousPressed', '#readMoreCloseButton', 'container', 'currentPage', 'imageViewerOverlay', '</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22proejctCardBody\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22shortDescription\x22>', 'link', 'pxcarosuleSimulator', '.author-name', 'gap', 'isSliding', 'addElement', '</span>', 'value', '#mainMenuAuthorName', 'img', 'initial', 'translateY', 'leftButtonContainer', 'content', '\x22\x20text=\x22', 'onSlide', 'services_container', '</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x27nmessage\x27>', 'log', '#readMoreImageTitle', 'onMouseMove', 'pages', 'front_space', 'Can\x27y\x20Say\x20Nname:\x20', 'target', 'projectCard', 'usedTech', 'next', '.rightButtonConatiner', '--active-theme', 'querySelectorAll', 'dot', '</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22workDescription\x22>', '.progressBar', 'nextButton', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22contentHolder\x22\x20class=\x22stack-widget-content-page\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22contentNavigators\x22\x20class=\x22stack-widget-content-navigators\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>', '#mainMenuOptions', 'callBackFunctionData', 'containerHeight', '#social', 'insertBefore', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22projectCardHead\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22projectCardLogo\x22\x20src=\x22', 'aboutMe', 'social_media', 'pitch', 'playVideoCallBack', 'body', '</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20', 'fmb-active', 'footer', 'showNavigationButtons', '</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22water\x22\x20class=\x22water\x22\x20style=\x22transform:\x20translate(0,\x20', '#services-button-right', 'maxPlayerHeight', 'navigatorButtons', '</pre>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'sendEmail', 'px,\x20', 'isReadMoreLink', 'contentNavigators', 'showUp', 'hide', 'onWindowResize', 'loadData', 'minHeight', '.floating-menu', 'width', 'sayHi', 'onImageLoaded', 'touchmove', 'brandLogo', '.imageViewerLeftRightButtons', 'menu', '#about-author', 'reloadOnThemeChnage', 'pageCloseButton', 'append', '\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', '#readMoreTitle', 'usedTechnology', 'loadedImages', 'sharePage', 'translateX', 'cardsConatiner', '#readMoreShareButton', 'onPageChnage', 'projects', 'contains', 'navigationRight', '#imageViewerRightButton', '#readMoreIcon', 'onNotificationFinished', 'stack-widget-navigator-active', 'visible', '#imageViewerCloseButton', 'disableLink', 'button\x20stack-widget-content-navigator', 'readMoreCallBack', 'html', '#experiencesDescription', 'back_space', 'data_file', 'message', 'onSlideScrollDeactive', 'videoPlayer', '50%', 'mobileMenuOptions', 'Didn\x27t\x20recived\x20any\x20call\x20function\x20to\x20play\x20video.', 'reloadComponentOnThemeChnage', 'getAttribute', 'mouseup', 'contactDetails', 'readMore', 'skills', 'readMoreVideo', 'share', 'setProperty', 'button\x20project-btn\x20project-active-btn', 'pageIcon', 'themeManager', 'readMoreTags', 'readMoreImageDescription', '45fdcIOY', 'mouseleave', '4095skmGbb', 'videoPlayButton', 'type', 'visibility', 'tags', 'stackWigetContainer', 'readMoreContent', '.floating-menu-footer', '#author-image', 'carosuleSimulator', 'titleDescription', 'height', 'readMoreFeatureImageCarouselButton', 'none', 'authorImage', 'themeButton', '\x22><i\x20class=\x22fa-solid\x20fa-share\x22></i></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20width=\x22100%\x22\x20height=\x22100%\x22\x20src=\x22', '\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22percentage\x22>', 'card\x20button', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22readMoreVideoShareButton\x20button\x22\x20index=\x22', 'readMoreImageTitle', 'showMobileMenu', 'onSlideScrollActive', 'element', 'progressBarActive', 'floatingMenu', 'options', 'margin', 'copyright', '</p>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22projectThumbnail\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22projectThumbnailImage\x22\x20src=\x22', 'letsTalkButton', 'icon', 'push', 'github', '</p>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22workYear\x22>', 'rebuildYoutubeUrl', 'div', 'stopPropagation', '#stackWidgetContainer', 'menuOptions', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22', 'leftButton', 'experiences', '.timelineRightButton', 'slides', '#videoViewerPlayerContainer', 'remove', 'load', 'innerHTML', 'string', 'mailto:', 'videoPlayerConatiner', 'titleLine', '#footerBrandLogo', 'youtube-url', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22floating-menu-link\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22', 'keys', 'overlayVideoPlayer', '\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20title=\x22Why\x20Most\x20People\x20FAIL\x20to\x20Learn\x20Programming\x22\x20frameborder=\x220\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20allow=\x22accelerometer;\x20autoplay;\x20clipboard-write;\x20encrypted-media;\x20gyroscope;\x20picture-in-picture;\x20web-share\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20allowfullscreen=\x22\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'click', 'sliderPosition', 'speak', 'src', '\x20class=\x22projectTech\x20', 'floating-menu-active', 'navigateContent', 'mobileMenuShowButton', 'getActiveTheme', '\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22heading\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>', 'sayHiEmail', 'href', 'setUpperContainerMapping', 'projectPageButtons', 'stack-widget-page', '#readMoreTitleLine', './data/data.json', 'getComputedStyle', 'translate(', 'getContainerWidth', 'onContainerResize', 'sliders_width', 'readMoreButton', '#videoViewerCloseButton', 'class', 'designation', 'then', 'aspectRationHeight', 'mobileMenuFooterMessage', 'card', 'jasonData', '#mainMenuLogoText', 'activePageButton', '\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text\x22>', '1576oWaWTa', 'touches', 'getPropertyValue', 'video', 'Next', '</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22card-description\x22>', 'touchstart', '.projectThumbnailType', 'removePxFromNumbers', 'innerText', 'shareText', 'voice', 'screenX', 'addNavigatorButton', 'rightButtonConatiner', '\x22\x20alt=\x22\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22projectThumbnailType\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22videoPlayButton\x20button\x22><i\x20class=\x22fa-sharp\x20fa-solid\x20fa-play\x22></i></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22projectCardFooter\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20', '.imageViewer', 'sourceCapabilities', 'switchToPage', 'top', 'openCloseMenu', 'aspectRationWidth', 'screenY', 'overlayImageViewer', 'url', 'activeCardHoverEffect', '#footerCopyright', 'imageViewerConatiner', ':root', 'hideMobileMenu', 'authorName']; _0x2a56 = function () { return _0x3c955c; }; return _0x2a56(); } var Profile = function () { var _0x2b5759 = _0x1ddb; this[_0x2b5759(0x144)] = null, this[_0x2b5759(0xc5)] = function () { var _0x4f7081 = _0x2b5759, _0x5ed674 = document[_0x4f7081(0x1c1)](':root'), _0x237247 = _0x5ed674[_0x4f7081(0x192)][_0x4f7081(0xe1)](_0x4f7081(0x1fa)); return _0x237247; }, this[_0x2b5759(0x215)] = () => { var _0x32555d = _0x2b5759; window['location'][_0x32555d(0xc8)] = _0x32555d(0xb4) + this['profile']['sayHiEmail'] + '?subject=' + this['profile'][_0x32555d(0x158)] + _0x32555d(0x1b0) + this['profile'][_0x32555d(0x243)]; }, this['reload'] = () => { var _0x545277 = _0x2b5759; author_image = document[_0x545277(0x1c1)](_0x545277(0x8a)), active_theme = this['getActiveTheme'](), author_image[_0x545277(0x112)](_0x545277(0xc0), this[_0x545277(0x144)][_0x545277(0x124)][active_theme]); }, this[_0x2b5759(0xb1)] = function (_0x5da49e) { var _0x2e9e6b = _0x2b5759; active_theme = this[_0x2e9e6b(0xc5)](), this[_0x2e9e6b(0x144)] = _0x5da49e, author_name = document[_0x2e9e6b(0x1c1)](_0x2e9e6b(0x1df)), designation = document[_0x2e9e6b(0x1c1)](_0x2e9e6b(0x12f)), description = document[_0x2e9e6b(0x1c1)](_0x2e9e6b(0x226)), author_image = document[_0x2e9e6b(0x1c1)](_0x2e9e6b(0x8a)), social_links = document[_0x2e9e6b(0x1c1)](_0x2e9e6b(0x204)), authorName = ''; for (index in _0x5da49e[_0x2e9e6b(0x135)]) { _0x5da49e['name'][index] === '\x20' ? authorName += '\x20' : authorName += _0x2e9e6b(0x15c) + _0x5da49e['name'][index] + _0x2e9e6b(0x1e3); } author_name[_0x2e9e6b(0xb2)] = authorName, designation[_0x2e9e6b(0xe8)] = _0x5da49e[_0x2e9e6b(0xd6)], description[_0x2e9e6b(0xe8)] = _0x5da49e[_0x2e9e6b(0x105)], author_image[_0x2e9e6b(0x112)](_0x2e9e6b(0xc0), _0x5da49e['profile_images'][active_theme]), social_media = _0x5da49e[_0x2e9e6b(0x208)], social_media[_0x2e9e6b(0x130)](_0x1ddb6c => { var _0x45d555 = _0x2e9e6b, _0xc4994a = document[_0x45d555(0x1b3)]('a'); _0xc4994a['setAttribute'](_0x45d555(0xc8), _0x1ddb6c[_0x45d555(0x1dd)]), _0xc4994a['setAttribute']('target', _0x1ddb6c[_0x45d555(0x1f5)]), _0xc4994a['innerHTML'] = '<i\x20class=\x22' + _0x1ddb6c[_0x45d555(0xa1)] + '\x22>', social_links[_0x45d555(0x229)](_0xc4994a); }); }, this[_0x2b5759(0x113)] = function () { var _0x6becd3 = _0x2b5759; this[_0x6becd3(0xa0)] = document[_0x6becd3(0x1c1)](_0x6becd3(0x1be)), this['letsTalkButton'][_0x6becd3(0x18e)](_0x6becd3(0xbd), this['sendEmail']); }, this[_0x2b5759(0x113)](); }, PercentageCarosuleSimulator = function (_0x25f353, _0xb42a0e) { var _0x314ca9 = _0x1ddb; this[_0x314ca9(0x1d9)] = _0x25f353, this[_0x314ca9(0x203)] = _0xb42a0e, this[_0x314ca9(0xbe)] = 0x0, this[_0x314ca9(0x174)] = function (_0x3f45fe) { var _0x3c25f0 = _0x314ca9; return _0x3f45fe['slice'](0x0, _0x3f45fe[_0x3c25f0(0x1a0)] - 0x1); }, this['onNextPressed'] = () => { var _0x5771ab = _0x314ca9; let _0x50af39 = parseInt(this[_0x5771ab(0x1d9)]['children'][this[_0x5771ab(0x1d9)]['children'][_0x5771ab(0x1a0)] - 0x1][_0x5771ab(0x192)]['transform']['split']('(')[0x1]['split']('%')[0x0]); if (_0x50af39 > 0x0) { this[_0x5771ab(0xbe)] -= 0x1, tempIndex = this[_0x5771ab(0xbe)]; for (var _0x94f2a2 of Array(this['container'][_0x5771ab(0x18f)]['length'])[_0x5771ab(0xba)]()) { var _0x2ef4d9 = this[_0x5771ab(0x1d9)][_0x5771ab(0x18f)][_0x94f2a2]; _0x2ef4d9[_0x5771ab(0x192)]['position'] = 'absolute', _0x2ef4d9[_0x5771ab(0x192)][_0x5771ab(0xf2)] = _0x5771ab(0x6f), _0x2ef4d9[_0x5771ab(0x192)]['transform'] = _0x5771ab(0xcf) + tempIndex * 0x64 + _0x5771ab(0x139), tempIndex += 0x1; } } }, this[_0x314ca9(0x1d7)] = () => { var _0x166113 = _0x314ca9; let _0x3e35a6 = parseInt(this[_0x166113(0x174)](this['container'][_0x166113(0x18f)][0x0][_0x166113(0x192)][_0x166113(0x142)][_0x166113(0x11b)](',')[0x0][_0x166113(0x13f)](0xa, 0xf))); if (_0x3e35a6 < 0x0) { this[_0x166113(0xbe)] += 0x1, tempIndex = this[_0x166113(0xbe)]; for (var _0x756543 of Array(this[_0x166113(0x1d9)][_0x166113(0x18f)]['length'])[_0x166113(0xba)]()) { var _0x4277e8 = this[_0x166113(0x1d9)][_0x166113(0x18f)][_0x756543]; _0x4277e8[_0x166113(0x192)][_0x166113(0x143)] = _0x166113(0x19b), _0x4277e8[_0x166113(0x192)]['top'] = _0x166113(0x6f), _0x4277e8['style'][_0x166113(0x142)] = 'translate(' + tempIndex * 0x64 + '%,\x20-50%)', tempIndex += 0x1; } } }, this['__init__'] = function () { var _0x308ed2 = _0x314ca9; this['container']['style'][_0x308ed2(0x143)] = 'relative', this[_0x308ed2(0xbe)] = 0x0, tempIndex = this[_0x308ed2(0xbe)]; for (var _0x34c762 of Array(this[_0x308ed2(0x1d9)]['children'][_0x308ed2(0x1a0)])[_0x308ed2(0xba)]()) { var _0x4bc5c7 = this['container'][_0x308ed2(0x18f)][_0x34c762]; _0x4bc5c7[_0x308ed2(0x192)]['position'] = _0x308ed2(0x19b), _0x4bc5c7['style'][_0x308ed2(0xf2)] = _0x308ed2(0x6f), _0x4bc5c7[_0x308ed2(0x192)][_0x308ed2(0x142)] = 'translate(' + tempIndex * 0x64 + _0x308ed2(0x139), tempIndex += 0x1; } }, this[_0x314ca9(0x113)](); }, CarosuleSimulator = function (_0x154310, _0x459359, _0x1ebe7d = !![], _0x2d7a21 = 0x0, _0x2adf8d = null, _0x2607e7 = null, _0x23990f = 0x0, _0x4a6714 = 0x0) { var _0x53941c = _0x1ddb; this[_0x53941c(0x161)] = _0x2d7a21, this['slides'] = [], this[_0x53941c(0x1e8)] = 0x0, this['container'] = _0x154310, this[_0x53941c(0x15d)] = _0x1ebe7d, this[_0x53941c(0x1e0)] = _0x459359, this['sliders_width'] = 0x0, this[_0x53941c(0x1ff)] = _0x2607e7, this[_0x53941c(0x166)] = _0x2adf8d, this['front_space'] = _0x23990f, this[_0x53941c(0x241)] = _0x4a6714, this['isSliding'] = ![], this[_0x53941c(0xeb)] = null, this[_0x53941c(0xf5)] = null, this['parentContainer'] = null, this[_0x53941c(0x149)] = ![], this['setUpperContainerMapping'] = function (_0x153621, _0x1e324c = !![]) { var _0x3e9fb0 = _0x53941c; this[_0x3e9fb0(0x120)] = _0x153621, this[_0x3e9fb0(0x149)] = _0x1e324c; }, this['onMouseMove'] = _0x2a1b71 => { var _0x94d15d = _0x53941c; try { _0x2a1b71['sourceCapabilities']['firesTouchEvents'] ? (this[_0x94d15d(0xeb)] = _0x2a1b71['touches'][0x0][_0x94d15d(0xeb)], this[_0x94d15d(0xf5)] = _0x2a1b71[_0x94d15d(0xe0)][0x0]['screenY']) : (this[_0x94d15d(0xeb)] = _0x2a1b71[_0x94d15d(0xeb)], this[_0x94d15d(0xf5)] = _0x2a1b71[_0x94d15d(0xf5)]); } catch (_0xcf32bd) { this['onSlideScrollDeactive'](); } }, this[_0x53941c(0xe7)] = function (_0x52a038) { var _0x1a86c4 = _0x53941c; return _0x52a038['slice'](0x0, _0x52a038[_0x1a86c4(0x1a0)] - 0x2); }, this['onSlideScrollActive'] = _0x3a239b => { var _0x3e27ed = _0x53941c; this[_0x3e27ed(0x1e1)] = !![], this[_0x3e27ed(0x1ec)](_0x3a239b); }, this[_0x53941c(0x244)] = () => { var _0x27f5fc = _0x53941c; this[_0x27f5fc(0x1e1)] = ![], this[_0x27f5fc(0xeb)] = null, this['screenY'] = null; }, this[_0x53941c(0x1ec)] = _0x20b7f6 => { var _0x3cff36 = _0x53941c, _0x4d4223 = []; try { if (_0x20b7f6[_0x3cff36(0xf0)][_0x3cff36(0x1c5)]) var _0xc8752c = _0x20b7f6['touches'][0x0][_0x3cff36(0xeb)]; else var _0xc8752c = _0x20b7f6[_0x3cff36(0xeb)]; } catch (_0x2660a4) { return; } var _0x24853f = document[_0x3cff36(0x1b3)](_0x3cff36(0xa6)); _0x24853f[_0x3cff36(0x112)](_0x3cff36(0x192), 'width:\x20100%;\x20height:\x20100%;\x20background-color:\x20#ffffff00;\x20position:\x20absolute;'), this[_0x3cff36(0x1d9)][_0x3cff36(0x229)](_0x24853f); for (index in this[_0x3cff36(0xae)]) { _0x4d4223[_0x3cff36(0xa2)](this[_0x3cff36(0xae)][index][_0x3cff36(0x22f)]), this[_0x3cff36(0xae)][index][_0x3cff36(0x99)][_0x3cff36(0x192)][_0x3cff36(0x1bd)] = _0x3cff36(0x8f); } var _0x38f3c9 = 0x0, _0x126dc2 = null, _0x2e1200 = this[_0x3cff36(0xd0)](); const _0x2abc84 = setInterval(() => { var _0x4d6d16 = _0x3cff36; if (this['screenX'] != null && this[_0x4d6d16(0xf5)] != null) { var _0x3bf245 = _0xc8752c - this[_0x4d6d16(0xeb)]; if (_0x3bf245 !== _0x38f3c9) { if (_0x3bf245 > 0x0) { if (!(_0x4d4223[_0x4d4223[_0x4d6d16(0x1a0)] - 0x1] + this[_0x4d6d16(0xae)][this[_0x4d6d16(0xae)][_0x4d6d16(0x1a0)] - 0x1][_0x4d6d16(0x21f)] + this[_0x4d6d16(0x241)] - _0x3bf245 < _0x2e1200)) { for (index in this['slides']) { this[_0x4d6d16(0xae)][index][_0x4d6d16(0x22f)] = _0x4d4223[index] - _0x3bf245, this[_0x4d6d16(0xae)][index][_0x4d6d16(0x99)]['style']['transform'] = _0x4d6d16(0xcf) + this['slides'][index]['translateX'] + _0x4d6d16(0x216) + this[_0x4d6d16(0x1e8)] + '%)'; } _0x126dc2 = _0x4d6d16(0x137); } } else { if (_0x3bf245 < 0x0) { _0x3bf245 = _0x3bf245 * -0x1; if (!(_0x4d4223[0x0] + _0x3bf245 > 0x0 + this['front_space'])) { for (index in this[_0x4d6d16(0xae)]) { this['slides'][index]['translateX'] = _0x4d4223[index] + _0x3bf245, this[_0x4d6d16(0xae)][index][_0x4d6d16(0x99)][_0x4d6d16(0x192)]['transform'] = _0x4d6d16(0xcf) + this[_0x4d6d16(0xae)][index]['translateX'] + _0x4d6d16(0x216) + this[_0x4d6d16(0x1e8)] + '%)'; } _0x126dc2 = _0x4d6d16(0x153); } } } } } if (!this['isSliding']) { for (index in this['slides']) { this['slides'][index][_0x4d6d16(0x99)][_0x4d6d16(0x192)][_0x4d6d16(0x1bd)] = null; } this[_0x4d6d16(0x1d9)][_0x4d6d16(0x1bf)](_0x24853f), clearInterval(_0x2abc84), _0x126dc2 !== null && (_0x126dc2 === _0x4d6d16(0x137) ? this[_0x4d6d16(0x1d7)]() : this['onNextPressed']()); } }, 0x1); }, this[_0x53941c(0x141)] = () => { var _0x261ae1 = _0x53941c, _0x11c940 = null, _0x59c464 = this[_0x261ae1(0xd0)](); for (var _0x543e18 of Array(this[_0x261ae1(0xae)][_0x261ae1(0x1a0)])[_0x261ae1(0xba)]()) { element = this[_0x261ae1(0xae)][this[_0x261ae1(0xae)][_0x261ae1(0x1a0)] - _0x543e18 - 0x1]; if (element[_0x261ae1(0x22f)] < 0x0) { _0x11c940 = element; break; } } if (_0x11c940 !== null) { if (parseInt(_0x11c940[_0x261ae1(0x21f)] + _0x11c940[_0x261ae1(0x21f)] / 0x2) > _0x59c464) var _0x177f1f = 0x0 + parseInt((_0x59c464 - _0x11c940[_0x261ae1(0x21f)]) / 0x2) - element[_0x261ae1(0x22f)]; else var _0x177f1f = 0x0 + this[_0x261ae1(0x1f3)] - _0x11c940[_0x261ae1(0x22f)]; for (var _0x543e18 of Array(this[_0x261ae1(0xae)]['length'])['keys']()) { element = this[_0x261ae1(0xae)][_0x543e18], element[_0x261ae1(0x22f)] += _0x177f1f, element[_0x261ae1(0x99)][_0x261ae1(0x192)][_0x261ae1(0x142)] = 'translate(' + element[_0x261ae1(0x22f)] + _0x261ae1(0x216) + this[_0x261ae1(0x1e8)] + '%)'; } } this[_0x261ae1(0xd1)](); }, this[_0x53941c(0x1d7)] = () => { var _0x146627 = _0x53941c, _0x2d3f48 = null, _0x33d2a2 = this[_0x146627(0xd0)](); for (var _0x7f9cd8 of Array(this[_0x146627(0xae)][_0x146627(0x1a0)])[_0x146627(0xba)]()) { element = this[_0x146627(0xae)][_0x7f9cd8]; if (element['translateX'] + element[_0x146627(0x21f)] + this[_0x146627(0x241)] > _0x33d2a2) { _0x2d3f48 = element; break; } } if (_0x2d3f48 !== null) { if (parseInt(_0x2d3f48[_0x146627(0x21f)] + _0x2d3f48[_0x146627(0x21f)] / 0x2) > _0x33d2a2) var _0x92c52 = element[_0x146627(0x22f)] - parseInt((_0x33d2a2 - _0x2d3f48['width']) / 0x2); else var _0x92c52 = _0x2d3f48[_0x146627(0x22f)] + _0x2d3f48['width'] + this[_0x146627(0x241)] - _0x33d2a2; for (var _0x7f9cd8 of Array(this['slides'][_0x146627(0x1a0)])[_0x146627(0xba)]()) { element = this[_0x146627(0xae)][_0x7f9cd8], element['translateX'] -= _0x92c52, element[_0x146627(0x99)][_0x146627(0x192)][_0x146627(0x142)] = 'translate(' + element[_0x146627(0x22f)] + _0x146627(0x216) + this[_0x146627(0x1e8)] + '%)'; } } }, this[_0x53941c(0xd0)] = () => { var _0x2f0b66 = _0x53941c, _0x51b9f8 = window['getComputedStyle'](this['container'])[_0x2f0b66(0x21f)]; return _0x51b9f8 = parseInt(this[_0x2f0b66(0xe7)](_0x51b9f8)), _0x51b9f8; }, this[_0x53941c(0x157)] = () => { var _0x3b6a85 = _0x53941c, _0x2bcafd = window[_0x3b6a85(0xce)](this[_0x3b6a85(0x1d9)])[_0x3b6a85(0x8d)]; return _0x2bcafd = parseInt(this['removePxFromNumbers'](_0x2bcafd)), _0x2bcafd; }, this[_0x53941c(0xd1)] = () => { var _0xaae4aa = _0x53941c; if (this[_0xaae4aa(0x149)]) { var _0x480b41 = window[_0xaae4aa(0xce)](this[_0xaae4aa(0x120)])[_0xaae4aa(0x21f)]; _0x480b41 = parseInt(this[_0xaae4aa(0xe7)](_0x480b41)), _0x480b41 > this[_0xaae4aa(0xd2)] ? this[_0xaae4aa(0x1d9)][_0xaae4aa(0x192)][_0xaae4aa(0x21f)] = this[_0xaae4aa(0xd2)] + 'px' : this[_0xaae4aa(0x1d9)][_0xaae4aa(0x192)][_0xaae4aa(0x21f)] = null; } if (this[_0xaae4aa(0xae)][_0xaae4aa(0x1a0)] > 0x0) { var _0x42fbe3 = this[_0xaae4aa(0xd0)](), _0x3961f4 = this['slides'][0x0], _0x4b3012 = this[_0xaae4aa(0xae)][this[_0xaae4aa(0xae)]['length'] - 0x1]; this[_0xaae4aa(0x1ff)] !== null && this[_0xaae4aa(0x166)] !== null && (_0x4b3012[_0xaae4aa(0x22f)] + _0x4b3012[_0xaae4aa(0x21f)] <= _0x42fbe3 && _0x3961f4[_0xaae4aa(0x22f)] >= 0x0 ? (this[_0xaae4aa(0x1ff)]['style']['display'] = _0xaae4aa(0x8f), this[_0xaae4aa(0x166)][_0xaae4aa(0x192)]['display'] = _0xaae4aa(0x8f)) : (this['nextButton'][_0xaae4aa(0x192)][_0xaae4aa(0x156)] = _0xaae4aa(0x1cb), this[_0xaae4aa(0x166)]['style'][_0xaae4aa(0x156)] = 'flex')); } }, this[_0x53941c(0x113)] = function () { var _0x42ee21 = _0x53941c; this['nextButton'] !== null && this[_0x42ee21(0x1ff)][_0x42ee21(0x18e)](_0x42ee21(0xbd), this['onNextPressed']); this[_0x42ee21(0x166)] !== null && this[_0x42ee21(0x166)][_0x42ee21(0x18e)](_0x42ee21(0xbd), this[_0x42ee21(0x1d7)]); window[_0x42ee21(0x18e)](_0x42ee21(0x197), this[_0x42ee21(0xd1)]), this[_0x42ee21(0x1d9)]['addEventListener'](_0x42ee21(0x109), this[_0x42ee21(0x98)]), this[_0x42ee21(0x1d9)]['addEventListener'](_0x42ee21(0x74), this[_0x42ee21(0x244)]), this[_0x42ee21(0x1d9)]['addEventListener'](_0x42ee21(0xe5), this[_0x42ee21(0x98)]), this['container'][_0x42ee21(0x18e)](_0x42ee21(0x11f), this[_0x42ee21(0x244)]), this[_0x42ee21(0x1d9)][_0x42ee21(0x18e)](_0x42ee21(0x81), this[_0x42ee21(0x244)]), window['addEventListener']('mousemove', this[_0x42ee21(0x1f1)]), window[_0x42ee21(0x18e)](_0x42ee21(0x222), this[_0x42ee21(0x1f1)]), this[_0x42ee21(0x1d9)][_0x42ee21(0x192)][_0x42ee21(0x143)] = _0x42ee21(0x17d); this[_0x42ee21(0x15d)] && (this[_0x42ee21(0x1e8)] = -0x32); this[_0x42ee21(0x180)] = 0x0; for (var _0x57c96c of Array(this[_0x42ee21(0x1d9)][_0x42ee21(0x18f)][_0x42ee21(0x1a0)])[_0x42ee21(0xba)]()) { var _0x5c15c1 = this[_0x42ee21(0x1d9)]['children'][_0x57c96c]; _0x5c15c1[_0x42ee21(0x192)][_0x42ee21(0x143)] = _0x42ee21(0x19b); this[_0x42ee21(0x15d)] && (_0x5c15c1[_0x42ee21(0x192)][_0x42ee21(0xf2)] = _0x42ee21(0x6f)); var _0x5cc9e7 = parseInt(this['removePxFromNumbers'](window[_0x42ee21(0xce)](_0x5c15c1)[_0x42ee21(0x8d)])); _0x5cc9e7 > this[_0x42ee21(0x180)] && (this[_0x42ee21(0x180)] = _0x5cc9e7); if (this['slides'][_0x42ee21(0x1a0)] === 0x0) { var _0x3522f4 = parseInt(this['removePxFromNumbers'](window[_0x42ee21(0xce)](_0x5c15c1)['width'])), _0x41a540 = { 'element': _0x5c15c1, 'width': _0x3522f4, 'translateX': this[_0x42ee21(0x1f3)] }; _0x5c15c1[_0x42ee21(0x192)][_0x42ee21(0x142)] = _0x42ee21(0xcf) + _0x41a540[_0x42ee21(0x22f)] + 'px,\x20' + this[_0x42ee21(0x1e8)] + '%)', this[_0x42ee21(0xae)]['push'](_0x41a540), this['sliders_width'] += _0x3522f4; } else { var _0x3522f4 = parseInt(this[_0x42ee21(0xe7)](window[_0x42ee21(0xce)](_0x5c15c1)[_0x42ee21(0x21f)])), _0x41a540 = { 'element': _0x5c15c1, 'width': _0x3522f4, 'translateX': this[_0x42ee21(0xae)][this['slides']['length'] - 0x1]['translateX'] + this['slides'][this['slides'][_0x42ee21(0x1a0)] - 0x1][_0x42ee21(0x21f)] + this[_0x42ee21(0x1e0)] }; _0x5c15c1[_0x42ee21(0x192)]['transform'] = _0x42ee21(0xcf) + _0x41a540[_0x42ee21(0x22f)] + 'px,\x20' + this[_0x42ee21(0x1e8)] + '%)', this[_0x42ee21(0xae)]['push'](_0x41a540), this[_0x42ee21(0xd2)] += _0x3522f4 + this['gap']; } } this['onContainerResize'](), this['container']['style'][_0x42ee21(0x21d)] = this[_0x42ee21(0x180)] + this['top_bottom_gap'] + 'px'; var _0x11f9fb = window[_0x42ee21(0xce)](this[_0x42ee21(0x1d9)])[_0x42ee21(0x21f)]; _0x11f9fb = parseInt(this['removePxFromNumbers'](_0x11f9fb)), _0x11f9fb > this[_0x42ee21(0xd2)] && (this[_0x42ee21(0x1ff)] !== null && this[_0x42ee21(0x166)] !== null && (this['nextButton']['style'][_0x42ee21(0x156)] = _0x42ee21(0x8f), this[_0x42ee21(0x166)][_0x42ee21(0x192)][_0x42ee21(0x156)] = _0x42ee21(0x8f))); }; }, Services = function () { var _0x24ce27 = _0x1ddb; this['services_jason'] = null, this['services_container'] = document[_0x24ce27(0x1c1)](_0x24ce27(0x100)), this[_0x24ce27(0x8b)] = new CarosuleSimulator(this[_0x24ce27(0x1ed)], 0x32, !![], 0x50, document[_0x24ce27(0x1c1)]('#services-button-left'), document[_0x24ce27(0x1c1)](_0x24ce27(0x211)), 0x23, 0x23), this[_0x24ce27(0xb1)] = function (_0x1e228b) { var _0x348eda = _0x24ce27; this[_0x348eda(0x194)] = _0x1e228b, this['services_jason']['forEach'](_0x43bfe7 => { var _0x5e1b63 = _0x348eda, _0x349b00 = _0x5e1b63(0x152) + _0x43bfe7['icon'] + _0x5e1b63(0x1a6) + _0x43bfe7[_0x5e1b63(0x135)] + _0x5e1b63(0xe4) + _0x43bfe7[_0x5e1b63(0x105)] + '</p>', _0x43bfe7 = document[_0x5e1b63(0x1b3)]('div'); _0x43bfe7[_0x5e1b63(0x112)](_0x5e1b63(0xd5), _0x5e1b63(0x94)), _0x43bfe7[_0x5e1b63(0xb2)] = _0x349b00, this[_0x5e1b63(0x1ed)][_0x5e1b63(0x229)](_0x43bfe7); }), this[_0x348eda(0x8b)][_0x348eda(0x113)](); }; }; let AboutMe = function () { var _0x39719e = _0x1ddb; this[_0x39719e(0xdb)] = null, this[_0x39719e(0xb1)] = function (_0x46f9b8) { var _0x4557d0 = _0x39719e; this[_0x4557d0(0xdb)] = _0x46f9b8, this['description']['innerText'] = _0x46f9b8[_0x4557d0(0x105)]; for (var _0x2639a8 of _0x46f9b8[_0x4557d0(0x86)]) { var _0x46078f = document[_0x4557d0(0x1b3)]('p'); _0x46078f['classList'][_0x4557d0(0x132)](_0x4557d0(0x16c)), _0x46078f[_0x4557d0(0xb2)] = _0x2639a8, this[_0x4557d0(0x86)][_0x4557d0(0x229)](_0x46078f); } for (var _0x161dd1 of _0x46f9b8[_0x4557d0(0x17a)]) { var _0x39139d = document[_0x4557d0(0x1b3)](_0x4557d0(0xa6)); _0x39139d[_0x4557d0(0x1c4)][_0x4557d0(0x132)](_0x4557d0(0xda)), _0x39139d[_0x4557d0(0x1c4)][_0x4557d0(0x132)](_0x4557d0(0x16c)), _0x39139d[_0x4557d0(0xb2)] = _0x4557d0(0x152) + _0x161dd1[_0x4557d0(0xa1)] + '\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20class=\x22card-heading\x22>' + _0x161dd1[_0x4557d0(0x135)] + '</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22card-description\x22>' + _0x161dd1[_0x4557d0(0x105)] + _0x4557d0(0x140), this[_0x4557d0(0x17a)][_0x4557d0(0x229)](_0x39139d); } }, this[_0x39719e(0x154)] = function (_0x2b0f9b) { return document['querySelector'](_0x2b0f9b); }, this[_0x39719e(0x113)] = function () { var _0x24ad36 = _0x39719e; this[_0x24ad36(0x105)] = this[_0x24ad36(0x154)]('.about-me-description'), this[_0x24ad36(0x86)] = this[_0x24ad36(0x154)](_0x24ad36(0x103)), this['cards'] = this[_0x24ad36(0x154)]('.about-me-cards'); }, this[_0x39719e(0x113)](); }; var StackWidgetPage = function (_0x542e61 = 0x9) { var _0x3bded0 = _0x1ddb; this[_0x3bded0(0x10f)] = _0x542e61, this[_0x3bded0(0x150)] = [], this[_0x3bded0(0x213)] = [], this['nextButton'] = null, this[_0x3bded0(0x1d3)] = ![], this['currentPage'] = 0x0, this['__init__'] = function () { var _0x2a06cc = _0x3bded0; this[_0x2a06cc(0x1b4)] = document[_0x2a06cc(0x1b3)]('div'), this[_0x2a06cc(0x1b4)][_0x2a06cc(0x112)]('class', _0x2a06cc(0xcb)), this[_0x2a06cc(0x1b4)]['innerHTML'] = _0x2a06cc(0x200), this['contentHolder'] = this[_0x2a06cc(0x1b4)][_0x2a06cc(0x1c1)](_0x2a06cc(0x101)), this[_0x2a06cc(0x218)] = this['page'][_0x2a06cc(0x1c1)](_0x2a06cc(0x195)), this[_0x2a06cc(0x218)]['style'][_0x2a06cc(0x85)] = _0x2a06cc(0x1cd), this[_0x2a06cc(0x1ff)] = document[_0x2a06cc(0x1b3)](_0x2a06cc(0xa6)), this[_0x2a06cc(0x1ff)][_0x2a06cc(0xe8)] = _0x2a06cc(0xe3), this[_0x2a06cc(0x1ff)]['setAttribute']('class', _0x2a06cc(0x23d)), this[_0x2a06cc(0x1ff)][_0x2a06cc(0x112)](_0x2a06cc(0x1c2), 'next'), this[_0x2a06cc(0x1ff)]['addEventListener'](_0x2a06cc(0xbd), this['navigateContent']), this[_0x2a06cc(0x218)][_0x2a06cc(0x229)](this[_0x2a06cc(0x1ff)]); }, this[_0x3bded0(0xec)] = function (_0x584d1a, _0x251c7b) { var _0x58ea74 = _0x3bded0, _0x34dae6 = document['createElement'](_0x58ea74(0xa6)); return _0x34dae6[_0x58ea74(0xe8)] = _0x584d1a, _0x34dae6[_0x58ea74(0x112)](_0x58ea74(0xd5), _0x58ea74(0x23d)), _0x34dae6[_0x58ea74(0x112)](_0x58ea74(0x1c2), '' + _0x251c7b), _0x34dae6[_0x58ea74(0x18e)](_0x58ea74(0xbd), this['navigateContent']), this[_0x58ea74(0x218)][_0x58ea74(0x205)](_0x34dae6, this[_0x58ea74(0x1ff)]), this['navigatorButtons'][_0x58ea74(0xa2)](_0x34dae6), _0x34dae6; }, this[_0x3bded0(0x170)] = (_0x26d0d9 = null) => { var _0x35c24f = _0x3bded0; return _0x26d0d9 !== null ? { 'start': this[_0x35c24f(0x10f)] * _0x26d0d9, 'end': this[_0x35c24f(0x10f)] * _0x26d0d9 + this['visible_element_count'] - 0x1 } : { 'start': this[_0x35c24f(0x10f)] * this[_0x35c24f(0x1da)], 'end': this['visible_element_count'] * this[_0x35c24f(0x1da)] + this[_0x35c24f(0x10f)] - 0x1 }; }, this['reManageNavigatorButton'] = () => { }, this['addElement'] = function (_0x4b45b5) { var _0x56a7a8 = _0x3bded0; this[_0x56a7a8(0x150)][_0x56a7a8(0xa2)](_0x4b45b5); var _0x5e08ed = this['elements']['indexOf'](_0x4b45b5), _0x4206a5 = this[_0x56a7a8(0x170)](); _0x5e08ed >= _0x4206a5[_0x56a7a8(0x171)] && _0x5e08ed <= _0x4206a5[_0x56a7a8(0x165)] && this[_0x56a7a8(0x19f)][_0x56a7a8(0x229)](_0x4b45b5); var _0x15488a = 0x0; if (this[_0x56a7a8(0x150)]['length'] % this[_0x56a7a8(0x10f)] > 0x0) _0x15488a += 0x1; _0x15488a += parseInt(this[_0x56a7a8(0x150)][_0x56a7a8(0x1a0)] / this['visible_element_count']), _0x15488a > this['navigatorButtons'][_0x56a7a8(0x1a0)] && (this[_0x56a7a8(0xec)]('' + _0x15488a, '' + (_0x15488a - 0x1)), this[_0x56a7a8(0x213)][_0x56a7a8(0x1a0)] >= 0x2 && !this['isNavigatorButtonVisible'] && (this['contentNavigators']['style']['visibility'] = _0x56a7a8(0x23a), this[_0x56a7a8(0x1d3)] = !![], this[_0x56a7a8(0x213)][this[_0x56a7a8(0x1da)]][_0x56a7a8(0x1c4)]['add']('stack-widget-navigator-active'))); }, this[_0x3bded0(0xc3)] = _0x26b780 => { var _0x29146b = _0x3bded0; newPageIndex = _0x26b780[_0x29146b(0x163)][_0x29146b(0x73)](_0x29146b(0x1c2)); newPageIndex === _0x29146b(0x1f8) ? newPageIndex = this[_0x29146b(0x1da)] + 0x1 : newPageIndex = parseInt(newPageIndex); newRange = this['getRangeOfCurrentPage'](newPageIndex); if (newRange[_0x29146b(0x171)] >= 0x0 && newRange['start'] < this[_0x29146b(0x150)]['length']) { this[_0x29146b(0x19f)][_0x29146b(0xb2)] = '', this[_0x29146b(0x213)][this[_0x29146b(0x1da)]]['classList'][_0x29146b(0xb0)]('stack-widget-navigator-active'), this['currentPage'] = newPageIndex, this['navigatorButtons'][this['currentPage']][_0x29146b(0x1c4)][_0x29146b(0x132)](_0x29146b(0x239)), index = newRange[_0x29146b(0x171)]; while (index <= newRange[_0x29146b(0x165)] && index < this[_0x29146b(0x150)][_0x29146b(0x1a0)]) { this[_0x29146b(0x19f)]['append'](this[_0x29146b(0x150)][index]), index += 0x1; } } }, this[_0x3bded0(0x113)](); }, StackWidget = function (_0x906dc8) { var _0x238673 = _0x1ddb; this[_0x238673(0x1d9)] = _0x906dc8, this[_0x238673(0x113)] = function () { var _0x2228ee = _0x238673; this[_0x2228ee(0x1f2)] = [], this['currentPage'] = null; }, this['getPage'] = _0x4ed99d => { var _0x2c445f = _0x238673; if (_0x4ed99d >= 0x0 && _0x4ed99d < this[_0x2c445f(0x1f2)][_0x2c445f(0x1a0)]) return this[_0x2c445f(0x1b4)][_0x4ed99d]; }, this['switchToPage'] = _0x28ba50 => { var _0x2682fb = _0x238673; this['currentPage'][_0x2682fb(0x1b4)]['style']['display'] = _0x2682fb(0x8f); var _0xa3d34b = parseInt(_0x28ba50[_0x2682fb(0x163)][_0x2682fb(0x73)](_0x2682fb(0x1c2))); this[_0x2682fb(0x1da)] = this['pages'][_0xa3d34b], this[_0x2682fb(0x1da)]['page']['style'][_0x2682fb(0x156)] = _0x2682fb(0x1e7); }, this[_0x238673(0x19c)] = (_0x1ea104, _0x454a79) => { var _0x32de9c = _0x238673; this[_0x32de9c(0x1f2)][_0x32de9c(0xa2)](_0x1ea104), this[_0x32de9c(0x1d9)][_0x32de9c(0x229)](_0x1ea104[_0x32de9c(0x1b4)]), _0x454a79[_0x32de9c(0x112)](_0x32de9c(0x1c2), '' + this[_0x32de9c(0x1f2)][_0x32de9c(0x1b7)](_0x1ea104)), _0x454a79[_0x32de9c(0x18e)]('click', this[_0x32de9c(0xf1)]), this[_0x32de9c(0x1da)] === null ? this[_0x32de9c(0x1da)] = _0x1ea104 : _0x1ea104[_0x32de9c(0x1b4)][_0x32de9c(0x192)][_0x32de9c(0x156)] = 'none'; }, this['__init__'](); }, ProjectCard = function (_0x391611, _0x237d54 = null, _0x286490 = null, _0x518d7c = null, _0x2ea8c4 = null) { var _0x55e97a = _0x1ddb; this['jasonData'] = _0x391611, this[_0x55e97a(0x9c)] = _0x286490, this[_0x55e97a(0x23e)] = _0x237d54, this[_0x55e97a(0x20a)] = _0x518d7c, this['imageViewCallBack'] = _0x2ea8c4, this[_0x55e97a(0x202)] = null, this[_0x55e97a(0x76)] = () => { var _0x55c778 = _0x55e97a; this[_0x55c778(0x23e)] !== null && this[_0x55c778(0xdb)][_0x55c778(0x76)] !== null && this[_0x55c778(0x23e)](this[_0x55c778(0xdb)][_0x55c778(0x76)]); }, this[_0x55e97a(0x18d)] = () => { var _0x4a565b = _0x55e97a; if (this[_0x4a565b(0x14a)] === null) { console[_0x4a565b(0x1ef)](_0x4a565b(0x13b)); return; } this[_0x4a565b(0x14a)](this['jasonData'][_0x4a565b(0x219)]); }, this['playVideo'] = () => { var _0x172633 = _0x55e97a; if (this[_0x172633(0x20a)] === null) { console[_0x172633(0x1ef)](_0x172633(0x71)); return; } this['playVideoCallBack'](this[_0x172633(0xdb)][_0x172633(0x219)]); }, this[_0x55e97a(0xa5)] = _0x4e8e8a => { }, this[_0x55e97a(0x113)] = function () { var _0x56cc66 = _0x55e97a; this[_0x56cc66(0xda)] = document[_0x56cc66(0x1b3)](_0x56cc66(0xa6)); this[_0x56cc66(0x9c)] !== null && this[_0x56cc66(0x9c)][_0x56cc66(0xf8)] ? this['card']['setAttribute']('class', _0x56cc66(0x162)) : this[_0x56cc66(0xda)][_0x56cc66(0x112)](_0x56cc66(0xd5), _0x56cc66(0x1f6)); if (this['jasonData'][_0x56cc66(0xa3)] === '#' || this['jasonData'][_0x56cc66(0xa3)] === '') var _0x4db451 = _0x56cc66(0x23c), _0xfc883a = ''; else var _0x4db451 = '', _0xfc883a = target = _0x56cc66(0x190) + this[_0x56cc66(0xdb)]['github'] + '\x22'; this[_0x56cc66(0xda)][_0x56cc66(0xb2)] = _0x56cc66(0x206) + this[_0x56cc66(0xdb)][_0x56cc66(0xa1)] + _0x56cc66(0xc6) + this[_0x56cc66(0xdb)][_0x56cc66(0x135)] + '</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>' + this[_0x56cc66(0xdb)]['dateTime'] + _0x56cc66(0x1dc) + this['jasonData'][_0x56cc66(0x105)] + _0x56cc66(0x9f) + this[_0x56cc66(0xdb)]['thumbnailImage'] + _0x56cc66(0xee) + _0xfc883a + _0x56cc66(0xc1) + _0x4db451 + _0x56cc66(0x13d), this[_0x56cc66(0xd3)] = this['card']['querySelector'](_0x56cc66(0x114)); this[_0x56cc66(0xdb)][_0x56cc66(0x76)] !== null ? this[_0x56cc66(0xdb)][_0x56cc66(0x217)] ? (this[_0x56cc66(0xd3)][_0x56cc66(0x112)]('href', '' + this[_0x56cc66(0xdb)]['readMore']), this[_0x56cc66(0xd3)][_0x56cc66(0x112)](_0x56cc66(0x1f5), '_blank')) : this[_0x56cc66(0xd3)][_0x56cc66(0x18e)](_0x56cc66(0xbd), this[_0x56cc66(0x76)]) : this[_0x56cc66(0xd3)][_0x56cc66(0x192)][_0x56cc66(0x85)] = _0x56cc66(0x1cd); this[_0x56cc66(0x83)] = this['card'][_0x56cc66(0x1c1)](_0x56cc66(0x131)), this[_0x56cc66(0x83)][_0x56cc66(0x18e)](_0x56cc66(0xbd), this[_0x56cc66(0x107)]); var _0x487bd3 = this[_0x56cc66(0xda)][_0x56cc66(0x1c1)](_0x56cc66(0xe6)); if (this[_0x56cc66(0xdb)][_0x56cc66(0x1a8)] === _0x56cc66(0x1a4) || this[_0x56cc66(0xdb)][_0x56cc66(0x1a8)] === _0x56cc66(0x187)) { _0x487bd3[_0x56cc66(0xb2)] = _0x56cc66(0x18a), this[_0x56cc66(0x83)][_0x56cc66(0x192)][_0x56cc66(0x156)] = _0x56cc66(0x8f); var _0x4fad9e = this[_0x56cc66(0xda)]['querySelector'](_0x56cc66(0x17e)); _0x4fad9e[_0x56cc66(0x18e)](_0x56cc66(0xbd), this[_0x56cc66(0x18d)]), _0x4fad9e[_0x56cc66(0x192)][_0x56cc66(0x1d5)] = _0x56cc66(0x17b); } else (this[_0x56cc66(0xdb)][_0x56cc66(0x1a8)] === _0x56cc66(0xe2) || this[_0x56cc66(0xdb)][_0x56cc66(0x1a8)] === _0x56cc66(0xb8)) && (_0x487bd3[_0x56cc66(0xb2)] = '<div\x20class=\x22video\x22><i\x20class=\x22fa-solid\x20fa-circle-play\x22></i></div>'); }, this['__init__'](); }, ReadMoreViewer = function (_0x8fed21) { var _0x163399 = _0x1ddb; this[_0x163399(0xdb)] = null, this[_0x163399(0x1ba)] = _0x8fed21, this[_0x163399(0x10b)] = _0x299426 => { var _0xf27865 = _0x163399; const _0x56e3d5 = { 'title': _0x299426['currentTarget'][_0xf27865(0x73)]('title'), 'text': _0x299426[_0xf27865(0x163)][_0xf27865(0x73)](_0xf27865(0x1aa)), 'url': _0x299426[_0xf27865(0x163)][_0xf27865(0x73)](_0xf27865(0x1c2)) }; navigator[_0xf27865(0x79)](_0x56e3d5); }, this[_0x163399(0x169)] = (_0xcbe742 = null) => { var _0x46e99a = _0x163399; this[_0x46e99a(0x1ba)][_0x46e99a(0x171)](), this['jasonData'] = _0xcbe742, this[_0x46e99a(0x7c)]['setAttribute']('src', this[_0x46e99a(0xdb)][_0x46e99a(0xa1)]), this[_0x46e99a(0x151)][_0x46e99a(0xe8)] = this[_0x46e99a(0xdb)][_0x46e99a(0x151)], this[_0x46e99a(0x8c)][_0x46e99a(0xe8)] = this[_0x46e99a(0xdb)][_0x46e99a(0xb6)], this[_0x46e99a(0x22c)][_0x46e99a(0xb2)] = ''; for (var _0x139167 of this['jasonData'][_0x46e99a(0x1f7)]) { var _0x339e2b = document[_0x46e99a(0x1b3)](_0x46e99a(0xa6)); _0x339e2b[_0x46e99a(0xe8)] = _0x139167, this['usedTechnology']['append'](_0x339e2b); } this['pxcarosuleSimulator'] = new CarosuleSimulator(this['usedTechnology'], 0xa, !![]), this[_0x46e99a(0x1de)]['__init__'](), this[_0x46e99a(0x18b)][_0x46e99a(0xb2)] = ''; for (var _0x50f008 of this[_0x46e99a(0xdb)][_0x46e99a(0x1a4)]) { var _0xd9d40c = document[_0x46e99a(0x1b3)](_0x46e99a(0x1e6)); _0xd9d40c[_0x46e99a(0x112)](_0x46e99a(0xc0), _0x50f008), _0xd9d40c[_0x46e99a(0x112)]('id', _0x46e99a(0x12c)), this[_0x46e99a(0x18b)][_0x46e99a(0x229)](_0xd9d40c); } this['jasonData'][_0x46e99a(0x1a4)][_0x46e99a(0x1a0)] > 0x1 ? (this[_0x46e99a(0x8e)][_0x46e99a(0x192)][_0x46e99a(0x156)] = null, this[_0x46e99a(0x8b)] = new PercentageCarosuleSimulator(this[_0x46e99a(0x18b)], 0x1c2)) : (this[_0x46e99a(0x8e)][_0x46e99a(0x192)]['display'] = _0x46e99a(0x8f), this['carosuleSimulator'] = null), this[_0x46e99a(0x96)][_0x46e99a(0xe8)] = this[_0x46e99a(0xdb)][_0x46e99a(0x18c)], this['readMoreImageDescription']['innerText'] = this[_0x46e99a(0xdb)][_0x46e99a(0x1ab)], this[_0x46e99a(0xfe)](), this['window'][_0x46e99a(0x1c4)][_0x46e99a(0x132)]('readMoreViewerActive'), this['progressBar'][_0x46e99a(0x13a)](); }, this[_0x163399(0x141)] = _0x1d879c => { var _0x82a95 = _0x163399; this['carosuleSimulator'] !== null && this['carosuleSimulator'][_0x82a95(0x141)](), _0x1d879c['stopPropagation'](); }, this[_0x163399(0x1d7)] = _0x3d1c51 => { var _0x4955c7 = _0x163399; this[_0x4955c7(0x8b)] !== null && this[_0x4955c7(0x8b)][_0x4955c7(0x1d7)](), _0x3d1c51[_0x4955c7(0xa7)](); }, this[_0x163399(0xfe)] = () => { var _0x111ba5 = _0x163399; this[_0x111ba5(0x88)]['innerHTML'] = ''; for (var _0x11e018 of this[_0x111ba5(0xdb)][_0x111ba5(0x1ea)]) { if (_0x11e018[_0x111ba5(0x84)] === 'h1' || _0x11e018[_0x111ba5(0x84)] === 'h2' || _0x11e018[_0x111ba5(0x84)] === 'h3' || _0x11e018[_0x111ba5(0x84)] === 'h4' || _0x11e018['type'] === 'p') { var _0x23f8e5 = document['createElement'](_0x11e018[_0x111ba5(0x84)]); this[_0x111ba5(0x88)][_0x111ba5(0x229)](_0x23f8e5), _0x23f8e5['innerHTML'] = _0x11e018[_0x111ba5(0x23f)]; } else { if (_0x11e018[_0x111ba5(0x84)] === _0x111ba5(0x1e0)) { var _0x23f8e5 = document[_0x111ba5(0x1b3)](_0x111ba5(0xa6)); _0x23f8e5[_0x111ba5(0x1c4)][_0x111ba5(0x132)](_0x111ba5(0x1e0)), _0x23f8e5[_0x111ba5(0x192)][_0x111ba5(0x8d)] = _0x11e018[_0x111ba5(0x1ae)], this[_0x111ba5(0x88)]['append'](_0x23f8e5); } else { if (_0x11e018[_0x111ba5(0x84)] === _0x111ba5(0x86)) { var _0x5eceb1 = document['createElement'](_0x111ba5(0xa6)); _0x5eceb1['classList'][_0x111ba5(0x132)](_0x111ba5(0x7e)); for (var _0x454250 of _0x11e018[_0x111ba5(0x86)]) { var _0xcc51e4 = document['createElement']('p'); _0xcc51e4[_0x111ba5(0x1c4)]['add'](_0x111ba5(0x136)), _0xcc51e4[_0x111ba5(0xe8)] = _0x454250, _0x5eceb1[_0x111ba5(0x229)](_0xcc51e4); } this['readMoreContent']['append'](_0x5eceb1); } else { if (_0x11e018['type'] === _0x111ba5(0x1dd)) { var _0x26be8c = document['createElement']('a'); _0x26be8c['setAttribute'](_0x111ba5(0xc8), _0x11e018['url']), _0x26be8c[_0x111ba5(0x112)](_0x111ba5(0x1f5), _0x111ba5(0x1b2)), _0x26be8c['innerText'] = _0x11e018[_0x111ba5(0x1aa)], _0x26be8c['setAttribute'](_0x111ba5(0xd5), _0x11e018[_0x111ba5(0xd5)]), this[_0x111ba5(0x88)][_0x111ba5(0x229)](_0x26be8c); } else { if (_0x11e018[_0x111ba5(0x84)] === 'copyLink') { var _0x26be8c = document['createElement']('p'); _0x26be8c[_0x111ba5(0x112)](_0x111ba5(0x1c2), _0x11e018['url']), _0x26be8c[_0x111ba5(0xe8)] = _0x11e018[_0x111ba5(0x1aa)], _0x26be8c[_0x111ba5(0x112)](_0x111ba5(0xd5), _0x11e018['class']), this[_0x111ba5(0x88)][_0x111ba5(0x229)](_0x26be8c); } else { if (_0x11e018[_0x111ba5(0x84)] === _0x111ba5(0x187)) { var _0x23f8e5 = document[_0x111ba5(0x1b3)](_0x111ba5(0xa6)); _0x23f8e5[_0x111ba5(0x1c4)]['add'](_0x111ba5(0x187)), _0x23f8e5[_0x111ba5(0xb2)] = '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22' + _0x11e018[_0x111ba5(0xf7)] + '\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>' + _0x11e018[_0x111ba5(0x105)] + _0x111ba5(0x15a), this['readMoreContent'][_0x111ba5(0x229)](_0x23f8e5); } else { if (_0x11e018['type'] === _0x111ba5(0xe2)) { var _0x23f8e5 = document[_0x111ba5(0x1b3)](_0x111ba5(0xa6)); _0x23f8e5[_0x111ba5(0x1c4)][_0x111ba5(0x132)](_0x111ba5(0x78)), _0x23f8e5[_0x111ba5(0xb2)] = _0x111ba5(0x95) + _0x11e018[_0x111ba5(0xf7)] + '\x22\x20title=\x22' + _0x11e018['shareTitle'] + _0x111ba5(0x1eb) + _0x11e018[_0x111ba5(0xe9)] + _0x111ba5(0x92) + _0x11e018[_0x111ba5(0xf7)] + _0x111ba5(0xbc); var _0x15e8d6 = _0x23f8e5['querySelector']('.readMoreVideoShareButton'); _0x15e8d6[_0x111ba5(0x18e)](_0x111ba5(0xbd), this['shareVideo']), this['readMoreContent'][_0x111ba5(0x229)](_0x23f8e5); } else { if (_0x11e018[_0x111ba5(0x84)] === _0x111ba5(0x193)) { var _0x23f8e5 = document['createElement'](_0x111ba5(0xa6)); _0x23f8e5['classList'][_0x111ba5(0x132)](_0x111ba5(0x1ce)), _0x23f8e5[_0x111ba5(0xb2)] = _0x111ba5(0x160) + _0x11e018[_0x111ba5(0x151)] + '</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22codeSnippetcontent\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<pre>' + _0x11e018[_0x111ba5(0x193)] + _0x111ba5(0x214), this[_0x111ba5(0x88)]['append'](_0x23f8e5); } } } } } } } } } }, this[_0x163399(0x22e)] = () => { var _0xc56bf8 = _0x163399; if (this[_0xc56bf8(0xdb)][_0xc56bf8(0x1a1)] !== null) { const _0x4ff387 = { 'title': this[_0xc56bf8(0xdb)][_0xc56bf8(0x1a1)]['title'], 'text': this[_0xc56bf8(0xdb)][_0xc56bf8(0x1a1)]['text'], 'url': this[_0xc56bf8(0xdb)][_0xc56bf8(0x1a1)][_0xc56bf8(0xf7)] }; navigator[_0xc56bf8(0x79)](_0x4ff387); } }, this['hide'] = () => { var _0x22a2d5 = _0x163399; this[_0x22a2d5(0x191)][_0x22a2d5(0x1c4)][_0x22a2d5(0xb0)](_0x22a2d5(0x126)); }, this[_0x163399(0x113)] = function () { var _0x34e733 = _0x163399; this[_0x34e733(0x191)] = document[_0x34e733(0x1c1)](_0x34e733(0x189)), this['closeButton'] = document[_0x34e733(0x1c1)](_0x34e733(0x167)), this[_0x34e733(0x228)] = document['querySelector'](_0x34e733(0x1d8)), this[_0x34e733(0x118)] = document['querySelector'](_0x34e733(0x231)), this[_0x34e733(0x7c)] = document['querySelector'](_0x34e733(0x237)), this[_0x34e733(0x151)] = document['querySelector'](_0x34e733(0x22b)), this[_0x34e733(0x8c)] = document['querySelector'](_0x34e733(0xcc)), this[_0x34e733(0x22c)] = document[_0x34e733(0x1c1)]('#readMoreUsedTechnology'), this[_0x34e733(0x8e)] = document[_0x34e733(0x1c1)](_0x34e733(0x177)), this[_0x34e733(0x11a)] = document[_0x34e733(0x1c1)]('#readMoreFeatureImageCarouselLeft'), this[_0x34e733(0x19e)] = document['querySelector'](_0x34e733(0x181)), this['readMoreFeatureImageContainer'] = document['querySelector'](_0x34e733(0x14b)), this[_0x34e733(0x96)] = document[_0x34e733(0x1c1)](_0x34e733(0x1f0)), this[_0x34e733(0x7f)] = document[_0x34e733(0x1c1)](_0x34e733(0x16f)), this[_0x34e733(0x88)] = document[_0x34e733(0x1c1)](_0x34e733(0x164)), this[_0x34e733(0x8b)] = null, this['closeButton']['addEventListener'](_0x34e733(0xbd), this[_0x34e733(0x21a)]), this[_0x34e733(0x228)]['addEventListener'](_0x34e733(0xbd), this['hide']), this['shareButton'][_0x34e733(0x18e)](_0x34e733(0xbd), this[_0x34e733(0x22e)]), this[_0x34e733(0x11a)][_0x34e733(0x18e)](_0x34e733(0xbd), this[_0x34e733(0x1d7)]), this[_0x34e733(0x8e)][_0x34e733(0x18f)][0x0][_0x34e733(0x18e)]('click', this['onPreviousPressed']), this['readMoreFeatureImageCarouselRight'][_0x34e733(0x18e)](_0x34e733(0xbd), this[_0x34e733(0x141)]), this['readMoreFeatureImageCarouselButton']['children'][0x1][_0x34e733(0x18e)](_0x34e733(0xbd), this['onNextPressed']); }, this['__init__'](); }, OverlayVideoPlayer = function (_0x515bf5, _0x32f0f8 = 0x500, _0x1758fc = 0x2d0, _0x8e8e59 = 0xa) { var _0x2be68d = _0x1ddb; this[_0x2be68d(0x1ba)] = _0x515bf5, this[_0x2be68d(0x182)] = _0x32f0f8, this[_0x2be68d(0x212)] = _0x1758fc, this[_0x2be68d(0xd8)] = this['maxPlayerHeight'] / this[_0x2be68d(0x182)], this[_0x2be68d(0xf4)] = this['maxPlayerWidth'] / this[_0x2be68d(0x212)], this[_0x2be68d(0x9d)] = _0x8e8e59, this[_0x2be68d(0xe7)] = function (_0x332e65) { var _0x30ba19 = _0x2be68d; return parseInt(_0x332e65[_0x30ba19(0x13f)](0x0, _0x332e65[_0x30ba19(0x1a0)] - 0x2)); }, this[_0x2be68d(0x21b)] = _0xc569c3 => { var _0x21bede = _0x2be68d, _0x45de48 = _0xc569c3['currentTarget'][_0x21bede(0x115)], _0x475d64 = _0xc569c3[_0x21bede(0x163)]['innerHeight'], _0x8fdee0 = this[_0x21bede(0xe7)](this[_0x21bede(0xb5)][_0x21bede(0x192)][_0x21bede(0x21f)]); if (_0x45de48 < this[_0x21bede(0x182)] + this['margin'] * 0x2 || _0x475d64 < this['maxPlayerHeight'] + this[_0x21bede(0x9d)] * 0x2) { var _0x2d5c4e = _0x45de48 - this[_0x21bede(0x9d)] * 0x4, _0x294fe6 = _0x2d5c4e * this[_0x21bede(0xd8)]; _0x294fe6 + this[_0x21bede(0x9d)] * 0x2 > _0x475d64 && (_0x294fe6 = _0x475d64 - this[_0x21bede(0x9d)] * 0x2, _0x2d5c4e = _0x294fe6 * this['aspectRationWidth']), this[_0x21bede(0xb5)]['style'][_0x21bede(0x21f)] = _0x2d5c4e + 'px', this[_0x21bede(0xb5)][_0x21bede(0x192)][_0x21bede(0x8d)] = _0x294fe6 + 'px'; } else _0x8fdee0 !== this[_0x21bede(0x182)] && (this['videoPlayerConatiner'][_0x21bede(0x192)][_0x21bede(0x21f)] = this[_0x21bede(0x182)] + 'px', this[_0x21bede(0xb5)][_0x21bede(0x192)][_0x21bede(0x8d)] = this[_0x21bede(0x212)] + 'px'); }, this[_0x2be68d(0x14f)] = () => { var _0x195c9e = _0x2be68d; this['progressBar'][_0x195c9e(0x13a)](), this[_0x195c9e(0x13c)]['style'][_0x195c9e(0x156)] = _0x195c9e(0x1cb); }, this[_0x2be68d(0x107)] = _0x2c32e1 => { var _0x1a654f = _0x2be68d; this[_0x1a654f(0x21b)]({ 'currentTarget': window }), this[_0x1a654f(0x245)][_0x1a654f(0x11d)] = this[_0x1a654f(0x14f)], this[_0x1a654f(0x1ba)]['start'](), this[_0x1a654f(0x245)][_0x1a654f(0x112)]('src', _0x2c32e1); }, this[_0x2be68d(0x133)] = () => { var _0x1d70d2 = _0x2be68d; this[_0x1d70d2(0x245)][_0x1d70d2(0x11d)] = null, this[_0x1d70d2(0x245)][_0x1d70d2(0x112)](_0x1d70d2(0xc0), ''), this[_0x1d70d2(0x13c)][_0x1d70d2(0x192)][_0x1d70d2(0x156)] = _0x1d70d2(0x8f); }, this[_0x2be68d(0x113)] = function () { var _0x1370f4 = _0x2be68d; this[_0x1370f4(0x13c)] = document[_0x1370f4(0x1c1)]('.videoViewer'), this[_0x1370f4(0x168)] = document[_0x1370f4(0x1c1)](_0x1370f4(0xd4)), this[_0x1370f4(0xb5)] = document['querySelector'](_0x1370f4(0xaf)), this['videoPlayer'] = document[_0x1370f4(0x1c1)](_0x1370f4(0x12a)), window[_0x1370f4(0x18e)](_0x1370f4(0x197), this[_0x1370f4(0x21b)]), this[_0x1370f4(0x168)][_0x1370f4(0x18e)](_0x1370f4(0xbd), this['close']); }, this[_0x2be68d(0x113)](); }, OverlayImageViewer = function (_0x431378) { var _0x4c8dc9 = _0x1ddb; this[_0x4c8dc9(0x1ba)] = _0x431378, this[_0x4c8dc9(0xae)] = [], this['carosuleSimulator'] = null, this[_0x4c8dc9(0x22d)] = 0x0, this[_0x4c8dc9(0x159)] = 0x0, this[_0x4c8dc9(0x138)] = (_0x1bf1a1, _0x16a838 = null) => { var _0x26233d = _0x4c8dc9, _0x20ae01 = document[_0x26233d(0x1b3)]('div'); _0x20ae01['classList'][_0x26233d(0x132)](_0x26233d(0x12d)); _0x16a838 !== null ? _0x20ae01[_0x26233d(0xb2)] = _0x26233d(0xaa) + _0x1bf1a1 + _0x26233d(0xde) + _0x16a838 + '</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20' : _0x20ae01['innerHTML'] = _0x26233d(0xaa) + _0x1bf1a1 + '\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'; var _0x325748 = _0x20ae01[_0x26233d(0x1c1)]('img'); return _0x325748['addEventListener'](_0x26233d(0xb1), this[_0x26233d(0x221)]), _0x20ae01; }, this[_0x4c8dc9(0x141)] = _0x394366 => { var _0xcf59fd = _0x4c8dc9; this[_0xcf59fd(0x8b)] !== null && this[_0xcf59fd(0x8b)][_0xcf59fd(0x141)](), _0x394366[_0xcf59fd(0xa7)](); }, this[_0x4c8dc9(0x1d7)] = _0x138203 => { var _0x835cbf = _0x4c8dc9; this[_0x835cbf(0x8b)] !== null && this[_0x835cbf(0x8b)]['onPreviousPressed'](), _0x138203[_0x835cbf(0xa7)](); }, this[_0x4c8dc9(0x16a)] = () => { var _0x1b6610 = _0x4c8dc9; this[_0x1b6610(0xfa)][_0x1b6610(0xb2)] = '', this['slides'] = []; }, this[_0x4c8dc9(0x20f)] = () => { var _0x13f7f3 = _0x4c8dc9; this[_0x13f7f3(0x1d4)]['style'][_0x13f7f3(0x156)] = null; }, this['hideNavigationButtons'] = () => { var _0x3ee932 = _0x4c8dc9; this[_0x3ee932(0x1d4)][_0x3ee932(0x192)]['display'] = 'none'; }, this['show'] = () => { var _0x4f2ff4 = _0x4c8dc9; this[_0x4f2ff4(0x1db)][_0x4f2ff4(0x192)][_0x4f2ff4(0x156)] = _0x4f2ff4(0x1e7); }, this[_0x4c8dc9(0x133)] = () => { var _0xb06546 = _0x4c8dc9; this[_0xb06546(0x1db)][_0xb06546(0x192)][_0xb06546(0x156)] = 'none'; }, this[_0x4c8dc9(0x221)] = () => { var _0xc8d0c = _0x4c8dc9; this[_0xc8d0c(0x22d)] += 0x1, this['loadedImages'] == this['totalImages'] && (this['show'](), this[_0xc8d0c(0x1ba)][_0xc8d0c(0x13a)]()); }, this[_0x4c8dc9(0x18d)] = _0x2b2e98 => { var _0x400dbe = _0x4c8dc9; this[_0x400dbe(0x22d)] = 0x0, this[_0x400dbe(0x1ba)][_0x400dbe(0x171)](), this[_0x400dbe(0x16a)](); if (typeof _0x2b2e98 === _0x400dbe(0xb3)) { this[_0x400dbe(0x159)] = 0x1, this['hideNavigationButtons'](), this[_0x400dbe(0x8b)] = null; var _0x3fc4e4 = this[_0x400dbe(0x138)](_0x2b2e98); this[_0x400dbe(0xae)][_0x400dbe(0xa2)](_0x3fc4e4), this[_0x400dbe(0xfa)][_0x400dbe(0x229)](_0x3fc4e4); } else { this[_0x400dbe(0x159)] = _0x2b2e98[_0x400dbe(0x1a0)]; for (var _0x1a6c50 of _0x2b2e98) { var _0x3fc4e4 = this[_0x400dbe(0x138)](_0x1a6c50['image'], _0x1a6c50[_0x400dbe(0x1aa)]); this[_0x400dbe(0xae)]['push'](_0x3fc4e4), this['imageViewerConatiner']['append'](_0x3fc4e4); } if (_0x2b2e98['length'] === 0x1) this['hideNavigationButtons'](); else _0x2b2e98[_0x400dbe(0x1a0)] > 0x1 && (this[_0x400dbe(0x20f)](), this[_0x400dbe(0x8b)] = new PercentageCarosuleSimulator(this[_0x400dbe(0xfa)], 0x109, this[_0x400dbe(0x1af)], this[_0x400dbe(0x235)]), this[_0x400dbe(0x8b)]['__init__']()); } }, this[_0x4c8dc9(0x113)] = function () { var _0x3e8b8f = _0x4c8dc9; this['imageViewerOverlay'] = document['querySelector'](_0x3e8b8f(0xef)), this['closeButton'] = document[_0x3e8b8f(0x1c1)](_0x3e8b8f(0x23b)), this[_0x3e8b8f(0xfa)] = document[_0x3e8b8f(0x1c1)](_0x3e8b8f(0x146)), this[_0x3e8b8f(0x1d4)] = document['querySelector'](_0x3e8b8f(0x224)), this[_0x3e8b8f(0x1af)] = document[_0x3e8b8f(0x1c1)]('#imageViewerLeftButton'), this['navigationRight'] = document[_0x3e8b8f(0x1c1)](_0x3e8b8f(0x236)), this[_0x3e8b8f(0x1e9)] = document['querySelector'](_0x3e8b8f(0x14e)), this[_0x3e8b8f(0xed)] = document['querySelector'](_0x3e8b8f(0x1f9)), this['closeButton'][_0x3e8b8f(0x18e)](_0x3e8b8f(0xbd), this[_0x3e8b8f(0x133)]), this[_0x3e8b8f(0x235)]['addEventListener']('click', this[_0x3e8b8f(0x141)]), this[_0x3e8b8f(0x1af)][_0x3e8b8f(0x18e)](_0x3e8b8f(0xbd), this[_0x3e8b8f(0x1d7)]), this[_0x3e8b8f(0xed)][_0x3e8b8f(0x18e)](_0x3e8b8f(0xbd), this[_0x3e8b8f(0x141)]), this[_0x3e8b8f(0x1e9)][_0x3e8b8f(0x18e)](_0x3e8b8f(0xbd), this[_0x3e8b8f(0x1d7)]); }, this[_0x4c8dc9(0x113)](); }, MainMenu = function () { var _0x21e0f6 = _0x1ddb; this[_0x21e0f6(0xdb)] = null, this[_0x21e0f6(0xc5)] = () => { var _0x5ae70d = _0x21e0f6, _0x152b06 = document[_0x5ae70d(0x1c1)](_0x5ae70d(0xfb)); return _0x152b06[_0x5ae70d(0x192)][_0x5ae70d(0xe1)]('--active-theme'); }, this[_0x21e0f6(0x97)] = () => { var _0x17f7bc = _0x21e0f6; this[_0x17f7bc(0x111)]['classList'][_0x17f7bc(0x132)](_0x17f7bc(0x14c)); }, this[_0x21e0f6(0xfc)] = () => { var _0x56cd0c = _0x21e0f6; this[_0x56cd0c(0x111)][_0x56cd0c(0x1c4)][_0x56cd0c(0xb0)](_0x56cd0c(0x14c)); }, this[_0x21e0f6(0x129)] = () => { var _0x546dc6 = _0x21e0f6; this[_0x546dc6(0x15f)][_0x546dc6(0x112)](_0x546dc6(0xc0), this[_0x546dc6(0xdb)][_0x546dc6(0x15f)][this['getActiveTheme']()]); }, this[_0x21e0f6(0xb1)] = _0x9bdd7a => { var _0x6e1507 = _0x21e0f6; this[_0x6e1507(0xdb)] = _0x9bdd7a, this[_0x6e1507(0x15f)][_0x6e1507(0x112)]('src', this['jasonData'][_0x6e1507(0x15f)][this[_0x6e1507(0xc5)]()]), this['logoText']['innerText'] = this[_0x6e1507(0xdb)]['logoText'], this['authorName'][_0x6e1507(0xe8)] = this[_0x6e1507(0xdb)][_0x6e1507(0xfd)], this[_0x6e1507(0xd9)][_0x6e1507(0xe8)] = this[_0x6e1507(0xdb)]['footerMesaage']; for (var _0x11d9ff of this[_0x6e1507(0xdb)][_0x6e1507(0xa9)]) { var _0x110889 = document['createElement']('a'); _0x110889[_0x6e1507(0x112)](_0x6e1507(0xc8), _0x11d9ff[_0x6e1507(0x1dd)]); _0x11d9ff[_0x6e1507(0x1dd)] !== '#' && _0x110889['setAttribute'](_0x6e1507(0x1f5), _0x6e1507(0x1b2)); _0x110889[_0x6e1507(0xb2)] = _0x11d9ff['name'], this[_0x6e1507(0x70)][_0x6e1507(0x229)](_0x110889); var _0x110889 = document[_0x6e1507(0x1b3)]('a'); _0x11d9ff[_0x6e1507(0x1dd)] !== '#' && _0x110889['setAttribute'](_0x6e1507(0x1f5), _0x6e1507(0x1b2)), _0x110889['setAttribute'](_0x6e1507(0xc8), _0x11d9ff['link']), _0x110889[_0x6e1507(0xb2)] = _0x11d9ff[_0x6e1507(0x135)], this[_0x6e1507(0xa9)]['append'](_0x110889); } }, this['__init__'] = function () { var _0x536148 = _0x21e0f6; this[_0x536148(0xc4)] = document[_0x536148(0x1c1)]('.mobile-menu-button'), this[_0x536148(0x16e)] = document['querySelector']('.mobile-menu-optins-close-btn'), this[_0x536148(0x111)] = document[_0x536148(0x1c1)](_0x536148(0x125)), this[_0x536148(0x15f)] = document['querySelector'](_0x536148(0x17c)), this['logoText'] = document[_0x536148(0x1c1)](_0x536148(0xdc)), this[_0x536148(0x70)] = document['querySelector']('#mobileMenuOptions'), this[_0x536148(0xfd)] = document['querySelector'](_0x536148(0x1e5)), this[_0x536148(0xd9)] = document[_0x536148(0x1c1)]('#mobileMenuBottomMesage'), this[_0x536148(0xa9)] = document[_0x536148(0x1c1)](_0x536148(0x201)), this[_0x536148(0xc4)][_0x536148(0x18e)](_0x536148(0xbd), this[_0x536148(0x97)]), this['mobileMenuHideButton'][_0x536148(0x18e)]('click', this[_0x536148(0xfc)]); }, this[_0x21e0f6(0x113)](); }, Protfolio = function (_0x16a405) { var _0x124e25 = _0x1ddb; this[_0x124e25(0x1ba)] = _0x16a405, this['jasonData'] = null, this[_0x124e25(0xca)] = [], this[_0x124e25(0xdd)] = null, this[_0x124e25(0x1d6)] = [], this[_0x124e25(0x127)] = new ReadMoreViewer(this[_0x124e25(0x1ba)]), this[_0x124e25(0xbb)] = new OverlayVideoPlayer(this[_0x124e25(0x1ba)]), this[_0x124e25(0xf6)] = new OverlayImageViewer(this[_0x124e25(0x1ba)]), this['__init__'] = function () { var _0x1f00fb = _0x124e25; this[_0x1f00fb(0x1a7)] = document['querySelector'](_0x1f00fb(0x1bc)), this[_0x1f00fb(0x105)] = document['querySelector']('#portfolioDescription'), this['projectPageButtonsContainer'] = document['querySelector'](_0x1f00fb(0x122)), this['stackWigetContainer'] = document[_0x1f00fb(0x1c1)](_0x1f00fb(0xa8)), this['stackWidget'] = new StackWidget(this[_0x1f00fb(0x87)]); }, this[_0x124e25(0x232)] = _0x47daf1 => { var _0x115b89 = _0x124e25; this[_0x115b89(0xdd)] !== null && this[_0x115b89(0xdd)][_0x115b89(0x1c4)][_0x115b89(0xb0)](_0x115b89(0x184)), this[_0x115b89(0xdd)] = _0x47daf1['currentTarget'], _0x47daf1[_0x115b89(0x163)][_0x115b89(0x1c4)]['add']('project-active-btn'); }, this[_0x124e25(0xb1)] = function (_0x41f34e) { var _0x19e6ed = _0x124e25; this['jasonData'] = _0x41f34e; var _0x1a2c7d = this[_0x19e6ed(0xdb)][_0x19e6ed(0x1a7)]['split']('\x20'), _0x5c5da2 = ''; for (word of _0x1a2c7d[_0x19e6ed(0x13f)](0x0, _0x1a2c7d[_0x19e6ed(0x1a0)] - 0x1)) { _0x5c5da2 += word + '\x20'; } _0x1a2c7d['length'] > 0x1 && (_0x5c5da2 += '<span\x20class=\x22primary\x22>' + _0x1a2c7d[_0x1a2c7d[_0x19e6ed(0x1a0)] - 0x1] + '</span>'), this[_0x19e6ed(0x1a7)][_0x19e6ed(0xb2)] = _0x5c5da2, this[_0x19e6ed(0x105)]['innerText'] = this[_0x19e6ed(0xdb)]['description'], this[_0x19e6ed(0xdb)][_0x19e6ed(0x233)][_0x19e6ed(0x130)](_0x569b7d => { var _0x54a470 = _0x19e6ed, _0x3c153c = document[_0x54a470(0x1b3)](_0x54a470(0xa6)); this[_0x54a470(0xca)][_0x54a470(0x1a0)] === 0x0 ? (_0x3c153c['setAttribute'](_0x54a470(0xd5), _0x54a470(0x7b)), this[_0x54a470(0xdd)] = _0x3c153c) : _0x3c153c[_0x54a470(0x112)](_0x54a470(0xd5), _0x54a470(0x15e)); _0x3c153c[_0x54a470(0xe8)] = '' + _0x569b7d['name'], _0x3c153c[_0x54a470(0x18e)]('click', this[_0x54a470(0x232)]), this[_0x54a470(0x1c0)][_0x54a470(0x229)](_0x3c153c), this['projectPageButtons'][_0x54a470(0xa2)](_0x3c153c); var _0x201a59 = new StackWidgetPage(0x6); _0x569b7d[_0x54a470(0x233)][_0x54a470(0x130)](_0x1010b9 => { var _0x3f3c9e = _0x54a470, _0x5b3c26 = new ProjectCard(_0x1010b9, this[_0x3f3c9e(0x127)][_0x3f3c9e(0x169)], this['jasonData'][_0x3f3c9e(0x9c)], this[_0x3f3c9e(0xbb)][_0x3f3c9e(0x107)], this[_0x3f3c9e(0xf6)][_0x3f3c9e(0x18d)]); _0x201a59[_0x3f3c9e(0x1e2)](_0x5b3c26[_0x3f3c9e(0xda)]), this[_0x3f3c9e(0x1d6)][_0x3f3c9e(0xa2)](_0x5b3c26); }), this[_0x54a470(0x147)]['addPage'](_0x201a59, _0x3c153c); }); }, this[_0x124e25(0x113)](); }, Skills = function () { var _0x1daa63 = _0x1ddb; this[_0x1daa63(0xdb)] = null, this['load'] = function (_0x37cb01) { var _0x3ff42b = _0x1daa63; this[_0x3ff42b(0xdb)] = _0x37cb01, this[_0x3ff42b(0x105)][_0x3ff42b(0xe8)] = this[_0x3ff42b(0xdb)][_0x3ff42b(0x105)]; for (var _0x582611 of this['jasonData'][_0x3ff42b(0x77)]) { card = document[_0x3ff42b(0x1b3)](_0x3ff42b(0xa6)), card[_0x3ff42b(0x1c4)][_0x3ff42b(0x132)](_0x3ff42b(0x123)), card['innerHTML'] = _0x3ff42b(0x1ca) + _0x582611[_0x3ff42b(0xa1)] + _0x3ff42b(0x93) + _0x582611['percentage'] + '%</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<!--\x20<i\x20class=\x22fa-brands\x20fa-square-js\x22></i>\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>' + _0x582611[_0x3ff42b(0x135)] + _0x3ff42b(0x210) + (0x64 - _0x582611[_0x3ff42b(0x15b)]) + _0x3ff42b(0x110), this[_0x3ff42b(0x17a)][_0x3ff42b(0x229)](card); } this[_0x3ff42b(0x8b)][_0x3ff42b(0x113)](); }, this[_0x1daa63(0x141)] = _0x2c965f => { var _0x2067f7 = _0x1daa63; this[_0x2067f7(0x8b)] !== null && this['carosuleSimulator'][_0x2067f7(0x141)](), _0x2c965f[_0x2067f7(0xa7)](); }, this['onPreviousPressed'] = _0x5355d0 => { var _0x4684d8 = _0x1daa63; this[_0x4684d8(0x8b)] !== null && this[_0x4684d8(0x8b)][_0x4684d8(0x1d7)](), _0x5355d0[_0x4684d8(0xa7)](); }, this[_0x1daa63(0x113)] = function () { var _0x5de74c = _0x1daa63; this[_0x5de74c(0x105)] = document[_0x5de74c(0x1c1)]('#skillsDescription'), this[_0x5de74c(0x17a)] = document[_0x5de74c(0x1c1)](_0x5de74c(0x106)), this['leftButton'] = document[_0x5de74c(0x1c1)]('.skillsLeftButton'), this[_0x5de74c(0x16d)] = document[_0x5de74c(0x1c1)](_0x5de74c(0x145)), this['carosuleSimulator'] = new CarosuleSimulator(this[_0x5de74c(0x17a)], 0x14, !![], 0x64, this[_0x5de74c(0x16d)], this['leftButton']); }, this[_0x1daa63(0x113)](); }, Experiences = function () { var _0x243d39 = _0x1ddb; this['load'] = function (_0x4f8a41) { var _0x13d13f = _0x1ddb; this['jasonData'] = _0x4f8a41, this['description'][_0x13d13f(0xe8)] = this[_0x13d13f(0xdb)][_0x13d13f(0x105)]; var _0x67dcb5 = _0x13d13f(0x12e); for (var _0x773cbd of this[_0x13d13f(0xdb)]['experience']) { card = document[_0x13d13f(0x1b3)](_0x13d13f(0xa6)), card[_0x13d13f(0x1c4)][_0x13d13f(0x132)]('timelineCard'), card[_0x13d13f(0xb2)] = _0x13d13f(0x1c3) + _0x67dcb5 + '\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22timelineLeftLine\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22company\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22companyLogo\x22><img\x20src=\x22' + _0x773cbd[_0x13d13f(0x15f)] + _0x13d13f(0x10c) + _0x773cbd[_0x13d13f(0x135)] + _0x13d13f(0x1fd) + _0x773cbd[_0x13d13f(0x105)] + _0x13d13f(0xa4) + _0x773cbd[_0x13d13f(0x13e)] + _0x13d13f(0x140), _0x67dcb5 === _0x13d13f(0x12e) ? _0x67dcb5 = _0x13d13f(0x108) : _0x67dcb5 = _0x13d13f(0x12e), this['cards'][_0x13d13f(0x229)](card); } let _0x545b6e = document[_0x13d13f(0x1b3)]('div'); _0x545b6e[_0x13d13f(0x1c4)]['add']('timelineNow'), _0x545b6e[_0x13d13f(0xb2)] = '<p>Now</p>', this['cards'][_0x13d13f(0x229)](_0x545b6e), this[_0x13d13f(0x8b)][_0x13d13f(0x113)](); }, this[_0x243d39(0x113)] = function () { var _0x5284b5 = _0x243d39; this[_0x5284b5(0x105)] = document[_0x5284b5(0x1c1)](_0x5284b5(0x240)), this[_0x5284b5(0x230)] = document[_0x5284b5(0x1c1)](_0x5284b5(0x12b)), this[_0x5284b5(0x17a)] = document[_0x5284b5(0x1c1)]('.timelineCards'), this[_0x5284b5(0xab)] = document[_0x5284b5(0x1c1)]('.timelineLeftButton'), this[_0x5284b5(0x16d)] = document[_0x5284b5(0x1c1)](_0x5284b5(0xad)), this[_0x5284b5(0x8b)] = new CarosuleSimulator(this['cards'], 0x0, !![], 0x171, this['rightButton'], this[_0x5284b5(0xab)]), this['carosuleSimulator'][_0x5284b5(0xc9)](this['cardsConatiner'], !![]); }, this[_0x243d39(0x113)](); }, MessageToUser = function () { var _0x1c7eea = _0x1ddb; this[_0x1c7eea(0xb1)] = function (_0x2a5c1d) { var _0x5a154e = _0x1c7eea; this['jasonData'] = _0x2a5c1d, this[_0x5a154e(0x135)]['innerText'] = this[_0x5a154e(0xdb)]['name'], this[_0x5a154e(0x90)][_0x5a154e(0x112)](_0x5a154e(0xc0), this[_0x5a154e(0xdb)][_0x5a154e(0x187)]); }, this[_0x1c7eea(0x1d1)] = () => { var _0x182cd3 = _0x1c7eea; let _0x17a134 = speechSynthesis['getVoices'](); if (!_0x17a134[_0x182cd3(0x1a0)]) { let _0x105f2e = new SpeechSynthesisUtterance(''); speechSynthesis[_0x182cd3(0xbf)](_0x105f2e), _0x17a134 = speechSynthesis['getVoices'](); } return _0x17a134; }, this[_0x1c7eea(0x1c8)] = () => { var _0x498928 = _0x1c7eea; if (_0x498928(0x119) in window) { console[_0x498928(0x1ef)]('Name\x20Said:\x20' + this['jasonData'][_0x498928(0x135)]); let _0xced3b1 = new SpeechSynthesisUtterance(); _0xced3b1[_0x498928(0x17f)] = this[_0x498928(0xdb)][_0x498928(0x155)], _0xced3b1[_0x498928(0x16b)] = this['jasonData']['speakRate'], _0xced3b1[_0x498928(0x209)] = this[_0x498928(0xdb)]['speakPitch'], _0xced3b1[_0x498928(0x1aa)] = this[_0x498928(0xdb)][_0x498928(0x1b8)], _0xced3b1[_0x498928(0x121)] = 'en', _0xced3b1[_0x498928(0xea)] = this[_0x498928(0x1d1)]()[this['jasonData']['voiceType']], speechSynthesis['speak'](_0xced3b1); } else console[_0x498928(0x1ef)](_0x498928(0x1f4) + this[_0x498928(0xdb)]['name']); }, this[_0x1c7eea(0x215)] = () => { var _0x4ddb11 = _0x1c7eea; window['location']['href'] = _0x4ddb11(0xb4) + this[_0x4ddb11(0xdb)][_0x4ddb11(0xc7)] + _0x4ddb11(0x1b5) + this[_0x4ddb11(0xdb)][_0x4ddb11(0x158)] + _0x4ddb11(0x1b0) + this[_0x4ddb11(0xdb)][_0x4ddb11(0x243)]; }, this[_0x1c7eea(0x113)] = function () { var _0x4624b6 = _0x1c7eea; this['authorImage'] = document[_0x4624b6(0x1c1)](_0x4624b6(0x128)), this['sayName'] = document[_0x4624b6(0x1c1)]('#messageToUserSayName'), this['name'] = document[_0x4624b6(0x1c1)]('#messageToUserAuthorName'), this[_0x4624b6(0x220)] = document[_0x4624b6(0x1c1)]('#messageToUserSayHiButton'), this['sayName'][_0x4624b6(0x18e)]('click', this[_0x4624b6(0x1c8)]), this[_0x4624b6(0x220)][_0x4624b6(0x18e)](_0x4624b6(0xbd), this[_0x4624b6(0x215)]); }, this[_0x1c7eea(0x113)](); }, Footer = function () { var _0x247972 = _0x1ddb; this['getActiveTheme'] = () => { var _0x43d9ba = _0x1ddb, _0x3ea797 = document[_0x43d9ba(0x1c1)](':root'); return _0x3ea797['style'][_0x43d9ba(0xe1)](_0x43d9ba(0x1fa)); }, this[_0x247972(0x129)] = () => { var _0x5b4623 = _0x247972; this[_0x5b4623(0x223)][_0x5b4623(0x112)](_0x5b4623(0xc0), this[_0x5b4623(0xdb)]['brand'][_0x5b4623(0x15f)][this[_0x5b4623(0xc5)]()]); }, this[_0x247972(0xb1)] = function (_0x18a775) { var _0x1b084c = _0x247972; this['jasonData'] = _0x18a775, this[_0x1b084c(0x223)][_0x1b084c(0x112)]('src', this[_0x1b084c(0xdb)][_0x1b084c(0x11c)][_0x1b084c(0x15f)][this[_0x1b084c(0xc5)]()]), this[_0x1b084c(0x1a5)][_0x1b084c(0xe8)] = this[_0x1b084c(0xdb)]['brand'][_0x1b084c(0x135)], this[_0x1b084c(0x1d2)][_0x1b084c(0xe8)] = this['jasonData'][_0x1b084c(0x11c)]['description']; var _0x805944 = document['createElement']('p'); _0x805944[_0x1b084c(0xe8)] = this[_0x1b084c(0xdb)][_0x1b084c(0x75)]['address'], this['contacts'][_0x1b084c(0x229)](_0x805944); for (var _0x328343 of this[_0x1b084c(0xdb)][_0x1b084c(0x75)]['contacts']) { var _0x2cc639 = document[_0x1b084c(0x1b3)]('p'); _0x2cc639[_0x1b084c(0xb2)] = '<i\x20class=\x22' + _0x328343[_0x1b084c(0xa1)] + _0x1b084c(0x178) + _0x328343[_0x1b084c(0x1aa)], this[_0x1b084c(0x102)][_0x1b084c(0x229)](_0x2cc639); } for (var _0x5c09a3 of this['jasonData']['quickLinks']) { var _0x49bcc0 = document[_0x1b084c(0x1b3)]('a'); _0x49bcc0[_0x1b084c(0x112)](_0x1b084c(0xc8), _0x5c09a3[_0x1b084c(0x1dd)]), _0x49bcc0[_0x1b084c(0x112)](_0x1b084c(0x1f5), _0x1b084c(0x1b2)), _0x49bcc0['innerText'] = _0x5c09a3['name'], this[_0x1b084c(0x176)][_0x1b084c(0x229)](_0x49bcc0); } this['copyright']['innerText'] = this[_0x1b084c(0xdb)]['socialLinks'][_0x1b084c(0x9e)]; for (var _0x5c09a3 of this['jasonData'][_0x1b084c(0x1b9)][_0x1b084c(0xff)]) { var _0x49bcc0 = document[_0x1b084c(0x1b3)]('a'); _0x49bcc0['setAttribute'](_0x1b084c(0xc8), _0x5c09a3[_0x1b084c(0x1dd)]), _0x49bcc0[_0x1b084c(0x112)](_0x1b084c(0x1f5), _0x1b084c(0x1b2)), _0x49bcc0[_0x1b084c(0xb2)] = _0x1b084c(0x1cc) + _0x5c09a3[_0x1b084c(0xa1)] + '\x22></i>', this['socialLinks']['append'](_0x49bcc0); } }, this[_0x247972(0x113)] = function () { var _0x364f18 = _0x247972; this[_0x364f18(0x223)] = document[_0x364f18(0x1c1)](_0x364f18(0xb7)), this[_0x364f18(0x1a5)] = document[_0x364f18(0x1c1)]('#footerBrandName'), this[_0x364f18(0x1d2)] = document[_0x364f18(0x1c1)]('#footerBrandDescription'), this[_0x364f18(0x102)] = document['querySelector']('#footerContacts'), this[_0x364f18(0x176)] = document[_0x364f18(0x1c1)](_0x364f18(0x199)), this['copyright'] = document[_0x364f18(0x1c1)](_0x364f18(0xf9)), this[_0x364f18(0x1b9)] = document[_0x364f18(0x1c1)]('#footerSocialLinks'); }, this[_0x247972(0x113)](); }, ThemeManager = function () { var _0x4a12c8 = _0x1ddb; this[_0x4a12c8(0xdb)] = null, this[_0x4a12c8(0xb1)] = function (_0x247f2d) { var _0x3ce340 = _0x4a12c8; this[_0x3ce340(0xdb)] = _0x247f2d, active_theme = this[_0x3ce340(0xdb)]['website-info']['active-theme'], theme = this['jasonData'][_0x3ce340(0x11e)][active_theme]; var _0x5b9d3f = document[_0x3ce340(0x1c1)](':root'); for (key in theme) { _0x5b9d3f[_0x3ce340(0x192)][_0x3ce340(0x7a)]('--' + key, theme[key]); } _0x5b9d3f[_0x3ce340(0x192)][_0x3ce340(0x7a)]('--active-theme', active_theme); }, this['setTheme'] = _0x5ef4fa => { var _0x393520 = _0x4a12c8; theme = this[_0x393520(0xdb)][_0x393520(0x11e)][_0x5ef4fa]; var _0x5e4601 = document[_0x393520(0x1c1)](_0x393520(0xfb)); for (key in theme) { _0x5e4601[_0x393520(0x192)][_0x393520(0x7a)]('--' + key, theme[key]); } _0x5e4601[_0x393520(0x192)][_0x393520(0x7a)](_0x393520(0x1fa), _0x5ef4fa); }, this['getActiveTheme'] = () => { var _0x2735cc = _0x4a12c8, _0x47589d = document[_0x2735cc(0x1c1)](':root'); return _0x47589d['style'][_0x2735cc(0xe1)](_0x2735cc(0x1fa)); }; }, FloatingMenu = function (_0x3721f7) { var _0x136b33 = _0x1ddb; this[_0x136b33(0xdb)] = null, this[_0x136b33(0x7d)] = _0x3721f7, this['activeThemeButton'] = null, this['reloadComponentOnThemeChnage'] = [], this['onThemeChnage'] = _0x125f36 => { var _0x5b669b = _0x136b33; let _0x326552 = _0x125f36[_0x5b669b(0x163)]['getAttribute'](_0x5b669b(0x1c2)); this[_0x5b669b(0x7d)][_0x5b669b(0x19a)](_0x326552), this[_0x5b669b(0x116)][_0x5b669b(0x1c4)]['remove'](_0x5b669b(0x20d)), this[_0x5b669b(0x116)] = _0x125f36[_0x5b669b(0x163)], this[_0x5b669b(0x116)][_0x5b669b(0x1c4)]['add'](_0x5b669b(0x20d)); for (var _0x4a3082 of this['reloadComponentOnThemeChnage']) { _0x4a3082['reload'](); } }, this[_0x136b33(0x227)] = function (_0x108753) { var _0x23ded6 = _0x136b33; this[_0x23ded6(0x72)]['push'](_0x108753); }, this[_0x136b33(0xb1)] = function (_0x52c1f1) { var _0x44f8a1 = _0x136b33; this[_0x44f8a1(0xdb)] = _0x52c1f1; let _0x47c2c8 = this[_0x44f8a1(0x7d)][_0x44f8a1(0xc5)](); for (var _0x36db61 of this['jasonData'][_0x44f8a1(0x91)]) { let _0x5ebd40 = document[_0x44f8a1(0x1b3)](_0x44f8a1(0xa6)); _0x5ebd40[_0x44f8a1(0x112)](_0x44f8a1(0x1c2), _0x36db61[_0x44f8a1(0x1ac)]), _0x36db61['theme'] == _0x47c2c8 ? (_0x5ebd40[_0x44f8a1(0x1c4)][_0x44f8a1(0x132)](_0x44f8a1(0x10d)), _0x5ebd40[_0x44f8a1(0x1c4)][_0x44f8a1(0x132)]('fmb-active'), this[_0x44f8a1(0x116)] = _0x5ebd40) : _0x5ebd40[_0x44f8a1(0x1c4)][_0x44f8a1(0x132)](_0x44f8a1(0x10d)), _0x5ebd40[_0x44f8a1(0xb2)] = _0x44f8a1(0x1cc) + _0x36db61['icon'] + _0x44f8a1(0x178), _0x5ebd40[_0x44f8a1(0x18e)]('click', this[_0x44f8a1(0x117)]), this[_0x44f8a1(0x20b)]['append'](_0x5ebd40); } var _0x528b26 = document[_0x44f8a1(0x1b3)](_0x44f8a1(0xa6)); _0x528b26[_0x44f8a1(0x1c4)][_0x44f8a1(0x132)]('gap'), this['body'][_0x44f8a1(0x229)](_0x528b26); for (var _0x559cca of this['jasonData'][_0x44f8a1(0x176)]) { let _0x145501 = document['createElement']('a'); _0x145501[_0x44f8a1(0x112)](_0x44f8a1(0x1f5), '_blank'), _0x145501['setAttribute'](_0x44f8a1(0xc8), _0x559cca[_0x44f8a1(0x1dd)]), _0x145501[_0x44f8a1(0xb2)] = _0x44f8a1(0xb9) + _0x559cca[_0x44f8a1(0xa1)] + _0x44f8a1(0x22a), this['body'][_0x44f8a1(0x229)](_0x145501); } var _0x528b26 = document[_0x44f8a1(0x1b3)]('div'); _0x528b26[_0x44f8a1(0x1c4)][_0x44f8a1(0x132)](_0x44f8a1(0x1e0)), this[_0x44f8a1(0x20e)][_0x44f8a1(0x229)](_0x528b26); let _0x216f45 = document[_0x44f8a1(0x1b3)](_0x44f8a1(0x1e6)); _0x216f45[_0x44f8a1(0x112)]('src', this[_0x44f8a1(0xdb)]['authorIcon']), this['footer']['append'](_0x216f45); }, this[_0x136b33(0xf3)] = () => { var _0x76deea = _0x136b33; this[_0x76deea(0x225)][_0x76deea(0x1c4)][_0x76deea(0x234)](_0x76deea(0xc2)) ? this[_0x76deea(0x225)][_0x76deea(0x1c4)][_0x76deea(0xb0)](_0x76deea(0xc2)) : this['menu'][_0x76deea(0x1c4)][_0x76deea(0x132)]('floating-menu-active'); }, this[_0x136b33(0x113)] = function () { var _0x4d1cac = _0x136b33; this['menu'] = document[_0x4d1cac(0x1c1)](_0x4d1cac(0x21e)), this[_0x4d1cac(0x168)] = document[_0x4d1cac(0x1c1)]('.floating-menu-close-button'), this[_0x4d1cac(0x20b)] = document[_0x4d1cac(0x1c1)]('.floating-menu-body'), this[_0x4d1cac(0x20e)] = document[_0x4d1cac(0x1c1)](_0x4d1cac(0x89)), this[_0x4d1cac(0x168)][_0x4d1cac(0x18e)](_0x4d1cac(0xbd), this[_0x4d1cac(0xf3)]); }, this[_0x136b33(0x113)](); }; function _0x1ddb(_0x3a6329, _0x155b18) { var _0x2a5613 = _0x2a56(); return _0x1ddb = function (_0x1ddbca, _0x4a7994) { _0x1ddbca = _0x1ddbca - 0x6f; var _0x838201 = _0x2a5613[_0x1ddbca]; return _0x838201; }, _0x1ddb(_0x3a6329, _0x155b18); } let ProgressBar = function () { var _0x1aa39b = _0x1ddb; this[_0x1aa39b(0x198)] = ![], this[_0x1aa39b(0x171)] = () => { var _0x6f826b = _0x1aa39b; this[_0x6f826b(0x1bb)][_0x6f826b(0x1c4)][_0x6f826b(0xb0)]('progressBarActive'), this[_0x6f826b(0x1bb)]['classList'][_0x6f826b(0xb0)]('animationCompleted'), this['progress'][_0x6f826b(0x192)]['width'] = '0%', this[_0x6f826b(0x1bb)][_0x6f826b(0x1c4)][_0x6f826b(0x132)](_0x6f826b(0x9a)), this[_0x6f826b(0x198)] = !![]; }, this[_0x1aa39b(0x13a)] = () => { var _0x215d89 = _0x1aa39b; this['progress'][_0x215d89(0x192)][_0x215d89(0x1a9)] = null, this[_0x215d89(0x1bb)]['style']['width'] = window[_0x215d89(0xce)](this[_0x215d89(0x1bb)])['width'], this[_0x215d89(0x1bb)][_0x215d89(0x1c4)][_0x215d89(0x132)]('animationCompleted'), this[_0x215d89(0x198)] = ![]; }, this['__init__'] = function () { var _0xe5171f = _0x1aa39b; this[_0xe5171f(0x1ba)] = document[_0xe5171f(0x1c1)](_0xe5171f(0x134)), this[_0xe5171f(0x1bb)] = document[_0xe5171f(0x1c1)](_0xe5171f(0x1fe)), this[_0xe5171f(0x1fc)] = document[_0xe5171f(0x1c1)](_0xe5171f(0x1b6)); }, this[_0x1aa39b(0x113)](); }; var Notifications = function () { var _0x46d598 = _0x1ddb; this[_0x46d598(0x238)] = _0x33f4cd => { var _0x348967 = _0x46d598; _0x33f4cd[_0x348967(0x163)][_0x348967(0xb0)](); }, this[_0x46d598(0xa2)] = (_0x843853, _0x2702c4, _0x388f51) => { var _0x48fae6 = _0x46d598, _0x5caf1e = document[_0x48fae6(0x1b3)](_0x48fae6(0xa6)); _0x5caf1e[_0x48fae6(0x18e)](_0x48fae6(0x19d), this[_0x48fae6(0x238)]), _0x5caf1e['setAttribute'](_0x48fae6(0xd5), _0x48fae6(0x186)), _0x5caf1e[_0x48fae6(0xb2)] = _0x48fae6(0x196) + _0x843853 + _0x48fae6(0x1ee) + _0x2702c4 + _0x48fae6(0x1ad) + _0x388f51 + _0x48fae6(0x20c), this[_0x48fae6(0x173)][_0x48fae6(0x229)](_0x5caf1e); }, this[_0x46d598(0x113)] = function () { var _0xe25e19 = _0x46d598; this[_0xe25e19(0x173)] = document['querySelector'](_0xe25e19(0x183)); }, this[_0x46d598(0x113)](); }, DataLoader = function (_0x529f54) { var _0x416bbc = _0x1ddb; this[_0x416bbc(0x242)] = _0x529f54, this[_0x416bbc(0x1ba)] = new ProgressBar(), this[_0x416bbc(0x144)] = new Profile(), this[_0x416bbc(0x10e)] = new Services(), this[_0x416bbc(0x179)] = new Protfolio(this['progressBar']), this[_0x416bbc(0x104)] = new MainMenu(), this[_0x416bbc(0x7d)] = new ThemeManager(), this[_0x416bbc(0x9b)] = new FloatingMenu(this['themeManager']), this[_0x416bbc(0x207)] = new AboutMe(), this['skills'] = new Skills(), this[_0x416bbc(0xac)] = new Experiences(), this[_0x416bbc(0x175)] = new MessageToUser(), this['footer'] = new Footer(), this[_0x416bbc(0x1c7)] = new Notifications(), this['onCopy'] = _0x26d6fd => { var _0x387e01 = _0x416bbc, _0x6e7078 = _0x26d6fd[_0x387e01(0x163)][_0x387e01(0x73)](_0x387e01(0x151)), _0x1836ad = _0x26d6fd[_0x387e01(0x163)][_0x387e01(0x73)](_0x387e01(0x188)), _0x2ea201 = _0x26d6fd['currentTarget'][_0x387e01(0x73)](_0x387e01(0x1e4)); navigator['clipboard'][_0x387e01(0x185)](_0x2ea201), this[_0x387e01(0x1c7)][_0x387e01(0xa2)](_0x6e7078, _0x1836ad, _0x2ea201); }, this['loadData'] = function () { var _0x5715c3 = _0x416bbc; fetch(this[_0x5715c3(0x242)])[_0x5715c3(0xd7)](_0x447441 => _0x447441[_0x5715c3(0x14d)]())[_0x5715c3(0xd7)](_0x49215e => { var _0x2eb4b4 = _0x5715c3; this[_0x2eb4b4(0x7d)][_0x2eb4b4(0xb1)](_0x49215e), this['mainMenu'][_0x2eb4b4(0xb1)](_0x49215e[_0x2eb4b4(0x104)]), this[_0x2eb4b4(0x144)][_0x2eb4b4(0xb1)](_0x49215e['author-info']), this[_0x2eb4b4(0x207)][_0x2eb4b4(0xb1)](_0x49215e['aboutMe']), this[_0x2eb4b4(0x10e)][_0x2eb4b4(0xb1)](_0x49215e[_0x2eb4b4(0x10e)]), this['protfolio']['load'](_0x49215e['protfolio']), this[_0x2eb4b4(0x77)]['load'](_0x49215e[_0x2eb4b4(0x77)]), this['experiences']['load'](_0x49215e[_0x2eb4b4(0xac)]), this['messageToUser'][_0x2eb4b4(0xb1)](_0x49215e[_0x2eb4b4(0x175)]), this[_0x2eb4b4(0x20e)][_0x2eb4b4(0xb1)](_0x49215e['footer']), this[_0x2eb4b4(0x9b)][_0x2eb4b4(0xb1)](_0x49215e[_0x2eb4b4(0x148)]), this[_0x2eb4b4(0x9b)][_0x2eb4b4(0x227)](this[_0x2eb4b4(0x144)]), this[_0x2eb4b4(0x9b)][_0x2eb4b4(0x227)](this[_0x2eb4b4(0x20e)]), this[_0x2eb4b4(0x9b)]['reloadOnThemeChnage'](this[_0x2eb4b4(0x104)]); var _0x40f904 = document[_0x2eb4b4(0x1fb)](_0x2eb4b4(0x1d0)); for (var _0x772cc0 = 0x0; _0x772cc0 < _0x40f904[_0x2eb4b4(0x1a0)]; _0x772cc0++) { var _0x439562 = _0x40f904[_0x772cc0]; _0x439562[_0x2eb4b4(0x18e)](_0x2eb4b4(0xbd), this['onCopy']); } }); }; }, data_loader = null; setTimeout(() => { var _0x1a8528 = _0x1ddb; data_loader = new DataLoader(_0x1a8528(0xcd)), data_loader[_0x1a8528(0x21c)](); }, 0x0);
+//Creating a Profile Component.
+var Profile = function () {
+    this.profile = null;
+
+    this.getActiveTheme = function () {
+        // here fetching information about active theme.
+        var root = document.querySelector(':root');
+        var active_theme = root.style.getPropertyValue("--active-theme");
+        return active_theme;
+    }
+
+    this.sendEmail = () => {
+        window.location.href = `mailto:${this.profile.sayHiEmail}?subject=${this.profile.subject}&body=${this.profile.message}`;
+    }
+
+    this.reload = () => {
+        // here reloading the author image based on theme actived.
+        author_image = document.querySelector("#author-image");
+        active_theme = this.getActiveTheme();
+        author_image.setAttribute("src", this.profile.profile_images[active_theme]);
+    }
+
+    this.load = function (profile) {
+        // here fetching the active theme.
+        active_theme = this.getActiveTheme();
+
+        // here profile jason data will get stored for further uses.
+        this.profile = profile;
+
+        // fetching component from webpage.
+        author_name = document.querySelector(".author-name");
+        designation = document.querySelector(".designation");
+        description = document.querySelector("#about-author");
+        author_image = document.querySelector("#author-image");
+        social_links = document.querySelector("#social");
+
+        // Here setting up inner text of above component.
+        authorName = ""
+        for (index in profile.name) {
+            if (profile.name[index] === " ") {
+                authorName += " "
+            }
+            else {
+                authorName += `<span>${profile.name[index]}</span>`;
+            }
+        }
+        author_name.innerHTML = authorName;
+
+
+        designation.innerText = profile.designation;
+        description.innerText = profile.description;
+        author_image.setAttribute("src", profile.profile_images[active_theme]);
+
+        social_media = profile.social_media;
+        social_media.forEach(element => {
+            var herf = document.createElement("a");
+            herf.setAttribute("href", element.link);
+            herf.setAttribute("target", element.target);
+            herf.innerHTML = `<i class="${element.icon}">`
+            social_links.append(herf);
+        });
+    }
+
+    this.__init__ = function () {
+        this.letsTalkButton = document.querySelector(".lets-talk-button");
+
+        // Here connecting buttons.
+        // this.letsTalkButton.addEventListener("click", this.sendEmail);
+    }
+
+    this.__init__();
+
+}
+
+// Creating an percentage based carousel semulator.
+var PercentageCarosuleSimulator = function (container, containerHeight) {
+    this.container = container;
+    this.containerHeight = containerHeight;
+    // this.previousButton = previousButton;
+    // this.nextButton = nextButton;
+
+    // slide position.
+    this.sliderPosition = 0;
+
+    this.removePerFromNumbers = function (str) {
+        return str.slice(0, str.length - 1);
+    }
+
+    this.onNextPressed = () => {
+        // let firstSlidePosition = parseInt(this.removePerFromNumbers(this.container.children[0].style.transform.split(",")[0].slice(10, 15)));
+        let lastSlidePosition = parseInt(this.container.children[this.container.children.length - 1].style.transform.split("(")[1].split("%")[0]);
+
+        if (lastSlidePosition > 0) {
+
+            this.sliderPosition -= 1;
+            tempIndex = this.sliderPosition;
+
+            for (var index of Array(this.container.children.length).keys()) {
+
+                var element = this.container.children[index];
+
+                element.style.position = "absolute";
+                element.style.top = "50%";
+
+                element.style.transform = `translate(${tempIndex * 100}%, -50%)`;
+
+                tempIndex += 1;
+
+            }
+
+        }
+    }
+
+    this.onPreviousPressed = () => {
+        let firstSlidePosition = parseInt(this.removePerFromNumbers(this.container.children[0].style.transform.split(",")[0].slice(10, 15)));
+
+        if (firstSlidePosition < 0) {
+
+            this.sliderPosition += 1;
+            tempIndex = this.sliderPosition;
+
+            for (var index of Array(this.container.children.length).keys()) {
+
+                var element = this.container.children[index];
+
+                element.style.position = "absolute";
+                element.style.top = "50%";
+
+                element.style.transform = `translate(${tempIndex * 100}%, -50%)`;
+
+                tempIndex += 1;
+
+            }
+
+        }
+    }
+
+    this.__init__ = function () {
+
+        // here setting up relative postion on container.
+        this.container.style.position = "relative";
+
+        // here setting up absolute position on all children so that i can move.
+        this.sliderPosition = 0;
+        tempIndex = this.sliderPosition;
+
+        for (var index of Array(this.container.children.length).keys()) {
+
+            var element = this.container.children[index];
+
+            element.style.position = "absolute";
+            element.style.top = "50%";
+
+            element.style.transform = `translate(${tempIndex * 100}%, -50%)`;
+
+            tempIndex += 1;
+
+        }
+    }
+
+    this.__init__();
+}
+
+// Creating an carousel semulator.
+var CarosuleSimulator = function (container, gap, vertically_center = true, top_bottom_gap = 0, previousButton = null, nextButton = null, front_space = 0, back_space = 0) {
+    this.top_bottom_gap = top_bottom_gap;
+    this.slides = [];
+    this.translateY = 0;
+    this.container = container;
+    this.vertically_center = vertically_center;
+    this.gap = gap;
+
+    this.sliders_width = 0;
+
+    this.nextButton = nextButton;
+    this.previousButton = previousButton;
+    this.front_space = front_space;
+    this.back_space = back_space;
+
+    this.isSliding = false;
+    this.screenX = null;
+    this.screenY = null;
+
+    // these varibale will manage the state of live maping with parent container.
+    this.parentContainer = null;
+    this.parentContainerMapping = false;
+
+    this.setUpperContainerMapping = function (parentContainer, active = true) {
+        this.parentContainer = parentContainer;
+        this.parentContainerMapping = active;
+
+    }
+
+    this.onMouseMove = (event) => {
+        try {
+            if (event.sourceCapabilities.firesTouchEvents) {
+                this.screenX = event.touches[0].screenX;
+                this.screenY = event.touches[0].screenY;
+            }
+            else {
+                this.screenX = event.screenX;
+                this.screenY = event.screenY;
+            }
+        } catch (e) {
+            this.onSlideScrollDeactive();
+        }
+    }
+
+    this.removePxFromNumbers = function (str) {
+        return str.slice(0, str.length - 2);
+    }
+
+    this.onSlideScrollActive = (event) => {
+        this.isSliding = true;
+        this.onSlide(event);
+
+    }
+
+    this.onSlideScrollDeactive = () => {
+        this.isSliding = false;
+        this.screenX = null;
+        this.screenY = null;
+    }
+
+    this.onSlide = (event) => {
+        var coordinates = [];
+
+        try {
+
+            if (event.sourceCapabilities.firesTouchEvents)
+                var active_position_x = event.touches[0].screenX;
+            else
+                var active_position_x = event.screenX;
+
+        } catch (e) {
+            return;
+        }
+
+        // here adding a overlay layer to stop hover effact.
+        var overlay = document.createElement("div");
+        overlay.setAttribute("style", "width: 100%; height: 100%; background-color: #ffffff00; position: absolute;");
+        this.container.append(overlay);
+
+
+        for (index in this.slides) {
+            coordinates.push(this.slides[index].translateX);
+            this.slides[index].element.style.transition = "none";
+        }
+
+        var previous_slide_value = 0;
+        var slidingDirection = null;
+
+        // Here getting container width to stop over slide element.
+        var container_width = this.getContainerWidth();
+
+        const slide_interval = setInterval(() => {
+
+            if (this.screenX != null && this.screenY != null) {
+
+                var slide_value = active_position_x - this.screenX;
+
+                if (slide_value !== previous_slide_value) {
+
+                    if (slide_value > 0) {
+
+                        // Sliding Left Side.
+                        if (!((coordinates[coordinates.length - 1] + this.slides[this.slides.length - 1].width + this.back_space) - slide_value < container_width)) {
+                            for (index in this.slides) {
+                                this.slides[index].translateX = coordinates[index] - slide_value;
+                                this.slides[index].element.style.transform = `translate(${this.slides[index].translateX}px, ${this.translateY}%)`;
+                            }
+
+                            slidingDirection = "left";
+                        }
+                    }
+                    else if (slide_value < 0) {
+
+                        // Sliding right side.
+                        slide_value = slide_value * -1;
+
+                        if (!(coordinates[0] + slide_value > 0 + this.front_space)) {
+                            for (index in this.slides) {
+                                this.slides[index].translateX = coordinates[index] + slide_value;
+                                this.slides[index].element.style.transform = `translate(${this.slides[index].translateX}px, ${this.translateY}%)`;
+                            }
+
+                            slidingDirection = "right";
+                        }
+
+                    }
+                }
+
+
+            }
+
+            if (!this.isSliding) {
+
+                for (index in this.slides) {
+                    this.slides[index].element.style.transition = null;
+                }
+
+                this.container.removeChild(overlay);
+                clearInterval(slide_interval);
+
+                if (slidingDirection !== null) {
+                    if (slidingDirection === "left") {
+                        this.onPreviousPressed();
+                    }
+                    else {
+                        this.onNextPressed();
+                    }
+                }
+            }
+
+        }, 1);
+    }
+
+    this.onNextPressed = () => {
+        var first_slide = null;
+        var container_width = this.getContainerWidth();
+
+        for (var index of Array(this.slides.length).keys()) {
+            element = this.slides[this.slides.length - index - 1];
+            if (element.translateX < 0) {
+                first_slide = element;
+                break;
+            }
+        }
+
+        if (first_slide !== null) {
+
+            if (parseInt(first_slide.width + (first_slide.width / 2)) > container_width) {
+                var gap = (0 + parseInt((container_width - first_slide.width) / 2)) - element.translateX;
+            }
+            else {
+                var gap = (0 + this.front_space) - first_slide.translateX;
+            }
+
+            for (var index of Array(this.slides.length).keys()) {
+                element = this.slides[index];
+                element.translateX += gap;
+                element.element.style.transform = `translate(${element.translateX}px, ${this.translateY}%)`;
+            }
+
+        }
+
+        this.onContainerResize();
+    }
+
+    this.onPreviousPressed = () => {
+        var last_slide = null;
+        var container_width = this.getContainerWidth();
+
+        for (var index of Array(this.slides.length).keys()) {
+            element = this.slides[index];
+            if (element.translateX + element.width + this.back_space > container_width) {
+                last_slide = element;
+                break;
+            }
+        }
+
+        if (last_slide !== null) {
+
+            if (parseInt(last_slide.width + (last_slide.width / 2)) > container_width) {
+                var gap = element.translateX - parseInt((container_width - last_slide.width) / 2);
+            }
+            else {
+                var gap = (last_slide.translateX + last_slide.width + this.back_space) - container_width;
+            }
+
+            for (var index of Array(this.slides.length).keys()) {
+                element = this.slides[index];
+                element.translateX -= gap;
+                element.element.style.transform = `translate(${element.translateX}px, ${this.translateY}%)`;
+            }
+        }
+    }
+
+    this.getContainerWidth = () => {
+        var container_width = window.getComputedStyle(this.container).width;
+        container_width = parseInt(this.removePxFromNumbers(container_width));
+        return container_width;
+    }
+
+    this.getContainerHeight = () => {
+        var container_height = window.getComputedStyle(this.container).height;
+        container_height = parseInt(this.removePxFromNumbers(container_height));
+        return container_height;
+    }
+
+    this.onContainerResize = () => {
+
+        // Here writing this code to map child container with parent. and this code will get executed when parent container mapping is active.
+        if (this.parentContainerMapping) {
+            var parentContainerWidth = window.getComputedStyle(this.parentContainer).width;
+            parentContainerWidth = parseInt(this.removePxFromNumbers(parentContainerWidth));
+
+            if (parentContainerWidth > this.sliders_width) {
+                this.container.style.width = `${this.sliders_width}px`;
+            }
+            else {
+                this.container.style.width = null;
+            }
+
+        }
+
+        if (this.slides.length > 0) {
+
+            var container_width = this.getContainerWidth();
+            var starting_slide = this.slides[0];
+            var last_slide = this.slides[this.slides.length - 1];
+
+            if (this.nextButton !== null && this.previousButton !== null) {
+
+                if (last_slide.translateX + last_slide.width <= container_width && starting_slide.translateX >= 0) {
+                    this.nextButton.style.display = "none";
+                    this.previousButton.style.display = "none";
+                }
+                else {
+                    this.nextButton.style.display = "flex";
+                    this.previousButton.style.display = "flex";
+                }
+            }
+        }
+    }
+
+    this.__init__ = function () {
+        // here adding elevent listner on buttons.
+        if (this.nextButton !== null) {
+            this.nextButton.addEventListener("click", this.onNextPressed);
+        }
+
+        if (this.previousButton !== null) {
+            this.previousButton.addEventListener("click", this.onPreviousPressed);
+        }
+
+        window.addEventListener("resize", this.onContainerResize);
+        this.container.addEventListener("mousedown", this.onSlideScrollActive);
+        this.container.addEventListener("mouseup", this.onSlideScrollDeactive);
+
+        this.container.addEventListener("touchstart", this.onSlideScrollActive);
+        this.container.addEventListener("touchend", this.onSlideScrollDeactive);
+
+        this.container.addEventListener("mouseleave", this.onSlideScrollDeactive);
+
+        window.addEventListener("mousemove", this.onMouseMove);
+        window.addEventListener("touchmove", this.onMouseMove);
+
+        // here setting up relative postion on container.
+        this.container.style.position = "relative";
+
+        // here setting up the translate Y property, if vertically_center is true then it move toword center.
+        if (this.vertically_center) {
+            this.translateY = -50;
+        }
+
+        // here setting up absolute position on all children so that i can move.
+        this.slide_max_height = 0;
+
+        for (var index of Array(this.container.children.length).keys()) {
+
+            var element = this.container.children[index];
+
+            element.style.position = "absolute";
+            if (this.vertically_center) {
+                element.style.top = "50%";
+            }
+
+            var height = parseInt(this.removePxFromNumbers(window.getComputedStyle(element).height));
+            if (height > this.slide_max_height) {
+                this.slide_max_height = height
+            }
+
+
+            if (this.slides.length === 0) {
+
+                var width = parseInt(this.removePxFromNumbers(window.getComputedStyle(element).width));
+                var element_obj = { element: element, width: width, translateX: this.front_space };
+
+                element.style.transform = `translate(${element_obj.translateX}px, ${this.translateY}%)`;
+                this.slides.push(element_obj);
+
+                this.sliders_width += width;
+
+            }
+            else {
+
+                var width = parseInt(this.removePxFromNumbers(window.getComputedStyle(element).width));
+                var element_obj = {
+                    element: element, width: width,
+                    translateX: this.slides[this.slides.length - 1].translateX + this.slides[this.slides.length - 1].width + this.gap
+                };
+
+                element.style.transform = `translate(${element_obj.translateX}px, ${this.translateY}%)`;
+                this.slides.push(element_obj);
+
+                this.sliders_width += width + this.gap;
+
+            }
+
+        }
+
+        this.onContainerResize();
+
+        this.container.style.minHeight = `${this.slide_max_height + this.top_bottom_gap}px`;
+
+        var container_width = window.getComputedStyle(this.container).width;
+        container_width = parseInt(this.removePxFromNumbers(container_width));
+
+        if (container_width > this.sliders_width) {
+            if (this.nextButton !== null && this.previousButton !== null) {
+
+                this.nextButton.style.display = "none";
+                this.previousButton.style.display = "none";
+            }
+        }
+    }
+}
+
+//Creting a Component for Services.
+var Services = function () {
+    this.services_jason = null;
+    this.services_container = document.querySelector(".services-carousel");
+
+    this.carosuleSimulator = new CarosuleSimulator(this.services_container, 50, true, 80,
+        document.querySelector("#services-button-left"), document.querySelector("#services-button-right"),
+        35, 35);
+
+    this.load = function (services_jason) {
+        this.services_jason = services_jason;
+
+        this.services_jason.forEach((element) => {
+            var inner_html = `
+            <div class="card-icon">
+                <i class="${element.icon}"></i>
+            </div>
+            <h3 class="card-heading">${element.name}</h3>
+            <p class="card-description">${element.description}</p>`
+
+            var element = document.createElement("div");
+            element.setAttribute("class", "card button");
+            element.innerHTML = inner_html;
+
+            this.services_container.append(element);
+
+        })
+
+        this.carosuleSimulator.__init__();
+
+    }
+}
+
+// Here creating aboutMe section component.
+let AboutMe = function () {
+    this.jasonData = null;
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        // here setting up description.
+        this.description.innerText = jasonData.description;
+
+        // here adding all the tags.
+        for (var jasonTag of jasonData.tags) {
+            var tag = document.createElement("p");
+            tag.classList.add("button");
+            tag.innerHTML = jasonTag;
+            this.tags.append(tag);
+        }
+
+        // here adding all the cards.
+        for (var jasonCard of jasonData.cards) {
+            var card = document.createElement("div");
+            card.classList.add("card");
+            card.classList.add("button");
+
+            card.innerHTML = `
+            <div class="card-icon">
+                <i class="${jasonCard.icon}"></i>
+            </div>
+            <h3 class="card-heading">${jasonCard.name}</h3>
+            <p class="card-description">${jasonCard.description}</p>
+            `;
+
+            this.cards.append(card);
+        }
+    }
+
+    this.getElement = function (query) {
+        return document.querySelector(query);
+    }
+
+    this.__init__ = function () {
+        this.description = this.getElement(".about-me-description");
+        this.tags = this.getElement(".about-me-tags");
+        this.cards = this.getElement(".about-me-cards");
+    }
+
+    this.__init__();
+}
+
+
+// Here creating Page element it will be a Stack Widget Page that will represent each page of StackWidget.
+var StackWidgetPage = function (visible_element_count = 9) {
+
+    // this variable will represnt that how many elements will be visible on the page. and for the remaining element next button will be prepared for navigate on.
+    this.visible_element_count = visible_element_count;
+    this.elements = [];
+    this.navigatorButtons = [];
+    this.nextButton = null;
+    this.isNavigatorButtonVisible = false;
+    this.currentPage = 0;
+
+    this.__init__ = function () {
+
+        this.page = document.createElement("div");
+        this.page.setAttribute("class", "stack-widget-page");
+        this.page.innerHTML = `
+        <div id="contentHolder" class="stack-widget-content-page">
+            
+        </div>
+
+        <div id="contentNavigators" class="stack-widget-content-navigators">
+
+        </div>`;
+
+        this.contentHolder = this.page.querySelector("#contentHolder");
+        this.contentNavigators = this.page.querySelector("#contentNavigators");
+
+        // here setting up content Navigator hidden initialy.
+        this.contentNavigators.style.visibility = "hidden";
+
+        // Here adding next button in navigators.
+        this.nextButton = document.createElement("div");
+        this.nextButton.innerText = "Next";
+        this.nextButton.setAttribute("class", "button stack-widget-content-navigator");
+        this.nextButton.setAttribute("index", "next");
+
+        this.nextButton.addEventListener("click", this.navigateContent);
+        this.contentNavigators.append(this.nextButton);
+
+    }
+
+    this.addNavigatorButton = function (buttonText, index) {
+        //<div class="button stack-widget-content-navigator">1</div>
+
+        var button = document.createElement("div");
+        button.innerText = buttonText;
+        button.setAttribute("class", "button stack-widget-content-navigator");
+        button.setAttribute("index", `${index}`);
+
+        button.addEventListener("click", this.navigateContent);
+
+        this.contentNavigators.insertBefore(button, this.nextButton);
+        this.navigatorButtons.push(button);
+        return button;
+    }
+
+    this.getRangeOfCurrentPage = (customCurrentPage = null) => {
+        if (customCurrentPage !== null) {
+            return {
+                start: this.visible_element_count * customCurrentPage,
+                end: (this.visible_element_count * customCurrentPage) + this.visible_element_count - 1
+            };
+        }
+        else {
+            return {
+                start: this.visible_element_count * this.currentPage,
+                end: (this.visible_element_count * this.currentPage) + this.visible_element_count - 1
+            };
+        }
+    }
+
+    this.reManageNavigatorButton = () => {
+
+    }
+
+    this.addElement = function (element) {
+        this.elements.push(element);
+        var index = this.elements.indexOf(element);
+        var currentRage = this.getRangeOfCurrentPage();
+        if (index >= currentRage.start && index <= currentRage.end) {
+            this.contentHolder.append(element);
+        }
+
+        // here adding buttons.
+        var lastButton = 0;
+        if (this.elements.length % this.visible_element_count > 0)
+            lastButton += 1;
+        lastButton += parseInt(this.elements.length / this.visible_element_count);
+
+        if (lastButton > this.navigatorButtons.length) {
+            this.addNavigatorButton(`${lastButton}`, `${lastButton - 1}`);
+
+            if (this.navigatorButtons.length >= 2 && (!this.isNavigatorButtonVisible)) {
+                this.contentNavigators.style.visibility = "visible";
+                this.isNavigatorButtonVisible = true;
+                this.navigatorButtons[this.currentPage].classList.add("stack-widget-navigator-active");
+            }
+        }
+
+    }
+
+    this.navigateContent = (event) => {
+        newPageIndex = event.currentTarget.getAttribute("index");
+        if (newPageIndex === "next") {
+            newPageIndex = this.currentPage + 1;
+        }
+        else {
+            newPageIndex = parseInt(newPageIndex);
+        }
+        newRange = this.getRangeOfCurrentPage(newPageIndex);
+
+        if (newRange.start >= 0 && newRange.start < this.elements.length) {
+
+            this.contentHolder.innerHTML = "";
+            this.navigatorButtons[this.currentPage].classList.remove("stack-widget-navigator-active");
+            this.currentPage = newPageIndex;
+            this.navigatorButtons[this.currentPage].classList.add("stack-widget-navigator-active");
+
+            index = newRange.start;
+            while (index <= newRange.end && index < this.elements.length) {
+                this.contentHolder.append(this.elements[index]);
+                index += 1;
+            }
+        }
+    }
+
+    this.__init__();
+
+}
+
+
+// Here Creating a Stack Widget that will help to switch between diffrent pages.
+var StackWidget = function (container) {
+    this.container = container;
+
+    // exactly not a constructor function but it will act like a constructor function.
+    this.__init__ = function () {
+
+        // this list will store all the pages.
+        this.pages = [];
+
+        // this variable will the current active page.
+        this.currentPage = null;
+
+    }
+
+    this.getPage = (index) => {
+        if (index >= 0 && index < this.pages.length) {
+            return this.page[index];
+        }
+    }
+
+    this.switchToPage = (event) => {
+        // here hiding the current active page.
+        this.currentPage.page.style.display = "none";
+
+        // here make the new active page visiable.
+        var newActivePageIndex = parseInt(event.currentTarget.getAttribute("index"));
+        this.currentPage = this.pages[newActivePageIndex];
+        this.currentPage.page.style.display = "initial";
+    }
+
+    this.addPage = (page, buttonToSwitch) => {
+        this.pages.push(page);
+        this.container.append(page.page);
+        buttonToSwitch.setAttribute("index", `${this.pages.indexOf(page)}`);
+        buttonToSwitch.addEventListener("click", this.switchToPage);
+
+        if (this.currentPage === null) {
+            this.currentPage = page;
+        }
+        else {
+            page.page.style.display = "none";
+        }
+
+    }
+
+    this.__init__();
+}
+
+
+// Here Creating Card For Projects.
+var ProjectCard = function (jasonData, readMoreCallBack = null, options = null, playVideoCallBack = null, imageViewCallBack = null) {
+    this.jasonData = jasonData;
+    this.options = options;
+    this.readMoreCallBack = readMoreCallBack;
+    this.playVideoCallBack = playVideoCallBack;
+    this.imageViewCallBack = imageViewCallBack;
+    this.callBackFunctionData = null;
+
+    this.readMore = () => {
+        if (this.readMoreCallBack !== null && this.jasonData.readMore !== null) {
+            this.readMoreCallBack(this.jasonData.readMore);
+        }
+    }
+
+    this.viewImages = () => {
+        if (this.imageViewCallBack === null) {
+            console.log("Didn't recived any call function to show image.");
+            return;
+        }
+        this.imageViewCallBack(this.jasonData.showUp);
+    }
+
+    this.playVideo = () => {
+        if (this.playVideoCallBack === null) {
+            console.log("Didn't recived any call function to play video.");
+            return;
+        }
+        this.playVideoCallBack(this.jasonData.showUp);
+    }
+
+    this.rebuildYoutubeUrl = (urk) => {
+
+    }
+
+    // this function will help initlize the object.
+    this.__init__ = function () {
+        this.card = document.createElement("div");
+
+        if (this.options !== null && this.options.activeCardHoverEffect) {
+            this.card.setAttribute("class", "projectCard projectCardSlideEffact");
+        }
+        else {
+            this.card.setAttribute("class", "projectCard");
+        }
+
+        if (this.jasonData.github === "#" || this.jasonData.github === "") {
+            var githubLinkState = "disableLink";
+            var githubUrl = "";
+        }
+        else {
+            var githubLinkState = "";
+            var githubUrl = target = `target="_blank" href = "${this.jasonData.github}"`;
+        }
+
+        this.card.innerHTML = `
+        <div class="projectCardHead">
+                
+            <img class="projectCardLogo" src="${this.jasonData.icon}" alt="">
+            
+            <div class="heading">
+                <h3>${this.jasonData.name}</h3>
+                <p>${this.jasonData.dateTime}</p>
+            </div>
+
+        </div>
+
+        <div class="proejctCardBody">
+
+            <p class="shortDescription">${this.jasonData.description}</p>
+
+            <div class="projectThumbnail">
+
+                <img class="projectThumbnailImage" src="${this.jasonData.thumbnailImage}" alt="">
+
+                <div class="projectThumbnailType">
+                    
+                
+                </div>
+
+                <div class="videoPlayButton button"><i class="fa-sharp fa-solid fa-play"></i></div>
+
+            </div>
+
+        </div>
+
+        <div class="projectCardFooter">
+            <a ${githubUrl} class="projectTech ${githubLinkState}"><i class="fa-brands fa-github"></i> GitHub</a>
+            <a class="projectCardReadMoreButton">Read More</a>
+        </div>`
+
+        // Here Connecting Read More Button.
+        this.readMoreButton = this.card.querySelector(".projectCardReadMoreButton");
+
+        if (this.jasonData.readMore !== null) {
+
+            if (this.jasonData.isReadMoreLink) {
+                this.readMoreButton.setAttribute("href", `${this.jasonData.readMore}`);
+                this.readMoreButton.setAttribute("target", "_blank");
+            }
+            else {
+                this.readMoreButton.addEventListener("click", this.readMore);
+            }
+
+        }
+        else {
+
+            // Here if there is no value inside the read more we will disable the readmore button.
+            this.readMoreButton.style.visibility = "hidden";
+
+        }
+
+        // Here fecting the video button from web element.
+        this.videoPlayButton = this.card.querySelector(".videoPlayButton");
+        this.videoPlayButton.addEventListener("click", this.playVideo)
+
+        // Here changing the the d=media type icon based on source.
+        var projectThumbnailType = this.card.querySelector(".projectThumbnailType");
+
+        if (this.jasonData.showUpType === "images" || this.jasonData.showUpType === "image") {
+            projectThumbnailType.innerHTML = `<div class="image"><i class="fa-regular fa-image"></i></div>`;
+            this.videoPlayButton.style.display = "none";
+
+            var projectThumbnailContainer = this.card.querySelector(".projectThumbnail");
+            projectThumbnailContainer.addEventListener("click", this.viewImages);
+            projectThumbnailContainer.style.cursor = "zoom-in";
+        }
+        else if (this.jasonData.showUpType === "video" || this.jasonData.showUpType === "youtube-url") {
+            projectThumbnailType.innerHTML = `<div class="video"><i class="fa-solid fa-circle-play"></i></div>`;
+        }
+
+    }
+
+    this.__init__();
+
+}
+
+
+// Here defining the object of ReadMoreViewer window.
+
+var ReadMoreViewer = function (progressBar, notification = null) {
+    this.jasonData = null;
+    this.progressBar = progressBar;
+    this.notification = notification;
+
+    this.onCopy = (event) => {
+
+        if (this.notification !== null) {
+            var title = event.currentTarget.getAttribute("title");
+            var msg = event.currentTarget.getAttribute("msg");
+            var value = event.currentTarget.getAttribute("value");
+            navigator.clipboard.writeText(value);
+
+            this.notification.push(title, msg, value);
+        }
+    }
+
+    this.shareVideo = (event) => {
+        const shareData = {
+            title: event.currentTarget.getAttribute("title"),
+            text: event.currentTarget.getAttribute("text"),
+            url: event.currentTarget.getAttribute("index"),
+        };
+        navigator.share(shareData)
+    }
+
+    this.show = (jasonData = null) => {
+        this.progressBar.start();
+        this.jasonData = jasonData;
+
+        // here loading data for some default elements.
+        this.pageIcon.setAttribute("src", this.jasonData.icon);
+        this.title.innerText = this.jasonData.title;
+        this.titleDescription.innerText = this.jasonData.titleLine;
+
+        // Here loading all the data related to tech being used in the project.
+        this.usedTechnology.innerHTML = "";
+
+        for (var tech of this.jasonData.usedTech) {
+            var element = document.createElement("div");
+            element.innerText = tech;
+            this.usedTechnology.append(element);
+        }
+
+        this.pxcarosuleSimulator = new CarosuleSimulator(this.usedTechnology, 10, true);
+        this.pxcarosuleSimulator.__init__();
+
+        // here loading all the feature images.
+        this.readMoreFeatureImageContainer.innerHTML = "";
+
+        for (var url of this.jasonData.images) {
+            var image = document.createElement("img");
+            image.setAttribute("src", url);
+            image.setAttribute("id", "readMoreFeatureImage");
+            this.readMoreFeatureImageContainer.append(image);
+        }
+
+        if (this.jasonData.images.length > 1) {
+            this.readMoreFeatureImageCarouselButton.style.display = null;
+            this.carosuleSimulator = new PercentageCarosuleSimulator(this.readMoreFeatureImageContainer, 450);
+        }
+
+        else {
+            // if there si one fetaure image the we will hide carsoule buttons.
+            this.readMoreFeatureImageCarouselButton.style.display = "none";
+            this.carosuleSimulator = null;
+        }
+
+        // Here setting up feature image title and decription.
+        this.readMoreImageTitle.innerText = this.jasonData.imageTitle;
+        this.readMoreImageDescription.innerText = this.jasonData.imageSortDescription;
+
+        // now let's render the main content of the page.
+        this.renderContent();
+
+        // here making read more window visiable.
+        this.window.classList.add("readMoreViewerActive");
+        this.progressBar.stop();
+    }
+
+    this.onNextPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onNextPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.onPreviousPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onPreviousPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.renderContent = () => {
+        // Before we render the new content in the page let's remove the old one.
+        this.readMoreContent.innerHTML = "";
+
+        for (var jasonElement of this.jasonData.content) {
+
+            if (jasonElement.type === "h1" || jasonElement.type === "h2" || jasonElement.type === "h3" || jasonElement.type === "h4" || jasonElement.type === "h5" || jasonElement.type === "p") {
+
+                var element = document.createElement(jasonElement.type);
+                this.readMoreContent.append(element);
+                element.innerHTML = jasonElement.html;
+
+            }
+            else if (jasonElement.type === "gap") {
+
+                var element = document.createElement("div");
+                element.classList.add("gap");
+                element.style.height = jasonElement.size;
+                this.readMoreContent.append(element);
+
+            }
+            else if (jasonElement.type === "tags") {
+                var tags = document.createElement("div");
+                tags.classList.add("readMoreTags");
+
+                for (var jasonTag of jasonElement.tags) {
+                    var tag = document.createElement("p");
+                    tag.classList.add("tag");
+                    tag.innerText = jasonTag;
+                    tags.append(tag);
+                }
+
+                this.readMoreContent.append(tags);
+            }
+            else if (jasonElement.type === "link") {
+
+                var link = document.createElement("a");
+                link.setAttribute("href", jasonElement.url);
+                link.setAttribute("target", "_blank");
+                link.innerText = jasonElement.text;
+                link.setAttribute("class", jasonElement.class);
+                this.readMoreContent.append(link);
+
+            }
+            else if (jasonElement.type === "copyLink") {
+
+                var link = document.createElement("p");
+                link.setAttribute("index", jasonElement.url);
+                link.innerText = jasonElement.text;
+                link.setAttribute("class", jasonElement.class);
+                link.addEventListener("click", this.onCopy);
+
+                // here adding all the attributes that will be used when user will try to copy the data.
+                for (key in jasonElement.copyData) {
+                    link.setAttribute(key, jasonElement.copyData[key]);
+                }
+
+                this.readMoreContent.append(link);
+
+            }
+            else if (jasonElement.type === "image") {
+
+                var element = document.createElement("div");
+                element.classList.add("image");
+                element.innerHTML = `
+                <img src="${jasonElement.url}" alt="">
+                <p>${jasonElement.description}</p>
+                `;
+                this.readMoreContent.append(element);
+
+            }
+            else if (jasonElement.type === "video") {
+
+                var element = document.createElement("div");
+                element.classList.add("readMoreVideo");
+                element.innerHTML = `
+                <div class="readMoreVideoShareButton button" index="${jasonElement.url}" title="${jasonElement.shareTitle}" text="${jasonElement.shareText}"><i class="fa-solid fa-share"></i></div>
+                <iframe width="100%" height="100%" src="${jasonElement.url}"
+                    title="Why Most People FAIL to Learn Programming" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen=""
+                "></iframe>
+                `;
+
+                // here atteaching call back with video share button.
+                var videoShareButton = element.querySelector(".readMoreVideoShareButton");
+                videoShareButton.addEventListener("click", this.shareVideo);
+
+                this.readMoreContent.append(element);
+
+            }
+            else if (jasonElement.type === "code") {
+
+                var element = document.createElement("div");
+                element.classList.add("codeSnippet");
+                element.innerHTML = `
+                <div class="text">${jasonElement.title}</div>
+                <div class="codeSnippetcontent">
+                    <pre>${jasonElement.code}</pre>
+                </div>
+                `;
+                this.readMoreContent.append(element);
+            }
+
+        }
+
+    }
+
+    this.sharePage = () => {
+        if (this.jasonData.sharingLink !== null) {
+
+            const shareData = {
+                title: this.jasonData.sharingLink.title,
+                text: this.jasonData.sharingLink.text,
+                url: this.jasonData.sharingLink.url,
+            };
+            navigator.share(shareData)
+
+        }
+    }
+
+    this.hide = () => {
+        this.window.classList.remove("readMoreViewerActive");
+    }
+
+    this.__init__ = function () {
+        // fetching all the element of ReadMoreViewer window.
+        this.window = document.querySelector(".readMoreViewer");
+        this.closeButton = document.querySelector(".readMoreViewerCloseButton");
+
+        // here fetching page elements.
+        this.pageCloseButton = document.querySelector("#readMoreCloseButton");
+        this.shareButton = document.querySelector("#readMoreShareButton");
+
+        this.pageIcon = document.querySelector("#readMoreIcon");
+        this.title = document.querySelector("#readMoreTitle");
+        this.titleDescription = document.querySelector("#readMoreTitleLine");
+
+        this.usedTechnology = document.querySelector("#readMoreUsedTechnology");
+
+        this.readMoreFeatureImageCarouselButton = document.querySelector("#readMoreFeatureImageCarouselButton");
+        this.readMoreFeatureImageCarouselLeft = document.querySelector("#readMoreFeatureImageCarouselLeft");
+        this.readMoreFeatureImageCarouselRight = document.querySelector("#readMoreFeatureImageCarouselRight");
+        this.readMoreFeatureImageContainer = document.querySelector("#readMoreFeatureImageContainer");
+        this.readMoreImageTitle = document.querySelector("#readMoreImageTitle");
+        this.readMoreImageDescription = document.querySelector("#readMoreImageDescription");
+
+        this.readMoreContent = document.querySelector("#readMoreContentArea");
+
+        // Here creating variable for carosule semiulator.
+        this.carosuleSimulator = null;
+
+        // Here attaching event listeners
+        this.closeButton.addEventListener("click", this.hide);
+        this.pageCloseButton.addEventListener("click", this.hide);
+        this.shareButton.addEventListener("click", this.sharePage);
+        this.readMoreFeatureImageCarouselLeft.addEventListener("click", this.onPreviousPressed);
+        this.readMoreFeatureImageCarouselButton.children[0].addEventListener("click", this.onPreviousPressed);
+        this.readMoreFeatureImageCarouselRight.addEventListener("click", this.onNextPressed);
+        this.readMoreFeatureImageCarouselButton.children[1].addEventListener("click", this.onNextPressed);
+    }
+
+    this.__init__();
+}
+
+// Here creating an component for playing video that will be overlayed on top of the page.
+var OverlayVideoPlayer = function (progressBar, maxPlayerWidth = 1280, maxPlayerHeight = 720, margin = 10) {
+    this.progressBar = progressBar;
+    this.maxPlayerWidth = maxPlayerWidth;
+    this.maxPlayerHeight = maxPlayerHeight;
+    this.aspectRationHeight = this.maxPlayerHeight / this.maxPlayerWidth;
+    this.aspectRationWidth = this.maxPlayerWidth / this.maxPlayerHeight;
+    this.margin = margin;
+
+    this.removePxFromNumbers = function (str) {
+        return parseInt(str.slice(0, str.length - 2));
+    }
+
+    this.onWindowResize = (event) => {
+        var windowWidth = event.currentTarget.innerWidth;
+        var windowHeight = event.currentTarget.innerHeight;
+
+        var videoConatinerWidth = this.removePxFromNumbers(this.videoPlayerConatiner.style.width);
+
+        if (windowWidth < this.maxPlayerWidth + (this.margin * 2) || windowHeight < this.maxPlayerHeight + (this.margin * 2)) {
+
+            var newPlayerWidth = windowWidth - (this.margin * 4);
+            var newPlayerHeight = newPlayerWidth * this.aspectRationHeight;
+
+            if ((newPlayerHeight + (this.margin * 2)) > windowHeight) {
+                newPlayerHeight = windowHeight - (this.margin * 2);
+                newPlayerWidth = newPlayerHeight * this.aspectRationWidth;
+            }
+
+            this.videoPlayerConatiner.style.width = `${newPlayerWidth}px`;
+            this.videoPlayerConatiner.style.height = `${newPlayerHeight}px`;
+
+        }
+        else if (videoConatinerWidth !== this.maxPlayerWidth) {
+            this.videoPlayerConatiner.style.width = `${this.maxPlayerWidth}px`;
+            this.videoPlayerConatiner.style.height = `${this.maxPlayerHeight}px`;
+        }
+    }
+
+    this.videoLoaded = () => {
+        // on video loaded stoping the progress bar.
+        this.progressBar.stop();
+
+        // here making the video play visible.
+        this.videoViewerOverlay.style.display = "flex";
+
+    }
+
+    this.playVideo = (url) => {
+        this.onWindowResize({ currentTarget: window });
+        this.videoPlayer.onload = this.videoLoaded;
+
+        // Here starting the progress bar.
+        this.progressBar.start();
+
+        // Here setting up the video url.
+        this.videoPlayer.setAttribute("src", url);
+    }
+
+    this.close = () => {
+        this.videoPlayer.onload = null;
+        this.videoPlayer.setAttribute("src", "");
+        this.videoViewerOverlay.style.display = "none";
+    }
+
+    this.__init__ = function () {
+        this.videoViewerOverlay = document.querySelector(".videoViewer");
+        this.closeButton = document.querySelector("#videoViewerCloseButton");
+        this.videoPlayerConatiner = document.querySelector("#videoViewerPlayerContainer");
+        this.videoPlayer = document.querySelector("#videoViewerPlayer");
+
+        window.addEventListener("resize", this.onWindowResize);
+        this.closeButton.addEventListener("click", this.close);
+    }
+
+    this.__init__();
+}
+
+
+// here Creating and Component of Overlay Image Viewer.
+var OverlayImageViewer = function (progressBar) {
+    this.progressBar = progressBar;
+    this.slides = [];
+    this.carosuleSimulator = null;
+    this.loadedImages = 0;
+    this.totalImages = 0;
+
+    this.createSlide = (image, text = null) => {
+
+        var slide = document.createElement("div");
+        // slide.style.width = `${window.innerWidth}px`;
+        // slide.style.height = `${window.innerHeight}px`;
+
+        slide.classList.add("slide");
+
+        if (text !== null) {
+            slide.innerHTML = `
+            <img src="${image}" alt="">
+            <div class="text">${text}</div>
+            `;
+        }
+        else {
+            slide.innerHTML = `
+            <img src="${image}" alt="">
+            `;
+        }
+
+        // Here Adding call back on image loaded.
+        var img = slide.querySelector("img");
+        img.addEventListener('load', this.onImageLoaded);
+
+        return slide;
+    }
+
+    this.onNextPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onNextPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.onPreviousPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onPreviousPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.removeAllSlides = () => {
+        this.imageViewerConatiner.innerHTML = "";
+        this.slides = [];
+    }
+
+    this.showNavigationButtons = () => {
+        this.navigationButtons.style.display = null;
+    }
+
+    this.hideNavigationButtons = () => {
+        this.navigationButtons.style.display = "none";
+    }
+
+    this.show = () => {
+        this.imageViewerOverlay.style.display = "initial";
+    }
+
+    this.close = () => {
+        this.imageViewerOverlay.style.display = "none";
+    }
+
+    this.onImageLoaded = () => {
+        this.loadedImages += 1;
+
+        if (this.loadedImages == this.totalImages) {
+            this.show();
+            this.progressBar.stop();
+        }
+    }
+
+    this.viewImages = (images) => {
+        // Here setting up value state management.
+        this.loadedImages = 0;
+
+        // here starting progress Bar.
+        this.progressBar.start();
+
+        // Here removing all the content added before.
+        this.removeAllSlides();
+
+        if (typeof (images) === 'string') {
+            this.totalImages = 1;
+
+            this.hideNavigationButtons();
+            this.carosuleSimulator = null;
+
+            var slide = this.createSlide(images);
+            this.slides.push(slide);
+            this.imageViewerConatiner.append(slide);
+
+        }
+        else {
+            this.totalImages = images.length;
+
+            for (var jasonSlide of images) {
+                var slide = this.createSlide(jasonSlide.image, jasonSlide.text);
+                this.slides.push(slide);
+                this.imageViewerConatiner.append(slide);
+            }
+
+            if (images.length === 1) {
+
+                this.hideNavigationButtons();
+            }
+            else if (images.length > 1) {
+                this.showNavigationButtons();
+                this.carosuleSimulator = new PercentageCarosuleSimulator(this.imageViewerConatiner, 265, this.navigationLeft, this.navigationRight);
+
+                this.carosuleSimulator.__init__();
+            }
+        }
+
+        // this.show();
+        // this.progressBar.stop();
+    }
+
+    this.__init__ = function () {
+        this.imageViewerOverlay = document.querySelector(".imageViewer");
+        this.closeButton = document.querySelector("#imageViewerCloseButton");
+        this.imageViewerConatiner = document.querySelector("#imageViewerSlidesContainer");
+
+        this.navigationButtons = document.querySelector(".imageViewerLeftRightButtons");
+        this.navigationLeft = document.querySelector("#imageViewerLeftButton");
+        this.navigationRight = document.querySelector("#imageViewerRightButton");
+        this.leftButtonContainer = document.querySelector(".leftButtonContainer");
+        this.rightButtonConatiner = document.querySelector(".rightButtonConatiner");
+
+        // here connecting buttons.
+        this.closeButton.addEventListener("click", this.close);
+        this.navigationRight.addEventListener("click", this.onNextPressed);
+        this.navigationLeft.addEventListener("click", this.onPreviousPressed);
+
+        this.rightButtonConatiner.addEventListener("click", this.onNextPressed);
+        this.leftButtonContainer.addEventListener("click", this.onPreviousPressed);
+    }
+
+    this.__init__();
+}
+
+// Here creating component for main menu.
+var MainMenu = function () {
+    this.jasonData = null;
+
+    this.getActiveTheme = () => {
+        var root = document.querySelector(':root');
+        return root.style.getPropertyValue("--active-theme");
+    }
+
+    this.showMobileMenu = () => {
+        this.mobileMenu.classList.add("mobile-menu-optins-active");
+    }
+
+    this.hideMobileMenu = () => {
+        this.mobileMenu.classList.remove("mobile-menu-optins-active");
+    }
+
+    this.reload = () => {
+
+        // Here reloadng the logo according to the theme.
+        this.logo.setAttribute("src", this.jasonData.logo[this.getActiveTheme()]);
+
+    }
+
+    this.load = (jasonData) => {
+        this.jasonData = jasonData;
+
+        // Here setting up menu logo and text.
+        this.logo.setAttribute("src", this.jasonData.logo[this.getActiveTheme()]);
+        this.logoText.innerText = this.jasonData.logoText;
+
+        // here setting up author name and footer message for mobile menu.
+        this.authorName.innerText = this.jasonData.authorName;
+        this.mobileMenuFooterMessage.innerText = this.jasonData.footerMesaage;
+
+        // here adding all the options in both mobileMenu and normal menu.
+        for (var jasonOption of this.jasonData.menuOptions) {
+            var link = document.createElement("a");
+
+            // here adding link in mobile menu.
+            link.setAttribute("href", jasonOption.link);
+            if (jasonOption.link !== "#") {
+                link.setAttribute("target", "_blank");
+            }
+            link.innerHTML = jasonOption.name;
+            this.mobileMenuOptions.append(link);
+
+            // here adding link in normal menu.
+            var link = document.createElement("a");
+            if (jasonOption.link !== "#") {
+                link.setAttribute("target", "_blank");
+            }
+            link.setAttribute("href", jasonOption.link);
+            link.innerHTML = jasonOption.name;
+            this.menuOptions.append(link);
+        }
+    }
+
+    this.__init__ = function () {
+        this.mobileMenuShowButton = document.querySelector(".mobile-menu-button");
+        this.mobileMenuHideButton = document.querySelector(".mobile-menu-optins-close-btn");
+
+        this.mobileMenu = document.querySelector("#mobileMenu");
+
+        this.logo = document.querySelector("#mainMenuLogo");
+        this.logoText = document.querySelector("#mainMenuLogoText");
+
+        this.mobileMenuOptions = document.querySelector("#mobileMenuOptions");
+        this.authorName = document.querySelector("#mainMenuAuthorName");
+        this.mobileMenuFooterMessage = document.querySelector("#mobileMenuBottomMesage");
+
+        this.menuOptions = document.querySelector("#mainMenuOptions");
+
+        // Here connecting button with function.
+        this.mobileMenuShowButton.addEventListener("click", this.showMobileMenu);
+        this.mobileMenuHideButton.addEventListener("click", this.hideMobileMenu);
+
+    }
+
+    this.__init__();
+
+}
+
+
+// Here creating A Component for Portfolio that will help to show all the projects.
+var Protfolio = function (progressBar, notification = null) {
+    this.progressBar = progressBar;
+    this.jasonData = null;
+    this.projectPageButtons = [];
+    this.activePageButton = null;
+    this.projectCards = [];
+    this.readMoreViewer = new ReadMoreViewer(this.progressBar, notification);
+    this.overlayVideoPlayer = new OverlayVideoPlayer(this.progressBar);
+    this.overlayImageViewer = new OverlayImageViewer(this.progressBar);
+
+    // in this __init__ function will initlize the object.
+    this.__init__ = function () {
+        this.heading = document.querySelector("#portfolioHeading");
+        this.description = document.querySelector("#portfolioDescription");
+
+        this.projectPageButtonsContainer = document.querySelector("#project-page-buttons");
+        this.stackWigetContainer = document.querySelector("#stackWidgetContainer");
+
+        // here created the object stack widget that will all the pages and will only page at a time.
+        this.stackWidget = new StackWidget(this.stackWigetContainer);
+
+    }
+
+    this.onPageChnage = (event) => {
+        if (this.activePageButton !== null) {
+            this.activePageButton.classList.remove("project-active-btn");
+        }
+
+        this.activePageButton = event.currentTarget;
+        event.currentTarget.classList.add("project-active-btn");
+    }
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        var heading_words = this.jasonData.heading.split(" ");
+        var headingText = ""
+        for (word of heading_words.slice(0, heading_words.length - 1)) {
+            headingText += `${word} `;
+        }
+        if (heading_words.length > 1) {
+            headingText += `<span class="primary">${heading_words[heading_words.length - 1]}</span>`;
+        }
+
+        this.heading.innerHTML = headingText;
+        this.description.innerText = this.jasonData.description;
+
+        this.jasonData.projects.forEach((page) => {
+
+            // Here creating the page navigator button.
+            var button = document.createElement("div");
+            if (this.projectPageButtons.length === 0) {
+                button.setAttribute("class", "button project-btn project-active-btn");
+                this.activePageButton = button;
+            }
+            else {
+                button.setAttribute("class", "button project-btn");
+            }
+
+            button.innerText = `${page.name}`;
+            button.addEventListener("click", this.onPageChnage);
+            this.projectPageButtonsContainer.append(button);
+            this.projectPageButtons.push(button);
+
+            // Here Creating Page and this page will be added to stackWidget.
+            var stack_widget_page = new StackWidgetPage(6);
+
+            page.projects.forEach((projectJason) => {
+                var projectCard = new ProjectCard(projectJason, this.readMoreViewer.show, this.jasonData.options, this.overlayVideoPlayer.playVideo, this.overlayImageViewer.viewImages);
+                stack_widget_page.addElement(projectCard.card);
+                this.projectCards.push(projectCard);
+            });
+
+            this.stackWidget.addPage(stack_widget_page, button);
+
+        });
+
+    }
+
+    this.__init__();
+}
+
+// here creating component to manage skills.
+var Skills = function () {
+    this.jasonData = null;
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        this.description.innerText = this.jasonData.description;
+
+        // Here adding card to decription.
+        for (var jasoncard of this.jasonData.skills) {
+            card = document.createElement("div");
+            card.classList.add("skillCard");
+
+            card.innerHTML = `
+            <div class="content">
+                <img src="${jasoncard.icon}" alt="">
+                <p class="percentage">${jasoncard.percentage}%</p>
+                <!-- <i class="fa-brands fa-square-js"></i> -->
+                <p>${jasoncard.name}</p>
+            </div>
+            <div id="water" class="water" style="transform: translate(0, ${100 - jasoncard.percentage}%);">
+                <svg viewBox="0 0 560 20" class="water_wave water_wave_back">
+                    <use xlink:href="#wave"></use>
+                </svg>
+                <svg viewBox="0 0 560 20" class="water_wave water_wave_front">
+                    <use xlink:href="#wave"></use>
+                </svg>
+            </div>
+            `;
+
+            this.cards.append(card);
+        }
+
+        // Here applying carousel Simulation.
+        this.carosuleSimulator.__init__();
+
+    }
+
+    this.onNextPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onNextPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.onPreviousPressed = (event) => {
+        if (this.carosuleSimulator !== null) {
+            this.carosuleSimulator.onPreviousPressed();
+        }
+        event.stopPropagation();
+    }
+
+    this.__init__ = function () {
+        this.description = document.querySelector("#skillsDescription");
+        this.cards = document.querySelector(".skillCardsContainer");
+        this.leftButton = document.querySelector(".skillsLeftButton");
+        this.rightButton = document.querySelector(".skillsRightButton");
+
+        this.carosuleSimulator = new CarosuleSimulator(this.cards, 20, true, 100, this.rightButton, this.leftButton);
+
+        // here connecting buttons.
+        // this.leftButton.addEventListener("click", this.onPreviousPressed);
+        // this.rightButton.addEventListener("click", this.onNextPressed);
+
+    }
+
+    this.__init__();
+}
+
+// here creating component to manage experiences.
+var Experiences = function () {
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+        this.description.innerText = this.jasonData.description;
+
+        // Here loading all the cards.
+        var fillUpClass = "timelineContentTop";
+        for (var jasonCard of this.jasonData.experience) {
+            card = document.createElement("div");
+            card.classList.add("timelineCard");
+
+            card.innerHTML = `
+            <div class="timelineContent ${fillUpClass}">
+
+                <div class="timelineLeftLine">
+                    <span></span>
+                    <div></div>
+                    <span></span>
+                </div>
+
+                <div class="company">
+                    <div class="companyLogo"><img src="${jasonCard.logo}" alt=""></div>
+                    <div class="companyName">${jasonCard.name}</div>
+                </div>
+                <p class="workDescription">${jasonCard.description}</p>
+
+            </div>
+
+            <p class="workYear">${jasonCard.date}</p>
+            `;
+
+            if (fillUpClass === "timelineContentTop") {
+                fillUpClass = "timelineContentbottom";
+            }
+            else {
+                fillUpClass = "timelineContentTop";
+            }
+
+            this.cards.append(card);
+
+        }
+
+        // Here adding now time.
+        let nowTimeline = document.createElement("div");
+        nowTimeline.classList.add("timelineNow")
+        nowTimeline.innerHTML = "<p>Now</p>";
+
+        this.cards.append(nowTimeline);
+
+        this.carosuleSimulator.__init__();
+    }
+
+    this.__init__ = function () {
+        this.description = document.querySelector("#experiencesDescription");
+        this.cardsConatiner = document.querySelector(".timeline");
+        this.cards = document.querySelector(".timelineCards");
+        this.leftButton = document.querySelector(".timelineLeftButton");
+        this.rightButton = document.querySelector(".timelineRightButton");
+
+        this.carosuleSimulator = new CarosuleSimulator(this.cards, 0, true, 369, this.rightButton, this.leftButton);
+        this.carosuleSimulator.setUpperContainerMapping(this.cardsConatiner, true);
+    }
+
+    this.__init__();
+}
+
+// Here creating component for MessageForTheUser.
+var MessageToUser = function () {
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        this.name.innerText = this.jasonData.name;
+        this.authorImage.setAttribute("src", this.jasonData.image);
+    }
+
+    this.getVoices = () => {
+        let voices = speechSynthesis.getVoices();
+        if (!voices.length) {
+            let utterance = new SpeechSynthesisUtterance("");
+            speechSynthesis.speak(utterance);
+            voices = speechSynthesis.getVoices();
+        }
+        return voices;
+    }
+
+    this.pronounceName = () => {
+        if ('speechSynthesis' in window) {
+            console.log("Name Said: " + this.jasonData.name);
+
+            let speakData = new SpeechSynthesisUtterance();
+            speakData.volume = this.jasonData.speakVolume; // From 0 to 1
+            speakData.rate = this.jasonData.speakRate; // From 0.1 to 10
+            speakData.pitch = this.jasonData.speakPitch; // From 0 to 2
+            speakData.text = this.jasonData.sayName;
+            speakData.lang = 'en';
+            speakData.voice = this.getVoices()[this.jasonData.voiceType];
+
+            speechSynthesis.speak(speakData);
+
+        } else {
+            console.log("Can'y Say Nname: " + this.jasonData.name);
+        }
+    }
+
+    this.sendEmail = () => {
+        window.location.href = `mailto:${this.jasonData.sayHiEmail}?subject=${this.jasonData.subject}&body=${this.jasonData.message}`;
+    }
+
+    this.__init__ = function () {
+
+        this.authorImage = document.querySelector("#messageToUserAuthorImage");
+        this.sayName = document.querySelector("#messageToUserSayName");
+        this.name = document.querySelector("#messageToUserAuthorName");
+        this.sayHi = document.querySelector("#messageToUserSayHiButton");
+
+        // Here connecting the button with function.
+        this.sayName.addEventListener("click", this.pronounceName);
+        this.sayHi.addEventListener("click", this.sendEmail);
+    }
+
+    this.__init__();
+}
+
+
+// Here creating compoenent for footer.
+var Footer = function () {
+
+    this.getActiveTheme = () => {
+        var root = document.querySelector(':root');
+        return root.style.getPropertyValue("--active-theme");
+    }
+
+    this.reload = () => {
+
+        // Here realoading the brand logo according to the active theme.
+        this.brandLogo.setAttribute("src", this.jasonData.brand.logo[this.getActiveTheme()]);
+
+    }
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        // here setting up data for brand.
+        this.brandLogo.setAttribute("src", this.jasonData.brand.logo[this.getActiveTheme()]);
+        this.brandName.innerText = this.jasonData.brand.name;
+        this.brandDescription.innerText = this.jasonData.brand.description;
+
+        // here loading contact detains.
+        var address = document.createElement("p");
+        address.innerText = this.jasonData.contactDetails.address;
+        this.contacts.append(address);
+
+        for (var jasonContact of this.jasonData.contactDetails.contacts) {
+            var contact = document.createElement("p");
+            contact.innerHTML = `<i class="${jasonContact.icon}"></i>${jasonContact.text}`;
+            this.contacts.append(contact);
+        }
+
+        // Here loading all the quick links.
+        for (var jasonLink of this.jasonData.quickLinks) {
+            var link = document.createElement("a");
+            link.setAttribute("href", jasonLink.link);
+            link.setAttribute("target", "_blank");
+            link.innerText = jasonLink.name;
+            this.quickLinks.append(link);
+        }
+
+        // here loading text for copyright.
+        this.copyright.innerText = this.jasonData.socialLinks.copyright;
+
+        // here loading all the social links.
+        for (var jasonLink of this.jasonData.socialLinks.links) {
+            var link = document.createElement("a");
+            link.setAttribute("href", jasonLink.link);
+            link.setAttribute("target", "_blank");
+            link.innerHTML = `<i class="${jasonLink.icon}"></i>`;
+
+            this.socialLinks.append(link);
+        }
+
+    }
+
+    this.__init__ = function () {
+        this.brandLogo = document.querySelector("#footerBrandLogo");
+        this.brandName = document.querySelector("#footerBrandName");
+        this.brandDescription = document.querySelector("#footerBrandDescription");
+        this.contacts = document.querySelector("#footerContacts");
+        this.quickLinks = document.querySelector("#footerQuickLinks");
+        this.copyright = document.querySelector("#footerCopyright");
+        this.socialLinks = document.querySelector("#footerSocialLinks");
+    }
+
+    this.__init__();
+}
+
+// Here created theme manager that will help to setup theme.
+
+var ThemeManager = function () {
+    this.jasonData = null;
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        // Here loading the default theme.
+        active_theme = this.jasonData["website-info"]["active-theme"]
+        theme = this.jasonData.themes[active_theme]
+
+        var root = document.querySelector(':root');
+
+        for (key in theme) {
+            root.style.setProperty("--" + key, theme[key]);
+        }
+
+        root.style.setProperty("--active-theme", active_theme);
+    }
+
+    this.setTheme = (name) => {
+        theme = this.jasonData.themes[name]
+
+        var root = document.querySelector(':root');
+
+        for (key in theme) {
+            root.style.setProperty("--" + key, theme[key]);
+        }
+
+        root.style.setProperty("--active-theme", name);
+    }
+
+    this.getActiveTheme = () => {
+        var root = document.querySelector(':root');
+        return root.style.getPropertyValue("--active-theme");
+    }
+
+}
+
+// Here Creating the element to manage the floating menu that will will to chnage the theme and cisit some link.
+var FloatingMenu = function (themeManager) {
+    this.jasonData = null;
+    this.themeManager = themeManager;
+    this.activeThemeButton = null;
+    this.reloadComponentOnThemeChnage = [];
+
+    this.onThemeChnage = (event) => {
+        let theme = event.currentTarget.getAttribute("index");
+        this.themeManager.setTheme(theme);
+
+        // here changing the state of the button.
+        this.activeThemeButton.classList.remove("fmb-active");
+
+        this.activeThemeButton = event.currentTarget;
+        this.activeThemeButton.classList.add("fmb-active");
+
+        for (var component of this.reloadComponentOnThemeChnage) {
+            component.reload();
+        }
+    }
+
+    this.reloadOnThemeChnage = function (component) {
+        this.reloadComponentOnThemeChnage.push(component);
+    }
+
+    this.load = function (jasonData) {
+        this.jasonData = jasonData;
+
+        let activeTheme = this.themeManager.getActiveTheme();
+
+        // here adding theme buttons.
+        for (var jasonButton of this.jasonData.themeButton) {
+            let button = document.createElement("div");
+            button.setAttribute("index", jasonButton.theme);
+            if (jasonButton.theme == activeTheme) {
+                button.classList.add("floating-menu-button");
+                button.classList.add("fmb-active");
+                this.activeThemeButton = button;
+            }
+            else {
+                button.classList.add("floating-menu-button");
+            }
+
+            button.innerHTML = `<i class="${jasonButton.icon}"></i>`;
+
+            // Here connecting the button with a function to chnage theme.
+            button.addEventListener("click", this.onThemeChnage);
+
+            this.body.append(button);
+        }
+
+        // here adding the gap element.
+        var gap = document.createElement("div");
+        gap.classList.add("gap");
+        this.body.append(gap);
+
+        // here adding quick links.
+        for (var jasonlink of this.jasonData.quickLinks) {
+            let link = document.createElement("a");
+            link.setAttribute("target", "_blank");
+            link.setAttribute("href", jasonlink.link);
+
+            link.innerHTML = `
+            <div class="floating-menu-link">
+                <i class="${jasonlink.icon}"></i>
+            </div>
+            `;
+
+            this.body.append(link);
+        }
+
+
+        // here again adding the gap element in the footer.
+        var gap = document.createElement("div");
+        gap.classList.add("gap");
+        this.footer.append(gap);
+
+        // here adding the author icon.
+        let authorIcon = document.createElement("img");
+        authorIcon.setAttribute("src", this.jasonData.authorIcon);
+        this.footer.append(authorIcon);
+
+    }
+
+    this.openCloseMenu = () => {
+
+        if (this.menu.classList.contains("floating-menu-active")) {
+            this.menu.classList.remove("floating-menu-active");
+        }
+        else {
+            this.menu.classList.add("floating-menu-active");
+        }
+    }
+
+    this.__init__ = function () {
+        this.menu = document.querySelector(".floating-menu");
+        this.closeButton = document.querySelector(".floating-menu-close-button");
+        this.body = document.querySelector(".floating-menu-body");
+        this.footer = document.querySelector(".floating-menu-footer");
+
+        // here connecting buttons.
+        this.closeButton.addEventListener("click", this.openCloseMenu);
+    }
+
+    this.__init__();
+}
+
+// here creating loader that will indicate loading process.
+let ProgressBar = function () {
+    this.isLoaderRunning = false;
+
+    this.start = () => {
+        this.progress.classList.remove("progressBarActive");
+        this.progress.classList.remove("animationCompleted");
+        this.progress.style.width = "0%";
+
+        this.progress.classList.add("progressBarActive");
+        this.isLoaderRunning = true;
+    }
+
+    this.stop = () => {
+        this.progress.style.animationName = null;
+        this.progress.style.width = window.getComputedStyle(this.progress).width;
+        this.progress.classList.add("animationCompleted");
+
+        this.isLoaderRunning = false;
+    }
+
+    this.__init__ = function () {
+        this.progressBar = document.querySelector(".loader");
+        this.progress = document.querySelector(".progressBar");
+        this.dot = document.querySelector(".progressBarDot");
+    }
+
+    this.__init__();
+}
+
+// Here creating component to show notification.
+var Notifications = function () {
+
+    this.onNotificationFinished = (event) => {
+        event.currentTarget.remove();
+    }
+
+    this.push = (topic, message, about) => {
+
+        var notification = document.createElement("div");
+        notification.addEventListener("animationend", this.onNotificationFinished)
+        notification.setAttribute("class", "notifyContainer");
+
+        notification.innerHTML = `
+        <div class='notification'>
+            <header>
+                <span class="ntitle">Messages</span>
+                <span class='timestamp'>Now</span>
+            </header>
+            <div class='content'>
+                <span class='sender'>${topic}</span>
+                <span class='nmessage'>${message}</span>
+                <span class='more'>${about}</span>
+            </div>
+        </div>
+        `;
+
+        this.notifications.append(notification);
+    }
+
+    this.__init__ = function () {
+        this.notifications = document.querySelector(".notifications");
+
+    }
+
+    this.__init__();
+}
+
+
+// contact us component start here.
+var ContactUs = function () {
+
+    this.show = () => {
+        this.contactUs.classList.remove("contactUsDeactivate");
+        this.contactUs.classList.add("contactUsActive");
+        this.body.style.overflow = 'hidden';
+    }
+
+    this.close = () => {
+        this.contactUs.classList.remove("contactUsActive");
+        this.contactUs.classList.add("contactUsDeactivate");
+        this.body.style.overflow = null;
+    }
+
+    this.load = (jasonData) => {
+        this.jasonData = jasonData;
+
+        // here setting up heading for the conatct us from.
+        this.heading.innerHTML = this.jasonData.heading;
+
+        // here setting up descruiption for the conatct us from.
+        this.description.innerHTML = this.jasonData.description;
+
+        // here loading all the icons.  
+        for (var jsonLink of jasonData.socialMedia) {
+            socialLink = document.createElement("button");
+            socialLink.classList.add("form-social-button");
+            socialLink.innerHTML = `<a href="${jsonLink.url}" target="_blank"><i class="${jsonLink.icon}"></i></a>`;
+            this.socialButtonContainer.append(socialLink);
+        }
+
+        // now let's init the email js with public key.
+        emailjs.init(this.jasonData.emailJs.publicKey);
+    }
+
+    this.sendMessage = (event) => {
+        // here let's prepare the data to be sended.
+        var message_form = document.createElement("form");
+        for (var field of [this.nameField, this.availabilityField, this.emailField, this.messageField]) {
+            // inputField = document.createElement(`<input type="${field.type}" name="${field.name}" value="${field.value}" />`);
+            message_form.innerHTML += `<input type="${field.type}" name="${field.name}" value="${field.value}" />`;
+        }
+        // message_data[this.nameField.name] = this.nameField;
+        // message_data[this.emailField.name] = this.emailField;
+        // message_data[this.availabilityField.name] = this.availabilityField;
+        // message_data[this.messageField.name] = this.messageField;
+
+        // message_data[0] = this.nameField;
+        // message_data[1] = this.emailField;
+        // message_data[2] = this.availabilityField;
+        // message_data[3] = this.messageField;
+
+        // Here send the email.
+        emailjs.sendForm(this.jasonData.emailJs.serviceId, this.jasonData.emailJs.TemplateId, message_form)
+            .then(function () {
+                console.log('SUCCESS!');
+            }, function (error) {
+                console.log('FAILED...', error);
+            });
+
+        event.stopPropagation()
+    }
+
+    this.clear = (event) => {
+        this.nameField.value = ""
+        this.emailField.value = ""
+        this.availabilityField.value = ""
+        this.messageField.value = ""
+        event.stopPropagation()
+    }
+
+    this.__init__ = function () {
+        this.body = document.querySelector("body");
+        this.contactUsButton = document.querySelector(".lets-talk-button");
+        this.contactUs = document.querySelector(".contactUs");
+        this.heading = document.querySelector("#contactUsHeading");
+        this.description = document.querySelector("#contactUsDescription");
+        this.socialButtonContainer = document.querySelector("#contactUsSocialButonContainer");
+
+        this.nameField = document.querySelector("#contactUsName");
+        this.availabilityField = document.querySelector("#contactUsAvailableTime");
+        this.messageField = document.querySelector("#contactUsMessage");
+        this.emailField = document.querySelector("#contactUsEmail");
+        this.clearButton = document.querySelector("#contactUsClearButton");
+        this.sendButton = document.querySelector("#contactUsSendButton");
+        this.closeButton = document.querySelector("#contactUsCloseButton");
+
+        // here connecting buttons with there functions.
+        this.contactUsButton.addEventListener("click", this.show);
+        this.sendButton.addEventListener("click", this.sendMessage);
+        this.clearButton.addEventListener("click", this.clear);
+        this.closeButton.addEventListener("click", this.close);
+
+        // here creating some variable with initial value.
+        this.jasonData = null;
+    }
+
+    this.__init__();
+}
+
+// Here's a Data Parser is being created that will help to parse all the data from jason file.
+
+var DataLoader = function (file) {
+    this.data_file = file;
+    this.notification = new Notifications();
+    this.progressBar = new ProgressBar();
+    this.profile = new Profile();
+    this.services = new Services();
+    this.protfolio = new Protfolio(this.progressBar, this.notification);
+    this.mainMenu = new MainMenu();
+    this.themeManager = new ThemeManager();
+    this.floatingMenu = new FloatingMenu(this.themeManager);
+    this.aboutMe = new AboutMe();
+    this.skills = new Skills();
+    this.experiences = new Experiences();
+    this.messageToUser = new MessageToUser();
+    this.footer = new Footer();
+    this.contactUs = new ContactUs();
+
+    this.onCopy = (event) => {
+
+        var title = event.currentTarget.getAttribute("title");
+        var msg = event.currentTarget.getAttribute("msg");
+        var value = event.currentTarget.getAttribute("value");
+        navigator.clipboard.writeText(value);
+
+        this.notification.push(title, msg, value);
+    }
+
+    this.loadData = function () {
+        fetch(this.data_file)
+            .then(response => response.json())
+            .then(data => {
+
+                // here loading the theme.
+                this.themeManager.load(data);
+
+                // here loading contact us form.
+                this.contactUs.load(data["contactUs"]);
+
+                // here setting up the main menu options.
+                this.mainMenu.load(data["mainMenu"]);
+
+                // Here setting up profile data.
+                this.profile.load(data["author-info"]);
+
+                // Here loading info of about me.
+                this.aboutMe.load(data["aboutMe"]);
+
+                // Here Setting up the services section.
+                this.services.load(data["services"]);
+
+                // Here loading the portfolio.
+                this.protfolio.load(data["protfolio"]);
+
+                // Here loading all the skills.
+                this.skills.load(data["skills"]);
+
+                //here loading skill slides.
+                this.experiences.load(data["experiences"]);
+
+                //here loading the data for message to user.
+                this.messageToUser.load(data["messageToUser"]);
+
+                // Here loading footer.
+                this.footer.load(data["footer"]);
+
+                // Here loading the floating menu.
+                this.floatingMenu.load(data["themeMenu"]);
+                this.floatingMenu.reloadOnThemeChnage(this.profile);
+                this.floatingMenu.reloadOnThemeChnage(this.footer);
+                this.floatingMenu.reloadOnThemeChnage(this.mainMenu);
+
+                // Here adding call back to all the elements using copy-link class.
+                var anchors = document.querySelectorAll('.copy-link');
+                for (var i = 0; i < anchors.length; i++) {
+                    var anchor = anchors[i];
+                    anchor.addEventListener("click", this.onCopy);
+                }
+
+            });
+
+    }
+
+}
+
+
+var data_loader = null;
+
+setTimeout(() => {
+
+    // Here Loading data.
+    data_loader = new DataLoader("./data/data.json");
+    data_loader.loadData();
+
+}, 0);
+
+
+// Here setting up a call back on wbpage loaded.
+// window.onload = function () {
+
+//     // Here fetching all the element using copy-link class in html and setting up call back function to copy the inner text.
+//     var anchors = document.querySelectorAll('.copy-link');
+//     for (var i = 0; i < anchors.length; i++) {
+//         var anchor = anchors[i];
+//         anchor.addEventListener("click", copyText);
+//     }
+// }

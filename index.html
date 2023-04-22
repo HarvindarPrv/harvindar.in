@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;">
+<html lang="en" >
+    <!-- oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;" -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,6 +16,7 @@
         rel="stylesheet">
 
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="contactUsStyles.css">
     <link rel="stylesheet" href="stylesMobile.css">
     <link rel="stylesheet" href="bubbleEffect.css">
 
@@ -92,6 +94,68 @@
         </div>
 
         <!-- (notification) end's here -->
+
+        <!-- contact us form start here -->
+
+        <div class="contactUs">
+
+            <button id="contactUsCloseButton">
+            <i class="fa-solid fa-xmark"></i>
+            </button>
+
+            <!-- Canvas -->
+            <canvas class="orb-canvas"></canvas>
+
+            <!-- Overlay -->
+            <div class="overlay">
+                <!-- Overlay inner wrapper -->
+                <div class="overlay__inner">
+                    <!-- Title -->
+                    <h1 class="overlay__title text-gradient" id="contactUsHeading">
+                        
+                    </h1>
+
+                    <!-- Description -->
+                    <p class="overlay__description" id="contactUsDescription">
+                        
+                    </p>
+
+                    <!-- Buttons -->
+                    <div class="from-social-button-container" id="contactUsSocialButonContainer">
+            
+                        <!-- <button class="form-social-button">
+                            <a href=""><i class="fa-brands fa-whatsapp"></i></a>
+                        </button> -->
+            
+                    </div>
+                </div>
+            
+                <div class="form">
+                    <div class="input-group">
+                        <input type="text" placeholder="Your name" id="contactUsName" name="user_name">
+                        <input type="text" placeholder="Available at, like 03:00pm" id="contactUsAvailableTime" name="availability">
+                    </div>
+                    <div class="input-group">
+                        <input type="text" placeholder="Email" id="contactUsEmail" name="email">
+                    </div>
+                    <textarea type="text" placeholder="write your message" id="contactUsMessage" name="message"></textarea>
+                    <div class="form-button-container">
+                        <button class="overlay__btn overlay__btn--transparent" id="contactUsClearButton">
+                            <span>Clear</span>
+                            <!-- <span class="overlay__btn-emoji"><i class="fa-solid fa-broom-wide"></i></span> -->
+                        </button>
+                        <button class="overlay__btn overlay__btn--colors" id="contactUsSendButton">
+                            <span>Send Message</span>
+                            <span class="overlay__btn-emoji"><i class="fa-solid fa-paper-plane"></i></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <!-- partial -->
+
+        </div>
+
+        <!-- contact us form end's here -->
 
         <section id="introduction" class="container">
 
@@ -546,7 +610,7 @@
 
                     <p id="about-author" class="description">Describe about you.</p>
 
-                    <a class="button lets-talk-button" href="#">Let's Talk</a>
+                    <a class="button lets-talk-button">Let's Talk</a>
 
                     <div class="social-media">
 
@@ -1519,7 +1583,9 @@ def function():
 
     </main>
 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
     <script src="main.js"></script>
+    <script type="module" src="contactUsScript.js"></script>
     
 </body>
 </html>
