@@ -2147,6 +2147,7 @@ var ContactUs = function (progressBar, notification) {
         this.heading = document.querySelector("#contactUsHeading");
         this.description = document.querySelector("#contactUsDescription");
         this.socialButtonContainer = document.querySelector("#contactUsSocialButonContainer");
+        this.contactUsBackgroundAnimation = document.querySelector("contactUsBackgroundAnimation");
 
         this.nameField = document.querySelector("#contactUsName");
         this.availabilityField = document.querySelector("#contactUsAvailableTime");
