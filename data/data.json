@@ -129,23 +129,23 @@
         "socialMedia": [
             {
                 "icon": "fa-brands fa-whatsapp",
-                "url": "#"
+                "url": "https://wa.me/+919695806109"
             },
             {
                 "icon": "fa-brands fa-youtube",
-                "url": "#"
+                "url": "https://www.youtube.com/@Brightgoal"
             },
             {
                 "icon": "fa-brands fa-instagram",
-                "url": "#"
+                "url": "https://www.instagram.com/brightgoal.in/"
             },
             {
                 "icon": "fa-brands fa-linkedin",
-                "url": "#"
+                "url": "https://www.linkedin.com/in/harvindar-in/"
             },
             {
                 "icon": "fa-solid fa-earth-americas",
-                "url": "#"
+                "url": "https://www.brightgoal.in"
             }
         ],
         
