@@ -2028,6 +2028,10 @@ var Notifications = function () {
     }
 
     this.push = (topic, message, about) => {
+        // here if the about length is more the 23 then let's chop of the about.
+        if (about.length > 26) {
+            about = about.slice(0, 23) + "...";
+        }
 
         var notification = document.createElement("div");
         notification.addEventListener("animationend", this.onNotificationFinished)
@@ -2060,7 +2064,7 @@ var Notifications = function () {
 
 
 // contact us component start here.
-var ContactUs = function () {
+var ContactUs = function (progressBar, notification) {
 
     this.show = () => {
         this.contactUs.classList.remove("contactUsDeactivate");
@@ -2096,28 +2100,28 @@ var ContactUs = function () {
     }
 
     this.sendMessage = (event) => {
+        // let's start the progress bar of sending mail.
+        this.progressBar.start();
+
+        // here extracting message from the message field.
+        var message = this.messageField.value;
+
         // here let's prepare the data to be sended.
         var message_form = document.createElement("form");
         for (var field of [this.nameField, this.availabilityField, this.emailField, this.messageField]) {
             // inputField = document.createElement(`<input type="${field.type}" name="${field.name}" value="${field.value}" />`);
             message_form.innerHTML += `<input type="${field.type}" name="${field.name}" value="${field.value}" />`;
         }
-        // message_data[this.nameField.name] = this.nameField;
-        // message_data[this.emailField.name] = this.emailField;
-        // message_data[this.availabilityField.name] = this.availabilityField;
-        // message_data[this.messageField.name] = this.messageField;
-
-        // message_data[0] = this.nameField;
-        // message_data[1] = this.emailField;
-        // message_data[2] = this.availabilityField;
-        // message_data[3] = this.messageField;
 
         // Here send the email.
         emailjs.sendForm(this.jasonData.emailJs.serviceId, this.jasonData.emailJs.TemplateId, message_form)
-            .then(function () {
-                console.log('SUCCESS!');
-            }, function (error) {
-                console.log('FAILED...', error);
+            .then(() => {
+                this.progressBar.stop();
+                this.notification.push("Check your mail for the reply.", "The message has been sent 😀", message);
+                this.clear();
+            }, (error) => {
+                this.progressBar.stop();
+                this.notification.push("Failed to send", "Failed to send your message 🥺", message);
             });
 
         event.stopPropagation()
@@ -2128,10 +2132,15 @@ var ContactUs = function () {
         this.emailField.value = ""
         this.availabilityField.value = ""
         this.messageField.value = ""
-        event.stopPropagation()
+        if (event !== null) {
+            event.stopPropagation()
+        }
     }
 
     this.__init__ = function () {
+        this.notification = notification;
+        this.progressBar = progressBar;
+
         this.body = document.querySelector("body");
         this.contactUsButton = document.querySelector(".lets-talk-button");
         this.contactUs = document.querySelector(".contactUs");
@@ -2177,7 +2186,7 @@ var DataLoader = function (file) {
     this.experiences = new Experiences();
     this.messageToUser = new MessageToUser();
     this.footer = new Footer();
-    this.contactUs = new ContactUs();
+    this.contactUs = new ContactUs(this.progressBar, this.notification);
 
     this.onCopy = (event) => {
 
