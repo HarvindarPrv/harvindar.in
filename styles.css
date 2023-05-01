@@ -2334,6 +2334,21 @@ h4 span {
     background-color: rgba(var(--common-color), 100%); */
 }
 
+.videoViewer #normalVideoPlayer{
+    width: 100%;
+    height: 100%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    backdrop-filter: brightness(0.5);
+    /* border-radius: 8px; */
+}
+
+.videoViewer #normalVideoPlayer, #iframeVideoViewerPlayer{
+    display: none;
+}
+
 /* Here experiences style start's */
 
 .experiences{

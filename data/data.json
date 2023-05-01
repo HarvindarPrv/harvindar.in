@@ -878,21 +878,6 @@
                 "percentage": 50
             },
             {
-                "icon": "./data/skills/c-sharp.png",
-                "name": "C Sharp",
-                "percentage": 55
-            },
-            {
-                "icon": "./data/skills/net.png",
-                "name": ".NET Core",
-                "percentage": 70
-            },
-            {
-                "icon": "./data/skills/net asp-mvc.png",
-                "name": ".NET MVC",
-                "percentage": 50
-            },
-            {
                 "icon": "./data/skills/python.png",
                 "name": "Python",
                 "percentage": 90
@@ -905,7 +890,7 @@
             {
                 "icon": "./data/skills/reactJs.png",
                 "name": "ReactJS",
-                "percentage": 5
+                "percentage": 20
             },
             {
                 "icon": "./data/skills/javascript.png",

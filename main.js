@@ -809,11 +809,23 @@ var ProjectCard = function (jasonData, readMoreCallBack = null, options = null, 
             console.log("Didn't recived any call function to play video.");
             return;
         }
-        this.playVideoCallBack(this.jasonData.showUp);
+        if (this.jasonData.showUpType.toLowerCase() === 'video') {
+
+            this.playVideoCallBack(this.jasonData.showUp, 'normal');
+        }
+        else if (this.jasonData.showUpType.toLowerCase() === 'youtube-url') {
+            this.playVideoCallBack(this.rebuildYoutubeUrl(this.jasonData.showUp), 'iframe');
+        }
     }
 
-    this.rebuildYoutubeUrl = (urk) => {
-
+    this.rebuildYoutubeUrl = (url) => {
+        var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+        var match = url.match(regExp);
+        var video_id = (match && match[7].length == 11) ? match[7] : false;
+        if (!video_id) {
+            return url
+        }
+        return "https://www.youtube.com/embed/" + video_id;
     }
 
     // this function will help initlize the object.
@@ -1224,35 +1236,62 @@ var OverlayVideoPlayer = function (progressBar, maxPlayerWidth = 1280, maxPlayer
         this.progressBar.stop();
 
         // here making the video play visible.
-        this.videoViewerOverlay.style.display = "flex";
+        this.videoViewerOverlay.style.display = 'flex';
+
+        if (this.activeVideoPlayer === 'iframe') {
+            this.iFramevideoPlayer.style.display = "initial";
+        }
+        else if (this.activeVideoPlayer === 'normal') {
+            this.normalVideoPlayer.style.display = "flex";
+        }
 
     }
 
-    this.playVideo = (url) => {
+    this.playVideo = (url, urlType = "normal") => {
         this.onWindowResize({ currentTarget: window });
-        this.videoPlayer.onload = this.videoLoaded;
 
         // Here starting the progress bar.
         this.progressBar.start();
 
         // Here setting up the video url.
-        this.videoPlayer.setAttribute("src", url);
+        this.activeVideoPlayer = urlType.toLowerCase();
+        if (urlType.toLowerCase() === 'normal') {
+            this.normalVideoPlayer.addEventListener("loadeddata", this.videoLoaded, false);
+            this.normalVideoPlayer.setAttribute("src", url);
+        }
+        else if (urlType.toLowerCase() === 'iframe') {
+            this.iFramevideoPlayer.setAttribute("src", url);
+            this.iFramevideoPlayer.onload = this.videoLoaded;
+        }
     }
 
     this.close = () => {
-        this.videoPlayer.onload = null;
-        this.videoPlayer.setAttribute("src", "");
-        this.videoViewerOverlay.style.display = "none";
+        this.videoViewerOverlay.style.display = 'none';
+        if (this.activeVideoPlayer === 'iframe') {
+            // here closing the iframe video player.
+            this.iFramevideoPlayer.onload = null;
+            this.iFramevideoPlayer.setAttribute("src", "");
+            this.iFramevideoPlayer.style.display = "none";
+        }
+        else if (this.activeVideoPlayer === 'normal') {
+            // here closing the normal video player.
+            this.normalVideoPlayer.removeEventListener("loadeddata", this.videoLoaded);
+            this.normalVideoPlayer.style.display = "none";
+            this.normalVideoPlayer.setAttribute("src", "");
+        }
     }
 
     this.__init__ = function () {
         this.videoViewerOverlay = document.querySelector(".videoViewer");
         this.closeButton = document.querySelector("#videoViewerCloseButton");
         this.videoPlayerConatiner = document.querySelector("#videoViewerPlayerContainer");
-        this.videoPlayer = document.querySelector("#videoViewerPlayer");
+        this.iFramevideoPlayer = document.querySelector("#iframeVideoViewerPlayer");
+        this.normalVideoPlayer = document.querySelector("#normalVideoPlayer");
 
         window.addEventListener("resize", this.onWindowResize);
         this.closeButton.addEventListener("click", this.close);
+
+        this.activeVideoPlayer = null;
     }
 
     this.__init__();
