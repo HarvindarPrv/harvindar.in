@@ -615,9 +615,213 @@
                 "projects": [
                     {
                         "icon": "./data/skills/python.png",
+                        "name": "Video Converter",
+                        "dateTime": "5 Months Ago",
+                        "description": "Transformed my programming skills into a powerful video converter with Python and PyQt5 that extracts audio to MP3.",
+                        "thumbnailImage": "./data/projects/project-4/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-4/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Snake Game",
+                        "dateTime": "1 Year Ago",
+                        "description": "Check this out - I built this game from scratch with Python's Pygame module! Every single line of code was written by me, but I used Pygame for its basic functionalities.",
+                        "thumbnailImage": "./data/projects/project-11/1 (3).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-11/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "Music Player",
+                        "dateTime": "2 Months Ago",
+                        "description": "Developed this music player using Html, CSS, and pure JavaScript! <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-9/1.png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-9/video.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/html.png",
+                        "name": "Glassy Dashboard",
+                        "dateTime": "1 Months Ago",
+                        "description": "Created this trendy Glassy Dashboard with the flavor of Glassy Designs, using Html, CSS, and vanilla javascript. <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-8/1.png",
+                        
+                        "showUpType": "images",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-8/1.png",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Ludo",
+                        "dateTime": "15 Months Ago",
+                        "description": "Unleashed a whole new level of gaming magic with my custom-coded creation using Pygame module in Python!",
+                        "thumbnailImage": "./data/projects/project-2/1 (4).png",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "showUp": "./data/projects/project-2/video.mp4",
+
+                        "github": "https://github.com/Harvindar994/Ludo-in-Python",
+                        "isReadMoreLink": false,
+                        "readMore": null
+                    }
+                ]
+            },
+            {
+                "name": "Professional Projects",
+                "projects": [
+                    {
+                        "icon": "./data/skills/python.png",
+                        "name": "Library ERP System",
+                        "dateTime": "Aug 19, 2022",
+                        "description": "Revolutionize the college library game with Python and PyQt5 - the ultimate powerhouse solution for a seamless experience of book tracking, inventory management and more!",
+                        "thumbnailImage": "./data/projects/project-1/Login Screen.jpg",
+                        
+                        "showUpType": "video",
+                        "//showUpType can be": "images, video, youtube-url",
+                        "//showUpFormate can be": [{"image": "image-url", "text": "text"}],
+                        "showUp": "./data/projects/project-1/Preview.mp4",
+
+                        "github": "#",
+                        "isReadMoreLink": false,
+                        "readMore": {
+
+                            "icon": "./data/skills/python.png",
+                            "title": "Library ERP System",
+                            "titleLine": "Built on python",
+                            "sharingLink": {
+                                "title": "harvindar.in",
+                                "text": "Library ERP System",
+                                "url": "./data/projects/project-1/Preview.mp4"
+                            },
+                            "usedTech": ["Python", "PyQt5", "Poppler", "MySQL", "SQL Lite", "Jason"],
+                            "images": [
+                                "./data/projects/project-1/Dashboard.jpg",
+                                "./data/projects/project-1/Login Screen.jpg",
+                                "./data/projects/project-1/Singup Screen.jpg",
+                                "./data/projects/project-1/Database Setup Screen.jpg",
+                                "./data/projects/project-1/Privacy Policy.png",
+                                "./data/projects/project-1/Forget Password Screen.jpg",
+                                "./data/projects/project-1/Library Settings.jpg",
+                                "./data/projects/project-1/Issue and Submit Book.jpg",
+                                "./data/projects/project-1/Print ID Cards For Students.jpg",
+                                "./data/projects/project-1/Print Qr Code For Book.jpg",
+                                "./data/projects/project-1/Search Books.jpg",
+                                "./data/projects/project-1/Search Student.jpg",
+                                "./data/projects/project-1/Update Book.jpg",
+                                "./data/projects/project-1/Update Student.jpg",
+                                "./data/projects/project-1/About Page 2.png",
+                                "./data/projects/project-1/About Page.png",
+                                "./data/projects/project-1/Add Books.jpg",
+                                "./data/projects/project-1/Add Student.jpg",
+                                "./data/projects/project-1/Book Issue .jpg"
+                            ],
+                            "imageTitle": "Built in",
+                            "imageSortDescription": "Aug 19, 2022",
+                            "content": [
+                                {
+                                    "type": "h4",
+                                    "html": "<span class='primary'>Description</span>"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "12px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "This software designed to manage a complete library of a college using Python and PyQt5 is an efficient and effective solution to streamline the library management process. The software enables users to manage all aspects of the library, including cataloging, searching, borrowing, and returning books."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "One of the key features of this software is its user-friendly interface. The GUI developed using PyQt5 provides a simple and intuitive interface that is easy to navigate for users of all skill levels. The interface displays various options, such as search books by title, author, ISBN number, and category, among others."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Another essential feature of the software is its ability to track book borrowing and returning. The software allows library staff to check out books to users and record their details, including the borrower's name, contact details, and due date. Similarly, when the books are returned, the software marks them as returned and removes them from the borrower's account."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Furthermore, the software enables library staff to manage book inventory efficiently. Users can add new books to the library catalog, edit existing books, and delete books that are no longer in circulation."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "Overall, This software provides a comprehensive solution to manage a complete college library. Its intuitive interface, book tracking, and inventory management capabilities make it a valuable tool for librarians and users alike."
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type" : "h4",
+                                    "html": "<span class='primary'>Note: Don't not use for commercial purpose.</span>"
+                                },          
+                                {
+                                    "type": "link",
+                                    "url": "https://www.mediafire.com/file/droh93h0apqf4gw/Exectuable_File_For_Windows_7%252C8%252C10%252C11.rar/file",
+                                    "text": "Click here to Download",
+                                    "class": "important"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "20px"
+                                },
+                                {
+                                    "type" : "h5",
+                                    "html": "<span class='primary'>visit for more info</span>"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://www.brightgoal.in",
+                                    "text": "brightgoal.in",
+                                    "class": "important"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "icon": "./data/skills/python.png",
                         "name": "Flappy Bird",
                         "dateTime": "15 Months Ago",
-                        "description": "I developed this game using the Pygame module in Python, but I coded everything from scratch instead of relying on Pygame's built-in functions. I only used Pygame for its basic functionality.",
+                        "description": "I crafted every inch of this game from scratch, leveraging the fundamental capabilities of Pygame for an electrifying end result!",
                         "thumbnailImage": "./data/projects/project-3/1 (2).png",
                         
                         "showUpType": "video",
@@ -629,234 +833,123 @@
                         "readMore": null
                     },
                     {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
+                        "icon": "./data/skills/html.png",
+                        "name": "MR Studio Clone",
+                        "dateTime": "2 Months Ago",
+                        "description": "I replicated the mr-studio page using only CSS and HTML - impressive, huh?",
+                        "thumbnailImage": "./data/projects/project-5/1.png",
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+                        "showUp": "./data/projects/project-5/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
-                        "readMore": {}
+                        "readMore": null
                     },
                     {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
+                        "icon": "./data/skills/html.png",
+                        "name": "TinDog Clone",
+                        "dateTime": "2 Months Ago",
+                        "description": "Crafted this amazing replica of TinDog using the trio of Html, CSS, and pure Javascript! <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-6/1.png",
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+                        "showUp": "./data/projects/project-6/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
-                        "readMore": {}
+                        "readMore": null
                     },
                     {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
+                        "icon": "./data/skills/html.png",
+                        "name": "Leica M6",
+                        "dateTime": "1 Months Ago",
+                        "description": "Developed this Leica M6-inspired clone using HTML, CSS, and pure JavaScript. <span class='primary'>#NoLibrary</span>",
+                        "thumbnailImage": "./data/projects/project-7/1.png",
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+                        "showUp": "./data/projects/project-7/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
-                        "readMore": {}
+                        "readMore": null
                     },
                     {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
+                        "icon": "./data/skills/blender.png",
+                        "name": "Brightgoal Logo Animation",
+                        "dateTime": "1 Months Ago",
+                        "description": "Check out this awesome 3D animation I made using Blender for my YouTube channel intro!",
+                        "thumbnailImage": "./data/projects/project-10/1.png",
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+                        "showUp": "./data/projects/project-10/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
-                        "readMore": {}
+                        "readMore": null
                     },
                     {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
+                        "icon": "./data/skills/blender.png",
+                        "name": "Sword Animation",
+                        "dateTime": "6 month Ago",
+                        "description": "I dabbled in the world of 3D animation by creating a stunning masterpiece using Blender. It was my way of exploring ray tracing, color, lighting, and particles, and boy did I learn a lot!",
+                        "thumbnailImage": "./data/projects/project-12/5.PNG",
                         
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
+                        "showUp": "./data/projects/project-12/video.mp4",
 
                         "github": "#",
                         "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    }
-                ]
-            },
-            {
-                "name": "Professional Projects",
-                "projects": [
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
-                    },
-                    {
-                        "icon": "./data/skills/python.png",
-                        "name": "Air Drop",
-                        "dateTime": "15 Months Ago",
-                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla minima aliquid perspiciatis.",
-                        "thumbnailImage": "./data/projects/4.jpg",
-                        
-                        "showUpType": "video",
-                        "//showUpType can be": "images, video, youtube-url",
-                        "showUp": "https://www.youtube.com/embed/43e8dPUt7RY",
-
-                        "github": "#",
-                        "isReadMoreLink": false,
-                        "readMore": {}
+                        "readMore": {
+                            "icon": "./data/skills/blender.png",
+                            "title": "Sword Animation",
+                            "titleLine": "Built using Blender",
+                            "sharingLink": {
+                                "title": "harvindar.in",
+                                "text": "Sword Animation",
+                                "url": "./data/projects/project-12/video.mp4"
+                            },
+                            "usedTech": ["Blender"],
+                            "images": [
+                                "./data/projects/project-12/sword4.png",
+                                "./data/projects/project-12/sword5.png",
+                                "./data/projects/project-12/sword6.png",
+                                "./data/projects/project-12/sword7.png",
+                                "./data/projects/project-12/sword8.png",
+                                "./data/projects/project-12/sword9.png",
+                                "./data/projects/project-12/sword10.png",
+                                "./data/projects/project-12/1.PNG",
+                                "./data/projects/project-12/2.png",
+                                "./data/projects/project-12/4.PNG",
+                                "./data/projects/project-12/5.PNG",
+                                "./data/projects/project-12/6.png",
+                                "./data/projects/project-12/sword.png",
+                                "./data/projects/project-12/sword1.png",
+                                "./data/projects/project-12/sword2.png",
+                                "./data/projects/project-12/sword3.png"
+                            ],
+                            "imageTitle": "Built Time",
+                            "imageSortDescription": "6 Month ago",
+                            "content": [
+                                {
+                                    "type": "h4",
+                                    "html": "<span class='primary'>Description</span>"
+                                },
+                                {
+                                    "type": "gap",
+                                    "size": "10px"
+                                },
+                                {
+                                    "type": "p",
+                                    "html": "The sword animation that I have created using Blender and incorporating lightning, ray-tracing, and particle system sounds impressive. With the use of ray tracing, I was able to create realistic lighting and shadows that added a polished and professional look to my animation. The addition of lightning effects added to the drama and intensity of the action. The particle system was used to simulate debris or sparks as the sword moved or struck an object, making the animation more dynamic and realistic. Overall, the combination of techniques used in this animation created a visually stunning and impressive piece of work. Well done!"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
