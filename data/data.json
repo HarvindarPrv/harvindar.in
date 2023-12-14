@@ -1011,6 +1011,11 @@
                 "percentage": 65
             },
             {
+                "icon": "./data/skills/nextjs.png",
+                "name": "Next JS <br><span style='font-size: 70%;'>(Learning)</span>",
+                "percentage": 20
+            },
+            {
                 "icon": "./data/skills/Tailwind.png",
                 "name": "Tailwind",
                 "percentage": 20
