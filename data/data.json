@@ -983,42 +983,52 @@
             {
                 "icon": "./data/skills/reactJs.png",
                 "name": "ReactJS",
-                "percentage": 20
+                "percentage": 75
             },
             {
                 "icon": "./data/skills/javascript.png",
                 "name": "JavaScript",
-                "percentage": 65
+                "percentage": 85
             },
             {
                 "icon": "./data/skills/css.png",
                 "name": "CSS",
-                "percentage": 75
-            },
-            {
-                "icon": "./data/skills/Tailwind.png",
-                "name": "Tailwind",
-                "percentage": 2
+                "percentage": 90
             },
             {
                 "icon": "./data/skills/html.png",
                 "name": "HTML 5",
+                "percentage": 95
+            },
+            {
+                "icon": "./data/skills/nodejs.png",
+                "name": "Node",
                 "percentage": 80
+            },
+            {
+                "icon": "./data/skills/expressjs.png",
+                "name": "Express",
+                "percentage": 65
+            },
+            {
+                "icon": "./data/skills/Tailwind.png",
+                "name": "Tailwind",
+                "percentage": 20
             },
             {
                 "icon": "./data/skills/mongodb.png",
                 "name": "MongoDB",
-                "percentage": 55
+                "percentage": 60
             },
             {
                 "icon": "./data/skills/mysql.png",
                 "name": "SQL",
-                "percentage": 50
+                "percentage": 65
             },
             {
                 "icon": "./data/skills/github.png",
                 "name": "GitHub",
-                "percentage": 70
+                "percentage": 75
             },
             {
                 "icon": "./data/skills/blender.png",
@@ -1028,7 +1038,7 @@
             {
                 "icon": "./data/skills/photoshop.webp",
                 "name": "PhotoShop",
-                "percentage": 45
+                "percentage": 60
             },
             {
                 "icon": "./data/skills/figma.png",
