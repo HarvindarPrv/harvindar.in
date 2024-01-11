@@ -1012,13 +1012,23 @@
             },
             {
                 "icon": "./data/skills/nextjs.png",
-                "name": "Next JS <br><span style='font-size: 70%;'>(Learning)</span>",
-                "percentage": 20
+                "name": "Next JS",
+                "percentage": 50
             },
             {
                 "icon": "./data/skills/Tailwind.png",
                 "name": "Tailwind",
-                "percentage": 20
+                "percentage": 58
+            },
+            {
+                "icon": "./data/skills/typescript.png",
+                "name": "TypeScript",
+                "percentage": 65
+            },
+            {
+                "icon": "./data/skills/prisma.png",
+                "name": "Prisma <br><span style='font-size: 70%;'>(Learning)</span>",
+                "percentage": 45
             },
             {
                 "icon": "./data/skills/mongodb.png",
