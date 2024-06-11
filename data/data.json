@@ -990,12 +990,12 @@
             {
                 "icon": "./data/skills/mongodb.png",
                 "name": "MongoDB",
-                "percentage": 60
+                "percentage": 31
             },
             {
                 "icon": "./data/skills/mysql.png",
                 "name": "SQL",
-                "percentage": 65
+                "percentage": 30
             },
             {
                 "icon": "./data/skills/github.png",
