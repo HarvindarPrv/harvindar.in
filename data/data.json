@@ -1,10 +1,9 @@
 {
-    "website-info" : {
+    "website-info": {
         "author": "Harvindar Singh",
         "version": "0.0.1",
         "active-theme": "default"
     },
-
     "themes": {
         "default": {
             "common-color": "255, 255, 255",
@@ -16,7 +15,6 @@
             "primary-bg-2": "23, 28, 35",
             "read-more-viewer-bg": "33, 39, 47",
             "highlight-color": "255, 215, 0",
-
             "readMoreViewer-bg-1": "44, 48, 58",
             "readMoreViewer-bg-2": "30, 31, 38",
             "readMoreViewer-bg-3": "68, 72, 87",
@@ -24,7 +22,6 @@
             "readMoreViewer-link": "0, 255, 184",
             "readMoreViewer-tag": "118, 218, 255"
         },
-
         "lightRed": {
             "logo-font-color": "41, 45, 62",
             "primary-font-color": "235, 69, 95",
@@ -35,16 +32,13 @@
             "common-color-2": "255, 255, 255",
             "read-more-viewer-bg": "255, 255, 255",
             "highlight-color": "255, 215, 0",
-
             "readMoreViewer-bg-1": "255, 255, 255",
             "readMoreViewer-bg-2": "247, 247, 247",
             "readMoreViewer-bg-3": "228, 231, 231",
             "readMoreViewer-bg-shadow": "189, 189, 189",
             "readMoreViewer-link": "41, 45, 62",
             "readMoreViewer-tag": "249, 0, 39"
-
         },
-
         "lightBlue": {
             "logo-font-color": "251, 188, 4",
             "primary-font-color": "66, 133, 244",
@@ -54,8 +48,7 @@
             "read-more-viewer-bg": "0, 0, 0"
         }
     },
-
-    "activatedSections":{
+    "activatedSections": {
         "introduction": true,
         "aboutMe": true,
         "services": false,
@@ -64,7 +57,6 @@
         "messageToUser": true,
         "footer": true
     },
-
     "themeMenu": {
         "themeButton": [
             {
@@ -76,7 +68,6 @@
                 "icon": "fa-solid fa-moon"
             }
         ],
-
         "quickLinks": [
             {
                 "link": "https://www.linkedin.com/in/harvindar-singh-653326212/",
@@ -91,13 +82,11 @@
                 "icon": "fa-brands fa-whatsapp"
             }
         ],
-
         "authorIcon": "data/msg-to-user/author.png"
     },
-
     "mainMenu": {
         "authorName": "Harvindar Singh",
-        "logoText" : "Harry",
+        "logoText": "Harry",
         "logo": {
             "default": "data/introduction/profile.png",
             "lightRed": "data/introduction/profile_red_bg.png"
@@ -122,7 +111,6 @@
             }
         ]
     },
-
     "contactUs": {
         "heading": "Hey, would you like to learn how to create a generative UI just like this?",
         "description": "In this tutorial we will be creating a generative “orb” animation using pixi.js, picking some lovely random colors and pulling it all together in a nice frosty UI. <strong>We're gonna talk accessibility, too.</strong>",
@@ -148,14 +136,12 @@
                 "url": "https://www.brightgoal.in"
             }
         ],
-        
         "emailJs": {
             "publicKey": "-ytJV0ti49FcIIy-b",
             "serviceId": "service_fkt05go",
             "TemplateId": "template_8hey322"
         }
     },
-
     "author-info": {
         "name": "Harvindar Singh",
         "mobile": "+919695806109",
@@ -167,11 +153,9 @@
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]",
         "profile_images": {
-            
             "default": "data/introduction/profile.png",
             "lightRed": "data/introduction/profile_red_bg.png"
         },
-        
         "social_media": [
             {
                 "name": "GitHub",
@@ -205,12 +189,10 @@
             }
         ]
     },
-
-    "aboutMe":{
+    "aboutMe": {
         "description": "My approach to work involves a deep understanding of key concepts, which fuels my relentless pursuit of knowledge and innovation. With this mindset, I am always ready to take on new challenges and learn new technologies to solve problems efficiently and without hesitation.",
-        
         "//Warning": "while you are defining tag you can use <i> tag but inorder to give value to the tag use single-quots not double-quotes ",
-        "tags" : [
+        "tags": [
             "3 <i class='fa-solid fa-star'></i> CodeChef",
             "Built Large Desktop <i class='fa-solid fa-desktop'></i> App's For Clients for real world use",
             "Built this portfolio using html, vanilla css and javascript <span class='highlight'>#NoLibrary.</span>",
@@ -236,7 +218,6 @@
             }
         ]
     },
-
     "services": [
         {
             "icon": "fa-brands fa-uikit",
@@ -264,7 +245,6 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vero architecto illum ipsam veniam placeat distinctio odit in omnis nulla."
         }
     ],
-
     "protfolio": {
         "heading": "My Work",
         "description": "Best way to truly master something? It's simple - build it yourself! Rather than getting lost in endless amounts of theoretical information that you may never use, take a more hands-on approach. Just like how you can't become a skilled driver by just reading about it, you need to get behind the wheel and experience it for yourself. So, don't just read about it - dive in and build your way to success!",
@@ -281,16 +261,18 @@
                         "dateTime": "Aug 19, 2022",
                         "description": "Revolutionize the college library game with Python and PyQt5 - the ultimate powerhouse solution for a seamless experience of book tracking, inventory management and more!",
                         "thumbnailImage": "./data/projects/project-1/Login Screen.jpg",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "//showUpFormate can be": [{"image": "image-url", "text": "text"}],
+                        "//showUpFormate can be": [
+                            {
+                                "image": "image-url",
+                                "text": "text"
+                            }
+                        ],
                         "showUp": "./data/projects/project-1/Preview.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": {
-
                             "icon": "./data/skills/python.png",
                             "title": "Library ERP System",
                             "titleLine": "Built on python",
@@ -299,7 +281,14 @@
                                 "text": "Library ERP System",
                                 "url": "./data/projects/project-1/Preview.mp4"
                             },
-                            "usedTech": ["Python", "PyQt5", "Poppler", "MySQL", "SQL Lite", "Jason"],
+                            "usedTech": [
+                                "Python",
+                                "PyQt5",
+                                "Poppler",
+                                "MySQL",
+                                "SQL Lite",
+                                "Jason"
+                            ],
                             "images": [
                                 "./data/projects/project-1/Dashboard.jpg",
                                 "./data/projects/project-1/Login Screen.jpg",
@@ -373,9 +362,9 @@
                                     "size": "10px"
                                 },
                                 {
-                                    "type" : "h4",
+                                    "type": "h4",
                                     "html": "<span class='primary'>Note: Don't not use for commercial purpose.</span>"
-                                },          
+                                },
                                 {
                                     "type": "link",
                                     "url": "https://www.mediafire.com/file/droh93h0apqf4gw/Exectuable_File_For_Windows_7%252C8%252C10%252C11.rar/file",
@@ -387,7 +376,7 @@
                                     "size": "20px"
                                 },
                                 {
-                                    "type" : "h5",
+                                    "type": "h5",
                                     "html": "<span class='primary'>visit for more info</span>"
                                 },
                                 {
@@ -405,11 +394,9 @@
                         "dateTime": "15 Months Ago",
                         "description": "I crafted every inch of this game from scratch, leveraging the fundamental capabilities of Pygame for an electrifying end result!",
                         "thumbnailImage": "./data/projects/project-3/1 (2).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-3/video.mp4",
-
                         "github": "https://github.com/Harvindar994/FlappyBird",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -420,11 +407,9 @@
                         "dateTime": "15 Months Ago",
                         "description": "Unleashed a whole new level of gaming magic with my custom-coded creation using Pygame module in Python!",
                         "thumbnailImage": "./data/projects/project-2/1 (4).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-2/video.mp4",
-
                         "github": "https://github.com/Harvindar994/Ludo-in-Python",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -435,11 +420,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "I replicated the mr-studio page using only CSS and HTML - impressive, huh?",
                         "thumbnailImage": "./data/projects/project-5/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-5/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -450,11 +433,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "Developed this music player using Html, CSS, and pure JavaScript! <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-9/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-9/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -465,11 +446,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "Crafted this amazing replica of TinDog using the trio of Html, CSS, and pure Javascript! <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-6/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-6/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -480,11 +459,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Developed this Leica M6-inspired clone using HTML, CSS, and pure JavaScript. <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-7/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-7/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -495,11 +472,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Created this trendy Glassy Dashboard with the flavor of Glassy Designs, using Html, CSS, and vanilla javascript. <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-8/1.png",
-                        
                         "showUpType": "images",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-8/1.png",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -510,11 +485,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Check out this awesome 3D animation I made using Blender for my YouTube channel intro!",
                         "thumbnailImage": "./data/projects/project-10/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-10/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -525,11 +498,9 @@
                         "dateTime": "5 Months Ago",
                         "description": "Transformed my programming skills into a powerful video converter with Python and PyQt5 that extracts audio to MP3.",
                         "thumbnailImage": "./data/projects/project-4/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-4/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -540,11 +511,9 @@
                         "dateTime": "1 Year Ago",
                         "description": "Check this out - I built this game from scratch with Python's Pygame module! Every single line of code was written by me, but I used Pygame for its basic functionalities.",
                         "thumbnailImage": "./data/projects/project-11/1 (3).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-11/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -555,11 +524,9 @@
                         "dateTime": "6 month Ago",
                         "description": "I dabbled in the world of 3D animation by creating a stunning masterpiece using Blender. It was my way of exploring ray tracing, color, lighting, and particles, and boy did I learn a lot!",
                         "thumbnailImage": "./data/projects/project-12/5.PNG",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-12/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": {
@@ -571,7 +538,9 @@
                                 "text": "Sword Animation",
                                 "url": "./data/projects/project-12/video.mp4"
                             },
-                            "usedTech": ["Blender"],
+                            "usedTech": [
+                                "Blender"
+                            ],
                             "images": [
                                 "./data/projects/project-12/sword4.png",
                                 "./data/projects/project-12/sword5.png",
@@ -619,11 +588,9 @@
                         "dateTime": "5 Months Ago",
                         "description": "Transformed my programming skills into a powerful video converter with Python and PyQt5 that extracts audio to MP3.",
                         "thumbnailImage": "./data/projects/project-4/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-4/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -634,11 +601,9 @@
                         "dateTime": "1 Year Ago",
                         "description": "Check this out - I built this game from scratch with Python's Pygame module! Every single line of code was written by me, but I used Pygame for its basic functionalities.",
                         "thumbnailImage": "./data/projects/project-11/1 (3).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-11/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -649,11 +614,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "Developed this music player using Html, CSS, and pure JavaScript! <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-9/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-9/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -664,11 +627,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Created this trendy Glassy Dashboard with the flavor of Glassy Designs, using Html, CSS, and vanilla javascript. <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-8/1.png",
-                        
                         "showUpType": "images",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-8/1.png",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -679,11 +640,9 @@
                         "dateTime": "15 Months Ago",
                         "description": "Unleashed a whole new level of gaming magic with my custom-coded creation using Pygame module in Python!",
                         "thumbnailImage": "./data/projects/project-2/1 (4).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-2/video.mp4",
-
                         "github": "https://github.com/Harvindar994/Ludo-in-Python",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -699,16 +658,18 @@
                         "dateTime": "Aug 19, 2022",
                         "description": "Revolutionize the college library game with Python and PyQt5 - the ultimate powerhouse solution for a seamless experience of book tracking, inventory management and more!",
                         "thumbnailImage": "./data/projects/project-1/Login Screen.jpg",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
-                        "//showUpFormate can be": [{"image": "image-url", "text": "text"}],
+                        "//showUpFormate can be": [
+                            {
+                                "image": "image-url",
+                                "text": "text"
+                            }
+                        ],
                         "showUp": "./data/projects/project-1/Preview.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": {
-
                             "icon": "./data/skills/python.png",
                             "title": "Library ERP System",
                             "titleLine": "Built on python",
@@ -717,7 +678,14 @@
                                 "text": "Library ERP System",
                                 "url": "./data/projects/project-1/Preview.mp4"
                             },
-                            "usedTech": ["Python", "PyQt5", "Poppler", "MySQL", "SQL Lite", "Jason"],
+                            "usedTech": [
+                                "Python",
+                                "PyQt5",
+                                "Poppler",
+                                "MySQL",
+                                "SQL Lite",
+                                "Jason"
+                            ],
                             "images": [
                                 "./data/projects/project-1/Dashboard.jpg",
                                 "./data/projects/project-1/Login Screen.jpg",
@@ -791,9 +759,9 @@
                                     "size": "10px"
                                 },
                                 {
-                                    "type" : "h4",
+                                    "type": "h4",
                                     "html": "<span class='primary'>Note: Don't not use for commercial purpose.</span>"
-                                },          
+                                },
                                 {
                                     "type": "link",
                                     "url": "https://www.mediafire.com/file/droh93h0apqf4gw/Exectuable_File_For_Windows_7%252C8%252C10%252C11.rar/file",
@@ -805,7 +773,7 @@
                                     "size": "20px"
                                 },
                                 {
-                                    "type" : "h5",
+                                    "type": "h5",
                                     "html": "<span class='primary'>visit for more info</span>"
                                 },
                                 {
@@ -823,11 +791,9 @@
                         "dateTime": "15 Months Ago",
                         "description": "I crafted every inch of this game from scratch, leveraging the fundamental capabilities of Pygame for an electrifying end result!",
                         "thumbnailImage": "./data/projects/project-3/1 (2).png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-3/video.mp4",
-
                         "github": "https://github.com/Harvindar994/FlappyBird",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -838,11 +804,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "I replicated the mr-studio page using only CSS and HTML - impressive, huh?",
                         "thumbnailImage": "./data/projects/project-5/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-5/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -853,11 +817,9 @@
                         "dateTime": "2 Months Ago",
                         "description": "Crafted this amazing replica of TinDog using the trio of Html, CSS, and pure Javascript! <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-6/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-6/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -868,11 +830,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Developed this Leica M6-inspired clone using HTML, CSS, and pure JavaScript. <span class='primary'>#NoLibrary</span>",
                         "thumbnailImage": "./data/projects/project-7/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-7/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -883,11 +843,9 @@
                         "dateTime": "1 Months Ago",
                         "description": "Check out this awesome 3D animation I made using Blender for my YouTube channel intro!",
                         "thumbnailImage": "./data/projects/project-10/1.png",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-10/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": null
@@ -898,11 +856,9 @@
                         "dateTime": "6 month Ago",
                         "description": "I dabbled in the world of 3D animation by creating a stunning masterpiece using Blender. It was my way of exploring ray tracing, color, lighting, and particles, and boy did I learn a lot!",
                         "thumbnailImage": "./data/projects/project-12/5.PNG",
-                        
                         "showUpType": "video",
                         "//showUpType can be": "images, video, youtube-url",
                         "showUp": "./data/projects/project-12/video.mp4",
-
                         "github": "#",
                         "isReadMoreLink": false,
                         "readMore": {
@@ -914,7 +870,9 @@
                                 "text": "Sword Animation",
                                 "url": "./data/projects/project-12/video.mp4"
                             },
-                            "usedTech": ["Blender"],
+                            "usedTech": [
+                                "Blender"
+                            ],
                             "images": [
                                 "./data/projects/project-12/sword4.png",
                                 "./data/projects/project-12/sword5.png",
@@ -955,7 +913,6 @@
             }
         ]
     },
-
     "skills": {
         "description": "Learning and success go hand in hand, and the graph is exponential! Once you've mastered the basics, tackling advanced concepts is a breeze. No trouble, no stress - just pure progress.",
         "description1": "Listen up, folks - the graph of learning and success is exponential! And here's a little secret: once you've got the basics and core concepts of something down pat, learning the advanced stuff will be a piece of cake. No more struggling or feeling overwhelmed - with a solid foundation in place, you'll be able to take on even the most complex concepts with ease. So, don't shy away from those advanced topics - go ahead and give them a shot! You might just surprise yourself with how much you can handle. After all, when it comes to learning and success, the sky's the limit!",
@@ -1067,22 +1024,9 @@
             }
         ]
     },
-
     "experiences": {
         "description": "Having experience in different companies is like having a treasure chest of diverse knowledge and skills, ready to be unlocked and used to conquer any challenge that comes your way.",
         "experience": [
-            {
-                "logo": "./data/experience/royalEnfield1.png",
-                "name": "Royal Enfield",
-                "description": "<span class='imp mb-10'>Profile : Workshop Manager</span><br> Have 1 year of experience working as a workshop manager in royal enfield.",
-                "date": "2020"
-            },
-            {
-                "logo": "./data/experience/robogenius.png",
-                "name": "Robogenius",
-                "description": "<span class='imp mb-10'>Profile : Python Trainee</span><br> Have 1 year of experience teaching python and Django in Robogenius.",
-                "date": "2021"
-            },
             {
                 "logo": "./data/experience/wipro.png",
                 "name": "Wipro",
@@ -1091,7 +1035,6 @@
             }
         ]
     },
-
     "messageToUser": {
         "name": "ɧãrvindar",
         "sayName": "Harvindar Singh",
@@ -1104,20 +1047,17 @@
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]"
     },
-
     "footer": {
-        "brand":{
+        "brand": {
             "logo": {
                 "default": "data/introduction/aurhorWhite.png",
                 "lightRed": "data/introduction/aurhorWhite.png"
             },
-
             "name": "Harry",
-            "description1":"Meet me, a programming enthusiast with a strong foundation in fundamental programming concepts, who has successfully built large-scale applications using various programming languages.",
-            "description":"Hello there! I'm an avid programming enthusiast with a rock-solid foundation in fundamental programming concepts. I take pride in my ability to create complex and innovative applications using a variety of programming languages."
+            "description1": "Meet me, a programming enthusiast with a strong foundation in fundamental programming concepts, who has successfully built large-scale applications using various programming languages.",
+            "description": "Hello there! I'm an avid programming enthusiast with a rock-solid foundation in fundamental programming concepts. I take pride in my ability to create complex and innovative applications using a variety of programming languages."
         },
-
-        "contactDetails":{
+        "contactDetails": {
             "address": "Uttar Pradesh, India 'Got a question? Drop me a line on my personal email!'",
             "contacts": [
                 {
@@ -1134,7 +1074,6 @@
                 }
             ]
         },
-
         "quickLinks": [
             {
                 "name": "Youtube",
@@ -1157,7 +1096,6 @@
                 "link": "https://www.brightgoal.in"
             }
         ],
-
         "socialLinks": {
             "copyright": "©️ Brightgoal UI. All rights reserved.",
             "links": [
