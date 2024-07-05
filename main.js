@@ -1885,13 +1885,28 @@ var Footer = function () {
 
 var ThemeManager = function () {
     this.jasonData = null;
+    this.local_storage = "harvindar_in_theme"
 
     this.load = function (jasonData) {
         this.jasonData = jasonData;
+        var theme = null;
 
-        // Here loading the default theme.
-        active_theme = this.jasonData["website-info"]["active-theme"]
-        theme = this.jasonData.themes[active_theme]
+        // let's try fetching theme from local storage if it is there.
+        try {
+            var active_theme = localStorage.getItem(this.local_storage);
+            if (active_theme) {
+                theme = this.jasonData.themes[active_theme]
+            }
+            else {
+                throw TypeError;
+            }
+        } catch (error) {
+
+            // Here loading the default theme.
+            active_theme = this.jasonData["website-info"]["active-theme"]
+            theme = this.jasonData.themes[active_theme]
+
+        }
 
         var root = document.querySelector(':root');
 
@@ -1903,6 +1918,7 @@ var ThemeManager = function () {
     }
 
     this.setTheme = (name) => {
+        localStorage.setItem(this.local_storage, name);
         theme = this.jasonData.themes[name]
 
         var root = document.querySelector(':root');
