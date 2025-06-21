@@ -102,7 +102,7 @@
                 "link": "https://wa.me/+919695806109"
             },
             {
-                "name": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>Email</span>",
+                "name": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.in@gmail.com'>Email</span>",
                 "link": "#"
             },
             {
@@ -146,10 +146,10 @@
         "name": "Harvindar Singh",
         "mobile": "+919695806109",
         "country": "india",
-        "email": "harvindar994@gmail.com",
-        "designation": "Software Developer | UI/UX Designer | Frontend Developer",
-        "description": "I am a professional with a diverse skill set in the technology industry. I have experience as a Software Developer, UI/UX Designer, and Frontend Developer, and I am passionate about using my knowledge to create innovative digital products.",
-        "sayHiEmail": "harvindar.personal@gmail.com",
+        "email": "harvindar.in@gmail.com",
+        "designation": "Software Developer | UI/UX Designer | Full stack Developer",
+        "description": "I am a professional with a diverse skill set in the technology industry. I have experience as a Software Developer, UI/UX Designer, and Full stack Developer, and I am passionate about using my knowledge to create innovative digital products.",
+        "sayHiEmail": "harvindar.in@gmail.com",
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]",
         "profile_images": {
@@ -213,8 +213,8 @@
             },
             {
                 "icon": "fa-solid fa-desktop",
-                "name": "Frontend Developer",
-                "description": "I'm a Front-End Engineer and can craft stunning and high-performing products with a delightful user experience. "
+                "name": "Full Stack Developer",
+                "description": "I'm a Full Stack Developer and can craft stunning and high-performing products with a delightful user experience. "
             }
         ]
     },
@@ -1055,7 +1055,7 @@
         "speakRate": 1,
         "speakPitch": 2,
         "image": "./data/msg-to-user/author.png",
-        "sayHiEmail": "harvindar.personal@gmail.com",
+        "sayHiEmail": "harvindar.in@gmail.com",
         "subject": "Let's Connect",
         "message": "Dear Harvindar Singh,%0A%0AI hope this email finds you well. My name is [Your Name], and I came across your profile on 'harvindar.in' and was impressed by your expertise and achievements. I am interested in connecting with you to learn more about your experiences and insights.%0A%0AIf you have a moment to spare, I would be honored to connect with you on LinkedIn or schedule a brief call to chat about our shared interests. I am available [suggest a few dates and times that work for you] and can accommodate your schedule as well.%0A%0A[Here Provide your Contact Details if you wish to 😊]%0A%0AThank you for your time, and I look forward to connecting with you soon.%0A%0ABest regards,%0A[Your Name]"
     },
@@ -1074,7 +1074,7 @@
             "contacts": [
                 {
                     "icon": "fa-solid fa-envelope",
-                    "text": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.personal@gmail.com'>harvindar.personal@gmail.com</span>"
+                    "text": "<span class='copy-link' title='Email Me' msg='Email copied to Clipboard ✨' value='harvindar.in@gmail.com'>harvindar.in@gmail.com</span>"
                 },
                 {
                     "icon": "fa-solid fa-globe",
