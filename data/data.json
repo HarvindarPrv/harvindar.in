@@ -1028,6 +1028,18 @@
         "description": "Having experience in different companies is like having a treasure chest of diverse knowledge and skills, ready to be unlocked and used to conquer any challenge that comes your way.",
         "experience": [
             {
+                "logo": "./data/experience/royalEnfield1.png",
+                "name": "Royal Enfield",
+                "description": "<span class='imp mb-10'>Profile : Workshop Manager</span><br> Have 1 year of experience working as a workshop manager in royal enfield.",
+                "date": "2020"
+            },
+            {
+                "logo": "./data/experience/robogenius.png",
+                "name": "Robogenius",
+                "description": "<span class='imp mb-10'>Profile : Python Trainee</span><br> Have 1 year of experience teaching python and Django in Robogenius.",
+                "date": "2021"
+            },
+            {
                 "logo": "./data/experience/wipro.png",
                 "name": "Wipro",
                 "description": "<span class='imp mb-10'>Profile : Application Engineer</span><br>Working in Wipro as an Application engineer from 4 July 2022 till now.",
