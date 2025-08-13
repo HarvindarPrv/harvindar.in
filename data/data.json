@@ -918,9 +918,19 @@
         "description1": "Listen up, folks - the graph of learning and success is exponential! And here's a little secret: once you've got the basics and core concepts of something down pat, learning the advanced stuff will be a piece of cake. No more struggling or feeling overwhelmed - with a solid foundation in place, you'll be able to take on even the most complex concepts with ease. So, don't shy away from those advanced topics - go ahead and give them a shot! You might just surprise yourself with how much you can handle. After all, when it comes to learning and success, the sky's the limit!",
         "skills": [
             {
+                "icon": "./data/skills/word.png",
+                "name": "Ms Word",
+                "percentage": 85
+            },
+            {
                 "icon": "./data/skills/excel.png",
-                "name": "Excel",
+                "name": "Ms Excel",
                 "percentage": 80
+            },
+            {
+                "icon": "./data/skills/power point.png",
+                "name": "Power Point",
+                "percentage": 75
             },
             {
                 "icon": "./data/skills/c language.png",
