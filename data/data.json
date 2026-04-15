@@ -1077,8 +1077,8 @@
     "footer": {
         "brand": {
             "logo": {
-                "default": "data/introduction/aurhorWhite.png",
-                "lightRed": "data/introduction/aurhorWhite.png"
+                "default": "data/introduction/HarvindarSinghDark.png",
+                "lightRed": "data/introduction/HarvindarSinghLight.png"
             },
             "name": "Harry",
             "description1": "Meet me, a programming enthusiast with a strong foundation in fundamental programming concepts, who has successfully built large-scale applications using various programming languages.",
