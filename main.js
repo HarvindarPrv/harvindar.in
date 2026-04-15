@@ -1915,6 +1915,17 @@ var ThemeManager = function () {
         }
 
         root.style.setProperty("--active-theme", active_theme);
+        this.updateFavicon(active_theme);
+    }
+
+    this.updateFavicon = (themeName) => {
+        const favicon = document.getElementById("favicon");
+
+        if (!favicon) return;
+
+        favicon.href = themeName === "default"
+            ? this.jasonData.mainMenu.logo.default
+            : this.jasonData.mainMenu.logo.lightRed;
     }
 
     this.setTheme = (name) => {
@@ -1928,6 +1939,7 @@ var ThemeManager = function () {
         }
 
         root.style.setProperty("--active-theme", name);
+        this.updateFavicon(name);
     }
 
     this.getActiveTheme = () => {
