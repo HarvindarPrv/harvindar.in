@@ -1757,8 +1757,24 @@ var MessageToUser = function () {
     this.load = function (jasonData) {
         this.jasonData = jasonData;
         this.audioInstance = null;
+        this.local_storage = "harvindar_in_theme"
         this.name.innerText = this.jasonData.name;
         this.authorImage.setAttribute("src", this.jasonData.image);
+    }
+
+    this.getActiveTheme = () => {
+        // let's try fetching theme from local storage if it is there.
+        try {
+            var active_theme = localStorage.getItem(this.local_storage);
+            if (active_theme) {
+                return active_theme;
+            }
+            else {
+                return "default";
+            }
+        } catch (error) {
+            return "default"
+        }
     }
 
     this.getVoices = () => {
@@ -1796,6 +1812,21 @@ var MessageToUser = function () {
         // If already playing → ignore click
         if (this.audioInstance && !this.audioInstance.paused) {
             return;
+        }
+
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: this.jasonData.metadata.title,
+                artist: this.jasonData.metadata.artist,
+                album: this.jasonData.metadata.album,
+                artwork: [
+                    {
+                        src: this.getActiveTheme() == "default" ? this.jasonData.metadata.artwork.dark : this.jasonData.metadata.artwork.light,
+                        sizes: "512x512",
+                        type: "image/png"
+                    }
+                ]
+            });
         }
 
         // Create only once or reuse
@@ -1926,6 +1957,7 @@ var ThemeManager = function () {
             // Here loading the default theme.
             active_theme = this.jasonData["website-info"]["active-theme"]
             theme = this.jasonData.themes[active_theme]
+            localStorage.setItem(this.local_storage, active_theme);
 
         }
 

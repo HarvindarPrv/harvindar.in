@@ -1066,7 +1066,16 @@
         "name": "ɧãrvindar",
         "sayName": "Harvindar Singh",
         "audio": "./data/introduction/into.mp3",
-        "fullaudio": "./data/introduction/FullExplainInto.mp3",
+        "fullaudio": "./data/msg-to-user/FullExplainInto.mp3",
+        "metadata": {
+            "title": "Harvindar Singh",
+            "artist": "Pronunciation",
+            "album": "Portfolio",
+            "artwork": {
+                "dark": "./data/msg-to-user/dark.png",
+                "light": "./data/msg-to-user/light.png"
+            }
+        },
         "voiceType": 2,
         "speakVolume": 1,
         "speakRate": 1,
