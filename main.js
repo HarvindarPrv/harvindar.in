@@ -1756,7 +1756,7 @@ var MessageToUser = function () {
 
     this.load = function (jasonData) {
         this.jasonData = jasonData;
-
+        this.audioInstance = null;
         this.name.innerText = this.jasonData.name;
         this.authorImage.setAttribute("src", this.jasonData.image);
     }
@@ -1791,10 +1791,24 @@ var MessageToUser = function () {
     }
 
     this.playName = () => {
-        if (this.jasonData.audio) {
-            const audio = new Audio(this.jasonData.fullaudio);
-            audio.play();
+        if (!this.jasonData.audio) return;
+
+        // If already playing → ignore click
+        if (this.audioInstance && !this.audioInstance.paused) {
+            return;
         }
+
+        // Create only once or reuse
+        if (!this.audioInstance) {
+            this.audioInstance = new Audio(this.jasonData.fullaudio);
+
+            // Reset when finished
+            this.audioInstance.addEventListener("ended", () => {
+                this.audioInstance.currentTime = 0;
+            });
+        }
+
+        this.audioInstance.play();
     }
 
     this.sendEmail = () => {
