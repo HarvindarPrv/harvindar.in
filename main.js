@@ -1790,6 +1790,13 @@ var MessageToUser = function () {
         }
     }
 
+    this.playName = () => {
+        if (this.jasonData.audio) {
+            const audio = new Audio(this.jasonData.fullaudio);
+            audio.play();
+        }
+    }
+
     this.sendEmail = () => {
         window.location.href = `mailto:${this.jasonData.sayHiEmail}?subject=${this.jasonData.subject}&body=${this.jasonData.message}`;
     }
@@ -1802,7 +1809,7 @@ var MessageToUser = function () {
         this.sayHi = document.querySelector("#messageToUserSayHiButton");
 
         // Here connecting the button with function.
-        this.sayName.addEventListener("click", this.pronounceName);
+        this.sayName.addEventListener("click", this.playName);
         this.sayHi.addEventListener("click", this.sendEmail);
     }
 
